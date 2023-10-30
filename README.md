@@ -1,2 +1,1 @@
-# Uebung-syp-002
-Some Project
+# Uebung-syp-002  --  Some Project
