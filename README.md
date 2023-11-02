@@ -8,7 +8,9 @@
 
 ## Beispiel:
 
+### Initiale Situation:
 ![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/8c25ad26-6065-49b1-a1c6-14522fc14651)
-
+### Umfang:
 ![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/c1d7cb7e-4cf2-4c76-a937-dd113622f8ab)
-
+### Allgemeine Rahmenbedingungen:
+![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/02b9ff5d-9d6f-480d-88a3-f4222d455dbe)
