@@ -6,30 +6,37 @@
     ...
   - Erstellen Sie ein Project proposal
 ---------------------------------
-## Beispiel:
+## Beispiel Proposal:
 
 ### Initiale Situation:
-![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/8c25ad26-6065-49b1-a1c6-14522fc14651)
+![Example 1](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/33db546f-b191-4990-b706-20d002493818)
+
 ### Umfang:
-![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/c1d7cb7e-4cf2-4c76-a937-dd113622f8ab)
+![Example 2](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/965ff5e5-ec23-4640-a6ac-0561f9c441c1)
+
 ### Allgemeine Rahmenbedingungen:
-![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/02b9ff5d-9d6f-480d-88a3-f4222d455dbe)
+![Example 3](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/461ac657-b953-426e-b3b7-991eef3cf1f6)
+
 ### Konzepte und Ziele: 
-![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/12e4c156-8c9a-4414-a06b-c8995f4d94f3)
+![Example 4](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/a0bccfff-6433-4b68-9731-384e0a0fa8d8)
+
+### Möglichkeiten und Risiken:
+![Example 5](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/cf69e448-b35a-4434-89aa-122a1f39848c)
+
 
 ---------------------------------
 ## Das Übungsprojekt:
 
-### Initiale Situation:
 
+### Initiale Situation:
 
 ### Umfang:
 
-
 ### Allgemeine Rahmenbedingungen:
 
-
 ### Konzepte und Ziele:
+
+### Möglichkeiten und Risiken:
 
 
 ---------------------------------
