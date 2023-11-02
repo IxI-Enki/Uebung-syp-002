@@ -1,11 +1,11 @@
 # Uebung-syp-002  --  Some Project
 
-## Angabe:
+## Aufgabe:
   - Überlegen Sie sich ein Projekt
     denken Sie an den Usecase
     ...
   - Erstellen Sie ein Project proposal
-
+---------------------------------
 ## Beispiel:
 
 ### Initiale Situation:
@@ -16,5 +16,24 @@
 ![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/02b9ff5d-9d6f-480d-88a3-f4222d455dbe)
 ### Konzepte und Ziele: 
 ![image](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/12e4c156-8c9a-4414-a06b-c8995f4d94f3)
+
+---------------------------------
+## Das Übungsprojekt:
+
+### Initiale Situation:
+
+
+### Umfang:
+
+
+### Allgemeine Rahmenbedingungen:
+
+
+### Konzepte und Ziele:
+
+
+---------------------------------
+
+
 
 
