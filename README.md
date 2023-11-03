@@ -1,5 +1,5 @@
 # Uebung-syp-002  --  Some Project
-
+---------------------------------
 ## ASSIGNMENT:
   - Think of a usefull Project
   - Output a Project Proposal
@@ -11,18 +11,18 @@
 ###### https://github.com/IxI-Enki/Uebung-syp-002/blob/main/ExampleProposal.pdf
 
 ---------------------------------
-## Das Übungsprojekt:
+## THE HOMEWORK PROPOSAL:
 
 
-### Initiale Situation:
+### Initial Situation:
 
-### Umfang:
+### Content:
 
-### Allgemeine Rahmenbedingungen:
+### General Conditions and Constraints:
 
-### Konzepte und Ziele:
+### Project Objectives and Sxstem Concepts:
 
-### Möglichkeiten und Risiken:
+### Opportunities and Risks:
 
 
 ---------------------------------
