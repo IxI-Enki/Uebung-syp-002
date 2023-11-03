@@ -14,6 +14,9 @@
 
 ## THE HOMEWORK PROJECT PROPOSAL:
 ###### https://github.com/IxI-Enki/Uebung-syp-002/blob/main/TheHomeworkProposal.md
+##### Creators: 
+######    Jan_Ritt        - Git: IxI-Enki
+######    Daniel_Binder   - Git: DBsMOJO
 
 ---------------------------------
 
