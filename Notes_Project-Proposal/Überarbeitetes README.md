@@ -1,3 +1,6 @@
+
+![logo](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/ea83d106-c343-4e65-ab7d-f0c982cbfa6b)
+
 # Ausgangssituation, Gelegenheit:
 
 - Wir sind von Geburt an neugierige Forscher und Entdecker.
