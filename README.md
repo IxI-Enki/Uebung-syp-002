@@ -1,4 +1,4 @@
-# Uebung-syp-002  --  Some Project
+# Uebung-syp-002  --  Dinobook
 ---------------------------------
 ## ASSIGNMENT:
   - Think of a usefull Project
