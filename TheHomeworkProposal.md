@@ -1,4 +1,4 @@
-## THE HOMEWORK PROPOSAL
+## THE HOMEWORK PROPOSAL -- DinoBook
 ##### Creators: 
 ######    Jan_Ritt        - Git: IxI-Enki
 ######    Daniel_Binder   - Git: DBsMOJO
@@ -9,17 +9,24 @@
 
 # Ausgangssituation, Gelegenheit:
 
+- Wir wollen eine Platform bieten die das Lernen von klein auf interessanter und zugänglicher gestaltet, denn .. 
 - Wir sind von Geburt an neugierige Menschen, Lernende, Forscher und Entdecker.
-- Der Traum, die Welt mit neuen Entdeckungen zu begeistern, bleibt genauso gegenwärtig, wie die Befriedigung Neues gefunden, gelernt und verstanden zu haben.
-- 
-- Nicht jeder ist ein zertifizierter Wissenschaftler, aber der Forschungsdrang ist allgegenwärtig.
-- Soziale Medien bieten Plattformen für Hobby-Entdecker, und der Markt bietet "halbwissenschaftliche" Ausrüstung.
-- Die Idee ist, Hobby-Wissenschaftler mit der Wissenschaft zu verbinden, um Projekte, Wissen und Interessen zu teilen.
+- Der Traum, die Welt mit neuen Entdeckungen zu begeistern, bleibt genauso gegenwärtig, wie die Befriedigung Neues gefunden, gelernt und verstanden zu haben, und ..
 
+- Nicht jeder ist ein zertifizierter Wissenschaftler, aber der Forschungsdrang und das Verlangen Wissen zu aquirieren ist allgegenwärtig.
+- Soziale Medien bieten Plattformen für Hobby-Entdecker, und der Markt bietet "halbwissenschaftliche" Ausrüstung, oder "versteckt" akademische Forschungen hinter Paywalls..
+- Die Idee ist, Hobby-Wissenschaftler mit der Wissenschaft zu verbinden, um Projekte, Wissen und Interessen zu teilen und aber auch zu wecken..
+
+# Ziel:
+- Die beste Lernplattform für individuelles, kollaboratives und eigenverantwortliches Lernen, für alle Altersgruppen und Akademische "Level", vom Hobby zum Doktor...
+elerisch auszuweiten.
+- Auf das User-Erlebnis, Zugänglichkeit, Einfachheit und Community ausgelegtes spielerisches Lernen  ..
+- möglicherweise sogar den Suchtfraktor, den 'Soziale Medien' nahezu perfektioniert haben, auf den Erwerb von Wissen und Kompetenzen zu erweitern,
+
+  
 # Konzept:
-- Die beste Lernplattform für individuelles, kollaboratives und eigenverantwortliches Lernen.
-- User sollen nach ihrem Wissenstand und Interessengebieten eingeteilt werden können um von dort abgeholt werden um ihre jeweiligen Interessen spielerisch auszuweiten.
-- Fokus auf User-Erlebnis und Community.
+- User sollen nach ihrem Wissenstand und Interessengebieten eingeteilt werden können um von dort abgeholt werden um ihre jeweiligen Interessen spi
+
   
 # Planung: 
 
