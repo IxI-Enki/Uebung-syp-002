@@ -9,15 +9,20 @@
 
 # Ausgangssituation, Gelegenheit:
 
-- Wir sind von Geburt an neugierige Forscher und Entdecker.
-- Der Traum, die Welt mit Entdeckungen zu begeistern, bleibt lebendig.
+- Wir sind von Geburt an neugierige Menschen, Lernende, Forscher und Entdecker.
+- Der Traum, die Welt mit neuen Entdeckungen zu begeistern, bleibt genauso gegenwärtig, wie die Befriedigung Neues gefunden, gelernt und verstanden zu haben.
+- 
 - Nicht jeder ist ein zertifizierter Wissenschaftler, aber der Forschungsdrang ist allgegenwärtig.
 - Soziale Medien bieten Plattformen für Hobby-Entdecker, und der Markt bietet "halbwissenschaftliche" Ausrüstung.
 - Die Idee ist, Hobby-Wissenschaftler mit der Wissenschaft zu verbinden, um Projekte, Wissen und Interessen zu teilen.
 
-# Planung und Konzept:
-
+# Konzept:
+- Die beste Lernplattform für individuelles, kollaboratives und eigenverantwortliches Lernen.
+- User sollen nach ihrem Wissenstand und Interessengebieten eingeteilt werden können um von dort abgeholt werden um ihre jeweiligen Interessen spielerisch auszuweiten.
 - Fokus auf User-Erlebnis und Community.
+  
+# Planung: 
+
 - Infrastruktur und laufende Administration sind IT-relevant.
 - Frontend (Website), Backend (Serverseite) und Datenbanken sind notwendig.
 - Standardisierte Lösungen sparen Kosten/Zeit, Cloud-Entwicklung senkt Risiken.
@@ -26,11 +31,20 @@
 - Modulare Software ermöglicht effiziente Umsetzung.
 - Projektrealisierung und Online-Gang in {fantasieVariable} Monaten möglich.
 
+# User Erlebnis:
+
+- User sollen mögli
+
 # Finanzierung:
 
 - Nutzen für Finanzgeber: Überzeugung durch eigene Nutzung der Plattform.
 - Plattform richtet sich an die Öffentlichkeit mit klarem Bildungsauftrag.
 - Potenzielle Finanzgeber: Öffentliche Hand, Bildungsinteressierte.
+
+# Der Markt:
+
+- Ähnliche Idee: https://www.chabadoo.com/
+  - chabadoo bietet: 
 
 # Team:
 
