@@ -18,8 +18,7 @@
 - Die Idee ist, Hobby-Wissenschaftler mit der Wissenschaft zu verbinden, um Projekte, Wissen und Interessen zu teilen und aber auch zu wecken..
 
 # Ziel:
-- Die beste Lernplattform für individuelles, kollaboratives und eigenverantwortliches Lernen, für alle Altersgruppen und Akademische "Level", vom Hobby zum Doktor...
-elerisch auszuweiten.
+- Die beste Lernplattform für individuelles, kollaboratives und eigenverantwortliches Lernen, für alle Altersgruppen und Akademische "Level", vom Enthusiasten zum Doktor...
 - Auf das User-Erlebnis, Zugänglichkeit, Einfachheit und Community ausgelegtes spielerisches Lernen  ..
 - möglicherweise sogar den Suchtfraktor, den 'Soziale Medien' nahezu perfektioniert haben, auf den Erwerb von Wissen und Kompetenzen zu erweitern,
 
