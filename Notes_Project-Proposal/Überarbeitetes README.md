@@ -1,5 +1,6 @@
 
-![logo](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/ea83d106-c343-4e65-ab7d-f0c982cbfa6b)
+![LOGO](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/cbe37359-d774-45b9-8e3b-9de0a1ef55ed)
+
 
 # Ausgangssituation, Gelegenheit:
 
