@@ -16,7 +16,7 @@
 ![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
 
 
-## Rahmenbedingunge
+## Rahmenbedingung
 
 In der gesamten Menschheitsgeschichte stand uns noch nie eine derart umfangreiche Informationsressource in einer so beeindruckenden Geschwindigkeit zur Verfügung. Dieser "Big-Data-Boom" stellt nicht nur die IT vor Herausforderungen; auch das Bildungsangebot ist umfangreich geworden, ja, schon fast nicht mehr überschaubar.
 
