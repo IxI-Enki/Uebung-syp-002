@@ -6,7 +6,8 @@
       https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  ------------------------------------------------------------------->
  
- ## THE HOMEWORK PROPOSAL -- Education Hub
+# ***Education Hub***
+
 > Creators: 
 >    Jan_Ritt        - Git: IxI-Enki  
 >    Daniel_Binder   - Git: DBsMOJO  
@@ -16,7 +17,7 @@
 ![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
 
 
-## Rahmenbedingung
+# **Rahmenbedingung**
 
 In der gesamten Menschheitsgeschichte stand uns noch nie eine derart umfangreiche Informationsressource in einer so beeindruckenden Geschwindigkeit zur Verfügung. Dieser "Big-Data-Boom" stellt nicht nur die IT vor Herausforderungen; auch das Bildungsangebot ist umfangreich geworden, ja, schon fast nicht mehr überschaubar.
 
@@ -31,7 +32,9 @@ Ist man weiterhin noch nicht ans Ziel gekommen, dann versucht man es doch noch i
 Bildung sollte einfach sein!
 Alter wiener Spruch: "Wieso einfach, wenn es auch kompliziert geht?"
 
-## EducationHub - der Umschlagplatz für Bildung
+
+
+# ***EducationHub - der Umschlagplatz für Bildung***
 
 EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden – nicht nur für den User, sondern auch für den Content Creator.
 
@@ -45,11 +48,15 @@ Damit der Lehrerfolg im Eifer über die großartige neue Website nicht komplett 
 
 Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.
 
-## Budget
+
+
+# *Budget*
 
 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.
 
-## Organisatorische Bedienungen
+
+
+# ***Organisatorische Bedienungen***
 
 Es ist unerlässlich, eine robuste Infrastruktur zu schaffen und diese kontinuierlich zu administrieren. Dazu gehören sowohl das Frontend (Website) als auch das Backend (Serverseite) sowie zusätzliche Datenbanken. In einem ersten Schritt bieten wir Content Creators eine vielseitige Auswahl an Mustern und erweitern das Angebot kontinuierlich.
 
@@ -57,7 +64,9 @@ Die Website kann auf suggestivem Wege ihren Funktionsumfang erweitern und wird k
 
 Durch eine skalierbare Cloud-Entwicklung können bei der Umsetzung sowohl Kosten als auch Risiken minimiert werden. Klug eingesetzte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
 
-## Technische Bedienungen
+
+
+# ***Technische Bedienungen***
 
 Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden. Auf diese Weise bleibt sie dynamisch, spannend, und die Kosten passen sich präzise dem Erfolg der Website an.
 
@@ -65,7 +74,9 @@ Die Umsetzung einer solchen Lernplattform erfordert umfassende Kenntnisse im Ber
 
 Durch eine skalierbare Cloud-Entwicklung können bei der Realisierung sowohl Kosten als auch Risiken effektiv minimiert werden. Durchdachte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
 
-## Chancen und Risiken
+
+
+# ***Chancen und Risiken***
 
 In diesem ambitionierten Rahmen bieten sich sowohl vielversprechende Chancen als auch potenzielle Risiken. Die zunehmende Dynamik und Attraktivität der Website ermöglichen es, die Bildungsplattform kontinuierlich zu verbessern und an die Bedürfnisse der Nutzer anzupassen. Die flexiblen Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung, bieten eine kosteneffiziente und risikoarme Realisierung.
 
