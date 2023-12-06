@@ -8,14 +8,15 @@
  
 # ***Education Hub***
 
-> Creators: 
->    Jan_Ritt        - Git: IxI-Enki  
->    Daniel_Binder   - Git: DBsMOJO  
+> **Creators**: 
+>    *Jan_Ritt*        - Git: IxI-Enki  
+>    *Daniel_Binder*   - Git: DBsMOJO  
 
 ---------------------------------
 
 ![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
 
+---
 
 # **Rahmenbedingung**
 
@@ -32,7 +33,7 @@ Ist man weiterhin noch nicht ans Ziel gekommen, dann versucht man es doch noch i
 Bildung sollte einfach sein!
 Alter wiener Spruch: "Wieso einfach, wenn es auch kompliziert geht?"
 
-
+---
 
 # ***EducationHub - der Umschlagplatz für Bildung***
 
@@ -48,13 +49,13 @@ Damit der Lehrerfolg im Eifer über die großartige neue Website nicht komplett 
 
 Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.
 
-
+---
 
 # *Budget*
 
 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.
 
-
+---
 
 # ***Organisatorische Bedienungen***
 
@@ -64,7 +65,7 @@ Die Website kann auf suggestivem Wege ihren Funktionsumfang erweitern und wird k
 
 Durch eine skalierbare Cloud-Entwicklung können bei der Umsetzung sowohl Kosten als auch Risiken minimiert werden. Klug eingesetzte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
 
-
+---
 
 # ***Technische Bedienungen***
 
@@ -74,7 +75,7 @@ Die Umsetzung einer solchen Lernplattform erfordert umfassende Kenntnisse im Ber
 
 Durch eine skalierbare Cloud-Entwicklung können bei der Realisierung sowohl Kosten als auch Risiken effektiv minimiert werden. Durchdachte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
 
-
+---
 
 # ***Chancen und Risiken***
 
