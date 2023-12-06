@@ -6,7 +6,8 @@
       https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
  ------------------------------------------------------------------->
  
- ### Uebung-syp-002  --  Project Proposal
+### Uebung-syp-002  --  Project Proposal  
+![LOGO2](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/a9918ee7-b8e5-44a5-b4b9-91cdc2ba4f5b)
 
 # Education Hub
 
