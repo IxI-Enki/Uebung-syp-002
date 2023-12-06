@@ -8,6 +8,8 @@
  
  ### Uebung-syp-002  --  Project Proposal
 
+![LOGO](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
+
 # Education Hub
 
 > Vollständiges [Proposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/TheHomeworkProposal.md)
