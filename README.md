@@ -1,4 +1,7 @@
-# Uebung-syp-002  --  Dinobook
+### Uebung-syp-002  --  Project Proposal
+
+# Education Hub
+
 ---------------------------------
 ## ASSIGNMENT:
   - Think of a usefull Project
