@@ -20,7 +20,7 @@
 ##### Creators: 
 ######    Jan_Ritt        - Git: IxI-Enki
 ######    Daniel_Binder   - Git: DBsMOJO
-######    Imre_Obermüller - Git: Imre7777
+######    Imre_Obermüller - Git: Imre7777  *
 
 ---------------------------------
 
