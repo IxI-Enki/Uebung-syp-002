@@ -16,8 +16,7 @@
 ##### Creators: 
 > Jan_Ritt        - Git: IxI-Enki  
 > Daniel_Binder   - Git: DBsMOJO  
-> (Imre_Obermüller - Git: Imre7777  *)  
-
+> Imre_Obermüller - Git: Imre7777
 
 ---------------------------------
 ## ASSIGNMENT:
@@ -29,12 +28,6 @@
 ###### https://github.com/IxI-Enki/Uebung-syp-002/blob/main/TasksToDoForAProposal.pdf
 #### Example Proposal:
 ###### https://github.com/IxI-Enki/Uebung-syp-002/blob/main/ExampleProposal.pdf
-
----------------------------------
-
-
-
----------------------------------
 
 
 
