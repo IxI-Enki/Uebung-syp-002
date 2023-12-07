@@ -1,24 +1,26 @@
-<!-------------------------------------------------------------------  
- - MARKDOWN - Cheatsheets:  
-    Getting started:
-      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-    Basic github formatting syntax:  
-      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
- ------------------------------------------------------------------->
- 
-### Uebung-syp-002  --  Project Proposal  
-![LOGO2](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/a9918ee7-b8e5-44a5-b4b9-91cdc2ba4f5b) 
+<!--🧭----------------------------------------------------------------------------------------------------------------------------------       
+    📕Cheatsheets:     https://github.com/skills  
+    📙Get started:     https://docs.github.com/en/get-started  
+    📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
+    📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 
-# Education Hub
+--------------------------------------------------------------------------------------------------------------------------------------->
+  ⊰⊱⊳⋆⋅⊹⋄•*⁕⁎·‣º⚙
+![Education Hub Logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/EduHub%5Blogo%5D.png)  
 
-> Vollständiges [Proposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)
+# **Project Proposal**: ***Education Hub***  
 
-##### Creators: 
-> Jan_Ritt        - Git: IxI-Enki  
-> Daniel_Binder   - Git: DBsMOJO  
-> Imre_Obermüller - Git: Imre7777
+> - Vollständiges [Proposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
 
----------------------------------
+##### Creators:  
+> Jan_Ritt        - Git: @IxI-Enki  
+> Daniel_Binder   - Git: @DBsMOJO  
+> Imre_Obermüller - Git: @Imre7777  
+
+
+
+---------------------------------  
+
 ## ASSIGNMENT:
   - Think of a usefull Project
   - Output a Project Proposal
