@@ -1,11 +1,11 @@
-<!--🧭----------------------------------------------------------------------------------------------------------------------------------       
+<!-------------------------------------------------------------------------------------------------------------------------------------       
     📕Cheatsheets:     https://github.com/skills  
     📙Get started:     https://docs.github.com/en/get-started  
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 
 --------------------------------------------------------------------------------------------------------------------------------------->
-  ⊰⊱⊳⋆⋅⊹⋄•*⁕⁎·‣º⚙
+
 ![Education Hub Logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/EduHub%5Blogo%5D.png)  
 
 # **Project Proposal**: ***Education Hub***  
