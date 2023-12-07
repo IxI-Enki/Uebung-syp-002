@@ -9,7 +9,7 @@
 
 ---
 
-# **Project**: ***Education Hub***  
+# <sup> *Project* </sup> : ***Education Hub***  
 
 > [!IMPORTANT]
 > **Hier geht es zum** [ ***Proposal*** ](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
