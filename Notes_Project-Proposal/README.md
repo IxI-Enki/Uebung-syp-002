@@ -1,17 +1,38 @@
-#### Notizen ( Jan )
--- too complex
----
-### Notizen ( Daniel )
--- 
-# SYP Projekt
+<!--🧭----------------------------------------------------------------------------------------------------------------------------------  
+    📕Cheatsheets:     https://github.com/skills  
+    📙Get started:     https://docs.github.com/en/get-started  
+    📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
+    📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 
-## Ausgangssituation, Gelegenheit
+--------------------------------------------------------------------------------------------------------------------------------------->  
 
-Von Geburt an sind wir kleine Forscher und Entdecker und träume davon die Welt mit unseren Entdeckungen zu begeistern. Für manche ist dieser Traum derart groß, sodass sie im Erwachsenenalter ihren ganzen Enthusiasmus in ein aufwendiges Studium der Wissenschaft packen. Nun ist nicht jeder von uns heute ein zertifizierter Wissenschaftler doch heißt das nicht, dass dieser Forschungsdrang nun obsolet geworden ist. Eine schier unendliche Ansammlung an Videomaterial, Dokumentationen und Publikation zeigt davon, dass es gar mehr als nur ein menschliches Bedürfnis ist zu forschen, entdecken und zu teilen.
-Sei es nun mit einem Metalldetektor oder mit einer Magnetangel, in den Sozialen Medien fällt man als Hobby Entdecker meist positiv auf, sodass der Markt bereits schon günstige Angebote offerieren kann an "halbwissenschaftliches" Equipment zu kommen.
-Diese nun gut ausgerüsteten Hobby Forscher mit der Wissenschaft in Berührung zu bringen wäre nun keine neue Idee. Die Archäologie ladet bereits schon heute die Menschen dazu ein an Grabungsarbeiten teilzunehmen, Fossilien selbstständig zu suchen und bietet im Internet mit nur wenigen Klicks an sich bei ihnen zu melden.
-Was aber eine ganz neue Idee wäre, wäre es die Wissenschaft mit den Hobby-Wissenschaftler einen Raum zu geben, ihre Projekte, ihr Wissen, ihr Interesse miteinander zu teilen. Es den Interessierten noch leichter zu machen eine Community zu finden, seine Projekte einem durchaus Interessierten Publikum vorzustellen, die neusten Entdeckungen vor allen anderen aus erster Hand zu erfahren und Likes dafür zu generieren. Freundschaften zu knöpfen, sich verabreden, universitäre Projektgruppen zu abonnieren, um davon zu träumen künftig ähnliche Funde selber zu machen.
-Die Universität hätte nun mehr als nur ein Angebot sich zu melden, sondern stünde selber inmitten in einer Community ihres Gleichen, wo bereits der Forschungsdrang alleine diesen Motor antreibt. Win-Win für alle!
+> [!NOTE]
+> ### *Ablage für* ***Notizen***, ***Ideen*** *&* ***Überlegungen***  
+---  
+
+<!-- <details>  -->
+ <summary> Ausgangssituation & Möglichkeiten </summary>  
+       
+### **Ausgangssituation & Möglichkeiten**:  
+
+*Von Geburt an sind wir kleine Forscher und Entdecker und träumen davon die Welt mit unseren Entdeckungen zu begeistern.*  
+*Für Manche ist dieser Traum derart groß, sodass sie im Erwachsenenalter ihren ganzen Enthusiasmus in ein aufwendiges Studium der Wissenschaft packen..*  
+
+Nun ist nicht jeder von uns heute ein zertifizierter Wissenschaftler doch heißt das nicht, dass dieser Forschungsdrang nun obsolet geworden ist. 
+Eine schier unendliche Ansammlung an Videomaterial, Dokumentationen und Publikation zeigt davon, 
+dass es gar mehr als nur ein menschliches Bedürfnis ist zu forschen, entdecken und zu teilen.
+Sei es nun mit einem Metalldetektor oder mit einer Magnetangel, in den Sozialen Medien fällt man als Hobby Entdecker meist positiv auf, 
+sodass der Markt bereits schon günstige Angebote offerieren kann an "halbwissenschaftliches" Equipment zu kommen.*
+
+*Diese nun gut ausgerüsteten Hobby Forscher mit der Wissenschaft in Berührung zu bringen wäre nun keine neue Idee. Die Archäologie ladet bereits schon heute die Menschen dazu ein an Grabungsarbeiten teilzunehmen, Fossilien selbstständig zu suchen und bietet im Internet mit nur wenigen Klicks an sich bei ihnen zu melden.
+Was aber eine ganz neue Idee wäre, wäre es die Wissenschaft mit den Hobby-Wissenschaftler einen Raum zu geben,ihre Projekte, ihr Wissen, ihr Interesse miteinander zu teilen.
+Es den Interessierten noch leichter zu machen eine Community zu finden, seine Projekte einem durchaus Interessierten Publikum vorzustellen, 
+die neusten Entdeckungen vor allen anderen aus erster Hand zu erfahren und Likes dafür zu generieren.
+Freundschaften zu knöpfen, sich verabreden, universitäre Projektgruppen zu abonnieren, um davon zu träumen künftig ähnliche Funde selber zu machen.
+Die Universität hätte nun mehr als nur ein Angebot sich zu melden, sondern stünde selber inmitten in einer Community ihres Gleichen, 
+wo bereits der Forschungsdrang alleine diesen Motor antreibt.* 
+***Win-Win für alle!***
+</details>
 
 ## Planung und Konzept
 
