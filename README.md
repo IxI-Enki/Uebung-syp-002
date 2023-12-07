@@ -7,6 +7,8 @@
 
 ![Education Hub Logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/EduHub%5Blogo%5D.png)  
 
+---
+
 # **Project**: ***Education Hub***  
 
 > [!IMPORTANT]
@@ -19,11 +21,10 @@
 >   | Daniel Binder | @DBsMOJO |
 >   | Imre Obermüller | @Imre7777 |  
 
-
----  
+---
 
 > [!TIP]
-> <details><summary> Anforderungen und Beispiele </summary>  
+> <details><summary> Anforderungen & Beispiele: </summary>  
 >  
 >  ##### General Things to Think About:  https://github.com/IxI-Enki/Uebung-syp-002/blob/main/GeneralOverviewOfAProposal.pdf  
 >  
@@ -32,4 +33,4 @@
 >  ##### Example Proposal:  https://github.com/IxI-Enki/Uebung-syp-002/blob/main/ExampleProposal.pdf  
 </details>  
 
----  
+
