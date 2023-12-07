@@ -4,11 +4,13 @@
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
-
+                                          we are placeholder, guarding a wall of text
 ![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
 
 ---
 
+<!--     Einmal gegengelesen, noch nicht kombiniert oder ausgearbeitet -->
+<!-- 
 # **Rahmenbedingung**
 
 In der gesamten Menschheitsgeschichte stand uns noch nie eine derart umfangreiche Informationsressource in einer so beeindruckenden Geschwindigkeit zur Verfügung. Dieser "Big-Data-Boom" stellt nicht nur die IT vor Herausforderungen; auch das Bildungsangebot ist umfangreich geworden, ja, schon fast nicht mehr überschaubar.
@@ -76,3 +78,4 @@ Die Chancen liegen in der fortschreitenden Erweiterung des Funktionsumfangs und 
 
 Jedoch bergen auch diese vielversprechenden Perspektiven ihre eigenen Risiken. Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen. Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein. Eine kluge und vorausschauende Strategie wird daher essenziell sein, um die Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
 
+-->
