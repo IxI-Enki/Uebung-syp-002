@@ -26,14 +26,16 @@
 
 ---  
 
+### Notizen #1 
 <details>
-<summary> Notizen & Ideen #1 </summary>  
- 
- - Bullet Points:
-    <details>
-        
+<summary> Die Idee: </summary>  
+   
+- Bulletpoints:
+
+  <details>
+   
     ```   
-     # 1)
+    # 1)
     - Wir sind von Geburt an neugierige Forscher und Entdecker.
     - Der Traum, die Welt mit Entdeckungen zu begeistern, bleibt lebendig.
     - Nicht jeder ist ein zertifizierter Wissenschaftler, aber der Forschungsdrang ist allgegenwärtig.
@@ -116,17 +118,21 @@ wo bereits der Forschungsdrang alleine diesen Motor antreibt.*
 
 ---
 
+### Notizen #2
 <details>
-<summary> Notizen & Ideen #2 </summary>  
- 
- - Bullet Points:
-    <details>
+<summary> Die Idee: </summary>  
+   
+- Bulletpoints:
 
-    ```
+     <details>
+         
+         ```
+         
+         ```
     
-    ```
+    </details>
     
-## Rahmenbedingunge
+## Rahmenbedingung
 
 In der gesamten Menschheitsgeschichte stand uns noch nie eine derart umfangreiche Informationsressource in einer so beeindruckenden Geschwindigkeit zur Verfügung. Dieser "Big-Data-Boom" stellt nicht nur die IT vor Herausforderungen; auch das Bildungsangebot ist umfangreich geworden, ja, schon fast nicht mehr überschaubar.
 
