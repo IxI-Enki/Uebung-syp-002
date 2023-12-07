@@ -11,8 +11,7 @@
 >
 
 
-- Die nächsten Schritte:
-  #### ***Aufgaben:***
+- ## ***Die nächsten Aufgaben:***
   - [ ] Projekt anlegen
   - [ ] Team einladen
   - [ ] Marktforschungsordner
