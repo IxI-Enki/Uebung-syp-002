@@ -1,18 +1,9 @@
-<!-------------------------------------------------------------------  
- - MARKDOWN - Cheatsheets:  
-    Getting started:
-      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-    Basic github formatting syntax:  
-      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
- ------------------------------------------------------------------->
- 
-# ***Education Hub***
-
-> **Creators**: 
->    *Jan_Ritt*        - Git: IxI-Enki  
->    *Daniel_Binder*   - Git: DBsMOJO  
-
----------------------------------
+<!-------------------------------------------------------------------------------------------------------------------------------------       
+    📕Cheatsheets:     https://github.com/skills  
+    📙Get started:     https://docs.github.com/en/get-started  
+    📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
+    📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
+--------------------------------------------------------------------------------------------------------------------------------------->
 
 ![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
 
