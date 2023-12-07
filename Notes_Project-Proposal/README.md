@@ -27,8 +27,40 @@
 ---  
 
 <details>
-<summary> erste Notizen / Ideen </summary>  
-       
+<summary> Die erste Notizen & Ideen </summary>  
+ 
+ - Bullet Points:
+    <details>
+        
+    ```   
+     # 1)
+    - Wir sind von Geburt an neugierige Forscher und Entdecker.
+    - Der Traum, die Welt mit Entdeckungen zu begeistern, bleibt lebendig.
+    - Nicht jeder ist ein zertifizierter Wissenschaftler, aber der Forschungsdrang ist allgegenwärtig.
+    - Soziale Medien bieten Plattformen für Hobby-Entdecker, und der Markt bietet "halbwissenschaftliche" Ausrüstung.
+    - Die Idee ist, Hobby-Wissenschaftler mit der Wissenschaft zu verbinden, um Projekte, Wissen und Interessen zu teilen.
+
+    # 2)
+    - Fokus auf User-Erlebnis und Community.
+    - Infrastruktur und laufende Administration sind IT-relevant.
+    - Frontend (Website), Backend (Serverseite) und Datenbanken sind notwendig.
+    - Standardisierte Lösungen sparen Kosten/Zeit, Cloud-Entwicklung senkt Risiken.
+    - Werbehonorar anfangs klein halten, mit Universitäten zusammenarbeiten.
+    - Kostenoptimierung durch Auslagerung von Teilen an spezialisierte Firmen.
+    - Modulare Software ermöglicht effiziente Umsetzung.
+    - Projektrealisierung und Online-Gang in {fantasieVariable} Monaten möglich.
+
+    # 3)
+    - Nutzen für Finanzgeber: Überzeugung durch eigene Nutzung der Plattform.
+    - Plattform richtet sich an die Öffentlichkeit mit klarem Bildungsauftrag.
+    - Potenzielle Finanzgeber: Öffentliche Hand, Bildungsinteressierte.
+
+    # 4)
+    - Hochmotiviertes und professionelles Team.
+    - Arbeitsgemeinschaft als Grundlage für das Projekt.
+    ```
+    </details>
+
 ### **Ausgangssituation & Möglichkeiten**:  
 
 *Von Geburt an sind wir kleine Forscher und Entdecker und träumen davon die Welt mit unseren Entdeckungen zu begeistern.*  
