@@ -10,19 +10,21 @@
 > ***Checklisten***  
 >
 
-<details><summary> Die nächsten Schritte: </summary>  
 
-#### ***Aufgaben:***  
-> - [ ] Projekt anlegen
-> - [ ] Team einladen
-> - [ ] Marktforschungsordner
-> - [ ] Bulletpoints
-> - [ ] Struktur verbessern
-> - [ ] Rechtschreibung überprüfen
-> - [ ] Tags zum abgeben erstellen
-> - [ ] ...
+- Die nächsten Schritte:
+  #### ***Aufgaben:***
+  - [ ] Projekt anlegen
+  - [ ] Team einladen
+  - [ ] Marktforschungsordner
+  - [ ] Bulletpoints
+  - [ ] Notizen zum fertigen Proposal formen/kombinieren > 
+        [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)
+  - [ ] Struktur verbessern
+  - [ ] Rechtschreibung überprüfen
+  - [ ] Tags zum abgeben erstellen
+  - [ ] ...
 
-</details>
+
 
 ---  
 
