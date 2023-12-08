@@ -12,9 +12,9 @@
 
 
 - ## ***Die nächsten Aufgaben:***
-  - [x] Projekt anlegen
-  - [x] Team einladen
-  - [x] Marktforschungsordner
+  - [✅] Projekt anlegen
+  - [✅] Team einladen
+  - [✅] Marktforschungsordner
   - [ ] Bulletpoints
   - [ ] Notizen zum fertigen Proposal formen/kombinieren > 
         [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)
