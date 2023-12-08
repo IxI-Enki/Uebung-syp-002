@@ -5,7 +5,7 @@
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
 
-![Logo-Test](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/spark%5Blogo%5D.jpg)  
+![Logo-small](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/eduHub-spark%5Blogo-small%5D.jpg)  
 
 ---
 
