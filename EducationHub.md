@@ -114,7 +114,7 @@
   > - ***ablenkende Werbungen***   
   >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
   
-  ### ❗ Bildung sollte einfach sein!  
+  ### ❗ Bildung sollte einfach sein❗   
 
 ---
 
