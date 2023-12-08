@@ -5,7 +5,7 @@
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
                                           we are placeholder, guarding a wall of text
-![logo](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/LOGO2.png)  
+![2Lamasu](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/LOGO2.png)  
 
 ---
 
