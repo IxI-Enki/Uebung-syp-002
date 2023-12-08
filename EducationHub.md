@@ -7,17 +7,49 @@
                                           we are placeholder, guarding a wall of text
 ![2Lamasu](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/LOGO2.png)  
 
----
-
 <!--     Einmal gegengelesen, noch nicht kombiniert oder ausgearbeitet -->
+
 <!-- 
 # **Rahmenbedingung**
+# Ⅱ
+-->
 
-In der gesamten Menschheitsgeschichte stand uns noch nie eine derart umfangreiche Informationsressource in einer so beeindruckenden Geschwindigkeit zur Verfügung. Dieser "Big-Data-Boom" stellt nicht nur die IT vor Herausforderungen; auch das Bildungsangebot ist umfangreich geworden, ja, schon fast nicht mehr überschaubar.
+---  
 
-Es überrascht keinen mehr, dass YouTube neben Katzenvideos, Trash-Contant und Werbung die erste Anlaufstelle für Erstinformationen ist.
+# Ⅰ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
 
-*Die Entscheidung, ob ein Video wirklich geeignet ist, kann man nicht allein anhand von Likes treffen. Man möchte es zwar anklicken, wird jedoch zunächst von algorithmischer Werbung unterbrochen, wie zum Beispiel für  Kräuter-Bonbons – vermutlich, um die Nerven zu beruhigen...*
+---
+  
+## 👼🏻 Der *Mensch zeichnete sich* schon immer *durch seine* ***Neugier*** *aus* :
+
+ - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.
+ - Deshalb gaben wir uns den Namen : **Homo sapiens**<sub> lat. </sub>  
+    > verstehender, verständiger bzw. weiser, gescheiter, kluger, vernünftiger Mensch
+
+--- 
+
+## 📚 Das *Bildungsangebot* ist *umfangreich* geworden; schon *fast unüberschaubar* :  
+
+   - In der gesamten Menschheitsgeschichte stand uns **noch nie** eine ***so umfangreiche Informationsressource*** zur Verfügung.
+   - *Theoretisch* kann ***jedes Individuum*** darauf **zugreifen**.
+     > praktisch ergeben sich **Verteilungsschwierigkeiten** durch unsere *zivilisatorischen Errungenschaften* wie **institutionelle Strukturen**;  
+     >  - **Machthierachien** - die ihren Einfluss behalten wollen;  
+     >  - **Unfaire Verteilung** von *Zahlungsmitteln* - die oft unüberwindbare Hürden darstellen;  
+     >  - Unterschiedliche **Schulen** und **Schulsystemen** - die *darauf ausgelegt* sind, ***keine der oben genannten Punkte in Frage zu stellen***.  
+   - Dieser *"Boom"* **stellt nicht nur** die **IT vor Herausforderungen**.  
+
+- Die ersten Anlaufstellen, um Informationen zu finden:  
+
+      • Traditionelle Suchmaschinen (Google & Co.)
+      • Spezifizierte Suchmaschinen (Wikipedia & Co.)
+      • Videoplattformen (YouTube & Co.)
+      • Soziale Medien (Facebook, Twitter & Co.)
+
+  - Die gefundenen Informationen einzuordnen, ist für Plattformen bereits schwierig; 
+    für den Endbenutzer - ohne Vorwissen - praktisch unmöglich:  
+
+        • Die Entscheidung, ob ein Artikel/Website/Video wirklich geeignet ist (oder überhaupt zu finden),
+            treffen Plattformen und deren Alorithmen, in diesen Algorithmen spielen eventuell die Bewertungen der Benutzer eine Rolle,
 
 Ansonsten bleibt den Nutzern nur mehr die Möglichkeit, die Suchmaschine ihres Vertrauens zu starten und das World Wide Web auf eigener Faust  zu durchforsten, sich mit verschiedenen zweiphasigen Logins auseinander zu setzen, sich durch überladene Texte zu wühlen, jeder Spur zweimal nachzugehen, um wieder festzustellen: Man könnte ja doch noch  die nächste Website ausprobieren.
 
