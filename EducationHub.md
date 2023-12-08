@@ -4,10 +4,9 @@
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
+# Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
 
 ![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)
-
-# Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
 
 ## 👼🏻  Der *Mensch zeichnet sich* schon immer *durch seine* ***Neugier*** *aus* :
 
@@ -39,17 +38,17 @@
    - **Spezifizierte Suchmaschinen** (*Wikipedia & Co.*)  
      > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***    
    - **Videoplattformen** (*YouTube & Co.*)  
-     > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen    
+     die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen    
      - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>  
      - 🧸 Kinder & Kleinkinder   
      - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren   
      - Menschen die **lehren & lernen**  
        <sub>*.. etc ..*</sub>        
-     >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
-     >  *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*  
-     >  *um ihre Wirtschaftlichen Interessen nicht zu gefährdern*  
-     >   
-     > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
+       >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
+       >  *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*  
+       >  *um ihre Wirtschaftlichen Interessen nicht zu gefährdern*  
+       >   
+       > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
    - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
      - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**   
      - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
@@ -63,16 +62,15 @@
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
-
-- *für Platformen schon schwierig*   
-  - ***bezahlte Zugänge*** :  
-    > *um das gewünschte Publikum auf ihren Seiten zu haben,
-    > schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
-  - ***Richtlinien*** :  
+### *für Platformen schon schwierig*
+  - **bezahlte Zugänge**  
+     >  *um das gewünschte Publikum auf ihren Seiten zu haben,
+     >  schränken damit das Benutzererlebnis bis zur Abschreckung ein*  
+  - ***Richtlinien***  
     > *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
-      > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
-         <sub>...</sub>  
-  - ***algorithmen zur Content-Überprüfung*** :  
+    > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
+     <sub>...</sub>  
+  - **Algorithmen zur Content-Überprüfung**  
     so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
     > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
     > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
@@ -116,26 +114,26 @@
 ## ☯ ***Zwei Seiten einer Medailie*** :  
 
 #### 👩🏻‍🏫 ***Creator:***  
-- Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
-- Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
-- Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
-  ***Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.***  
-  > *die Möglichkeiten sind nahezu grenzenlos.*  
-- Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.**   
+  - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
+  - Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
+  - Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
+    > ***Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.***  
+    > *die Möglichkeiten sind nahezu grenzenlos.*  
+  - Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.**   
 <!-- und Lernfortschritte zu beobachten -->
    
 #### 👨🏻‍🎓 ***User:***  
-- ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
-  > und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber, *welcher Content* im *Bildungskontext vielversprechend* ist.  
-- Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
-  > **Alle Kommentatoren sind dabei ausgezeichnet!**  
-  >  - *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
+  - ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
+    >  und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber,  
+    >  *welcher Content* im *Bildungskontext vielversprechend* ist.  
+  - Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
+    >  **Alle Kommentatoren sind dabei ausgezeichnet!**  
+    >  *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
 
 - Damit der **Lernerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
   ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen.  
   > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben.*   
-  >
-  >  - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.  
+  > - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.  
     
 - ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
 
@@ -157,17 +155,23 @@
 
 ---
 
-# ***Organisatorische Bedinungen***
+## 📊 ***Organisatorischer Rahmen***  
 
-Es ist unerlässlich, eine robuste Infrastruktur zu schaffen und diese kontinuierlich zu administrieren. Dazu gehören sowohl das Frontend (Website) als auch das Backend (Serverseite) sowie zusätzliche Datenbanken. In einem ersten Schritt bieten wir Content Creators eine vielseitige Auswahl an Mustern und erweitern das Angebot kontinuierlich.
+  - Es ist ***unerlässlich***, eine ***robuste Infrastruktur*** zu schaffen und diese *kontinuierlich zu administrieren*.  
+  - Dazu gehören sowohl das **Frontend** (Website) als auch das **Backend** (Serverseite) sowie zusätzliche **Datenbanken**.  
+    > In einem ersten Schritt bieten wir Nutzern eine **vielseitige Auswahl** an Mustern  
+    >  *zum ablegen ihrer Inhalte* und erweitern das Angebot kontinuierlich.  
 
-Die Website kann auf suggestivem Wege ihren Funktionsumfang erweitern und wird kontinuierlich ausgebaut, um dynamisch und ansprechend zu bleiben. Dies ermöglicht eine präzise Kostensteuerung, die sich am Erfolg der Website orientiert.
+  - Die Website kann auf **suggestivem Wege ihren Funktionsumfang** erweitern und ***wird kontinuierlich ausgebaut***;  
+    > ***um dynamisch und ansprechend zu bleiben.***  
+    > *Dies ermöglicht eine präzise Kostensteuerung, die sich am Erfolg der Website orientiert.*  
 
-Durch eine skalierbare Cloud-Entwicklung können bei der Umsetzung sowohl Kosten als auch Risiken minimiert werden. Klug eingesetzte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
+  - Durch eine **skalierbare Cloud-Entwicklung** können bei der Umsetzung sowohl **Kosten als auch Risiken minimiert** werden.  
+    > Klug eingesetzte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.  
 
 ---
 
-# ***Technische Bedienungen***
+# ***Technische Bedingungen***
 
 Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden. Auf diese Weise bleibt sie dynamisch, spannend, und die Kosten passen sich präzise dem Erfolg der Website an.
 
