@@ -65,12 +65,11 @@
 
 --- 
 
-  - Die gefundenen Informationen einzuordnen, ist für Platformen bereits schwierig; 
-    für den Endbenutzer - ohne Vorwissen - praktisch unmöglich:  
+## 🎓 Die gefundenen ***Informationen einordnen*** :    
 
-        • Die Entscheidung, ob ein Artikel/Website/Video wirklich geeignet ist (oder überhaupt zu finden),
-            treffen Plattformen und deren Algorithmen, in diesen Algorithmen spielen eventuell die Bewertungen der Benutzer eine Rolle,
-
+- *für Platformen schwierig*  
+    > - 
+- *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*  
 Ansonsten bleibt den Nutzern nur mehr die Möglichkeit, die Suchmaschine ihres Vertrauens zu starten und das World Wide Web auf eigener Faust  zu durchforsten, sich mit verschiedenen zweiphasigen Logins auseinander zu setzen, sich durch überladene Texte zu wühlen, jeder Spur zweimal nachzugehen, um wieder festzustellen: Man könnte ja doch noch  die nächste Website ausprobieren.
 
 Ist man weiterhin noch nicht ans Ziel gekommen, dann versucht man es doch noch in verschiednen Foren, um am nächsten Tag mit noch mehr Fragen denselben Zyklus  nochmals zu wiederholen.
