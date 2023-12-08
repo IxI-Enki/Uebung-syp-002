@@ -16,7 +16,7 @@
   ✅ Team einladen  
   ✅ Bulletpoints  
   ✅ Notizen zum fertigen Proposal formen/kombinieren > 
-        [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)
+        [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)  
   ✅ Struktur verbessern  
   ✅ Marktforschungsordner  
   - [ ] Marktforschung ins Proposal einfließen lassen  
