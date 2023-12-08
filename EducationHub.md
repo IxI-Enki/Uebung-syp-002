@@ -114,11 +114,13 @@
   > - ***ablenkende Werbungen***   
   >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
   
-  ### ❗ Bildung sollte einfach sein❗   
+  ### ❗ Bildung sollte einfach sein ❗   
 
 ---
 
-# Ⅲ ) ***EducationHub - der Umschlagplatz für Bildung***  
+# Ⅲ ) **Die Lösung**  
+<!--🧠-->
+## 🌐 **EducationHub - der Umschlagplatz für Bildung***  
 
 EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden – nicht nur für den User, sondern auch für den Content Creator.
 
