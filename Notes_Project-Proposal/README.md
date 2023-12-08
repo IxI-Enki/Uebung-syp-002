@@ -20,7 +20,7 @@
   ✅ Marktforschungsordner  
   - [ ] Marktforschung ins Proposal einfließen lassen  
   - [ ] Meilenssteine formulieren  
-  - [ ] Rechtschreibung überprüfen  
+  ✅ Rechtschreibung überprüfen  
   - [ ] Tags zum abgeben erstellen  
   - [ ] ...
 
