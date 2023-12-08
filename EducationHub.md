@@ -99,21 +99,21 @@
      >  ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
  
 - *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
-  - **Nutzer bewerten Inhalte**:
-     >    
-     > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
-     > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
-     > - *nach ihren ***subjektiven Empfindungen***   
-     > - *nach dem Bauchgefühl*  
-     <sub>...</sub>  
-   - **Nutzer vertrauen diesen Bewertungen**:     
-     > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen; 
-      <sub>...</sub>  
-   -  *Hürden wie bezahlte Abos*,  
-   - *überwältigende Foren*,  
-   - *komplizierte MFA*,  
-   - ***ablenkende Werbungen***   
-     > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+     > - **Nutzer bewerten Inhalte**:
+     >   >    
+     >   > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
+     >   > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
+     >   > - *nach ihren ***subjektiven Empfindungen***   
+     >   > - *nach dem Bauchgefühl*  
+     >   <sub>...</sub>  
+     > - **Nutzer vertrauen diesen Bewertungen**:     
+     >   > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen; 
+     >    <sub>...</sub>  
+     > -  *Hürden wie bezahlte Abos*,  
+     > - *überwältigende Foren*,  
+     > - *komplizierte MFA*,  
+     > - ***ablenkende Werbungen***   
+     >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
   
   ### ❗ Bildung sollte einfach sein!  
 
