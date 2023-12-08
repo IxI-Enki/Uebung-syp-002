@@ -107,7 +107,6 @@
 
 ---
 
-<!--🧠-->
 # Ⅲ ) **Die Lösung**  
 
 ## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung***  
@@ -117,7 +116,7 @@
 
 ---
 
-### ***Creator***  
+### ***Creator:***  
 - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
 - Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
 - Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
@@ -130,7 +129,7 @@
 
 ---
 
-### ***User***  
+### ***User:***  
 - ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
   und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber,
   *welcher Content* im *Bildungskontext vielversprechend* ist.
@@ -138,21 +137,28 @@
 - Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.
   **Alle Kommentatoren sind dabei ausgezeichnet!**
   *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*
-<!-- und Auszeichnungen für absolvierte Themen/Übungen usw -->
 
 - Damit der **Lehrerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
   ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen.  
   > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben.*   
-  
-  ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
+  >
+  > Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.
+    
+ - ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
 
 ### ***Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.***  
 
 ---
 
-# *Budget*
+## ***Budget***  
 
-15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.
+ > 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  
+<!--🧠-->  
+ > - Es bedarf hier wahrscheinlich nach dem Geld der Regierung, die aber eigentlich ein Interesse an der Bildung ihrer Bürger haben sollte,  
+ und Unzulänglichkeiten im Bereich der Digitalisierung bemerkt haben müsste..  
+ > - Kooperationen mit Bildungsnahen Firmen, könnte vorstellbar sein.  
+ > - Sehr subtile, unaufdringliche, nicht ablenkende Werbung; von Werbepartnern, die unmittelbar in Bildungsnähe sind könnte ebenfalls vorstellbar sein.   
+<!--🧠-->  
 
 ---
 
