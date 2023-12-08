@@ -111,7 +111,7 @@
   >  ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
   ---  
 
-## ☯ ***Zwei Seiten einer Medaillie*** :  
+## ☯ ***Zwei Seiten einer Medaille*** :  
 
 #### 👩🏻‍🏫 ***Creator:***  
    - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
@@ -191,10 +191,11 @@
      > - *und stärken durch den* ***gleichen Bildungsgrad*** *den* ***Zusammenhalt in der Bevölkerung***  
    - **Das Lernen für jung und alt attraktiv und einfach gestalten**:  
      > - ***moderne Methoden*** *zur Aufbereitung und Gestaltung von Lerninhalten,* ***halten Alle am Ball***  
-     > - ***responsive Darstellung*** *der Aufgaben und des bisherigen* ***Erfolges***, ***motivieren jeden im eigenen Tempo Inhalte zu erarbeiten***
+     > - ***übersichtliche und dynamische Darstellung*** *der Aufgaben und des bisherigen* ***Erfolges***,
+     >   ***motivieren jeden im eigenen Tempo Inhalte zu erarbeiten***
      > - ***Belohnungen wie 'Abzeichen', 'Titel' und ähnliches;*** *das auf den* ***eigenen Pages präsentiert werden kann*** *als Teil der Motivation*
      > <sub>...</sub>
-## ***Unterstützung durch "Künstliche Intelligenzen***  
+## ***Unterstützung durch "Künstliche Intelligenzen"***  
    - **Die Wahl der passenden Lerninhalte** an den jeweiligen User, könnte extrem von KI-Anbindung profitieren  
      > - **Die Lernfortschritte** überwachen und individuell anpassen
      > - **Den Wissensstand einordnen**
