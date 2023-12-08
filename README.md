@@ -5,7 +5,7 @@
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
 
-![Logo-small](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/eduHub-spark%5Blogo-small%5D.jpg)  
+![eduHub-spark logo-small](https://github.com/IxI-Enki/Uebung-syp-002/assets/138018029/15d1b3b7-2ff6-469d-92f3-a94166041a44)
 
 ---
 
@@ -25,12 +25,13 @@
 
 > [!TIP]
 > <details><summary> Anforderungen & Beispiele: </summary>  
+>  <sub> Hinweise für das Team </sub>  
+>
+>  **General Things to Think About:**  [GeneralOverviewOfAProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/GeneralOverviewOfAProposal.pdf)  
 >  
->  ##### General Things to Think About:  https://github.com/IxI-Enki/Uebung-syp-002/blob/main/GeneralOverviewOfAProposal.pdf  
+>  **Things to Work on:**  [TasksToDoForAProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/TasksToDoForAProposal.pdf)  
 >  
->  ##### Things to Work on:  https://github.com/IxI-Enki/Uebung-syp-002/blob/main/TasksToDoForAProposal.pdf  
->  
->  ##### Example Proposal:  https://github.com/IxI-Enki/Uebung-syp-002/blob/main/ExampleProposal.pdf  
+>  **Example Proposal:**  [ExampleProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/ExampleProposal.pdf)  
 </details>  
 
 
