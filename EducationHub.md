@@ -179,7 +179,7 @@
 
 ### ***Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken***  
 ---  
-#### **Die Nutzererfahrung im Zentrum der Entwicklung***  
+#### ***Die Nutzererfahrung im Zentrum der Entwicklung***  
    - Die **Benutzer sehr früh einzubinden** bietet den **Vorteil, direkt auf ihre Bedürfnisse eingehen zu können**:  
      > - ***Wünsche, Vorschläge und Kritik annehmen zu können***  
      > - ***Die Benutzerfreundlichkeit und Bedienung so einfach wie möglich zu gestalten***  
@@ -194,13 +194,11 @@
      > - ***responsive Darstellung*** *der Aufgaben und des bisherigen* ***Erfolges***, ***motivieren jeden im eigenen Tempo Inhalte zu erarbeiten***
      > - ***Belohnungen wie 'Abzeichen', 'Titel' und ähnliches;*** *das auf den* ***eigenen Pages präsentiert werden kann*** *als Teil der Motivation*
      > <sub>...</sub>  
- ---  
-#### ***flexible Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung***
-   - bieten eine **kosteneffiziente und risikoarme Realisierung**  
 ---  
 #### ***größte Risiken***:  
    - Eine **ständige Administration** und **Weiterentwicklung erfordern** nicht nur **technische**, sondern auch **finanzielle Ressourcen.**  
    - Die **Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen*** wird entscheidend sein.  
    - Eine **kluge und vorausschauende Strategie** wird **daher essenziell sein,**  
-     um die **Herausforderungen zu bewältigen** und die ***Bildungsplattform zu einem nachhaltigen Erfolg zu führen.***  
-
+     um die **Herausforderungen zu bewältigen** und die ***Bildungsplattform zu einem nachhaltigen Erfolg zu führen.***
+---       
+![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
