@@ -14,17 +14,15 @@
 - ## ***Die nächsten Aufgaben:***  
   ✅ Projekt anlegen  
   ✅ Team einladen  
-
-  ✅ Bulletpoints
+  ✅ Bulletpoints  
   ✅ Notizen zum fertigen Proposal formen/kombinieren > 
         [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)
-  ✅ Struktur verbessern
-  ✅ Marktforschungsordner
-  - [ ] Marktforschung ins Proposal einfließen lassen
-  - [ ] Meilenssteine formulieren
-  - [ ] Rechtschreibung überprüfen
-
-  - [ ] Tags zum abgeben erstellen
+  ✅ Struktur verbessern  
+  ✅ Marktforschungsordner  
+  - [ ] Marktforschung ins Proposal einfließen lassen  
+  - [ ] Meilenssteine formulieren  
+  - [ ] Rechtschreibung überprüfen  
+  - [ ] Tags zum abgeben erstellen  
   - [ ] ...
 
 
