@@ -16,17 +16,19 @@
 
 ---  
 
-# Ⅰ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
+# Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(der heutigen Zeit)</sub></sub>**  
 
 ---
   
-## 👼🏻  Der *Mensch zeichnete sich* schon immer *durch seine* ***Neugier*** *aus* :
+## 👼🏻  Der *Mensch zeichnet sich* schon immer *durch seine* ***Neugier*** *aus* :
 
- - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.
- - Deshalb gaben wir uns den Namen : **Homo sapiens** 
-    > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig .. 
+ - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.  
+ - Deshalb gaben wir uns den Namen : **Homo sapiens**  
+    > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
 
 --- 
+
+# Ⅱ ) **Die Herausforderung  <sub><sub>(der heutigen Zeit)</sub></sub>**  
 
 ## 📚  Das *Bildungsangebot* ist *umfangreich* geworden; schon *fast unüberschaubar* :  
 
@@ -42,40 +44,78 @@
 
 ## 🔎  Die *ersten Anlaufstellen*, um ***Informationen*** zu ***finden*** :  
 
-   - *Traditionelle* **Suchmaschinen** (*Google & Co.*)
-     > die meist **davon geplagt** sind ***auch*** **Firmen** & deren **Kunden** zu *befriedigen*;
-     > und *Ergebnisse* deshalb **nach wirtschaftlichen** <sub>oder Politischen</sub> **Interesseen** präsentieren
-   - *Spezifizierte* **Suchmaschinen** (*Wikipedia & Co.*)  
-     > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***  
-   - **Videoplattformen** (*YouTube & Co.*)
+   - **Traditionelle Suchmaschinen** (*Google & Co.*)  
+     > die meist **davon geplagt** sind ***auch*** **Firmen** & deren **Kunden** zu *befriedigen*;  
+     > und *Ergebnisse* deshalb **nach wirtschaftlichen** <sub>oder Politischen</sub> **Interesseen** präsentieren  
+   - **Spezifizierte Suchmaschinen** (*Wikipedia & Co.*)  
+     > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***    
+   - **Videoplattformen** (*YouTube & Co.*)  
      > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen;    
-     > - Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>;  
-     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren;  
-     > - Menschen die **lehren & lernen**;
-     >  <sub>*.. etc ..*</sub>      
-     > - *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*
-     > - *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*
-     > - *um ihre Wirtschaftlichen Interessen nicht zu gefährdern* ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar***
-   - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)
-     > diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**;
-     > > *obwohl dieser Umstand -den meisten-* **Menschen bewusst** *ist, hört man als "Informations-Quelle" im Altag*
-     > > *aber auch in Diskussionen des öfteren* **Sätze wie** :  
-     > > *.."Ja das habe ich auf, dieser oder jener, Platform gesehen/gelesen/gehört"..*
-     > > **..Das bedeutet, dass auch die "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**
+     > - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>;  
+     > - 🧸 Kinder & Kleinkinder   
+     >   
+     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren;   
+     > - Menschen die **lehren & lernen**;  
+     >  <sub>*.. etc ..*</sub>  
+     >      
+     >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
+     >  *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*  
+     >  *um ihre Wirtschaftlichen Interessen nicht zu gefährdern*  
+     >   
+     > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
+   - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
+     > - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**;  
+     >   
+     > - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist,  
+     >   hört man als "Informations-Quelle" im Altag*   
+     >   aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
+     >   
+     >  *"Ja das habe ich auf dieser oder jener Platform gesehen/gelesen/gehört"*
+     >     
+     > ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
 
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
 
-- *für Platformen schwierig*  
-    > - 
-- *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*  
-Ansonsten bleibt den Nutzern nur mehr die Möglichkeit, die Suchmaschine ihres Vertrauens zu starten und das World Wide Web auf eigener Faust  zu durchforsten, sich mit verschiedenen zweiphasigen Logins auseinander zu setzen, sich durch überladene Texte zu wühlen, jeder Spur zweimal nachzugehen, um wieder festzustellen: Man könnte ja doch noch  die nächste Website ausprobieren.
-
-Ist man weiterhin noch nicht ans Ziel gekommen, dann versucht man es doch noch in verschiednen Foren, um am nächsten Tag mit noch mehr Fragen denselben Zyklus  nochmals zu wiederholen.
-
-Bildung sollte einfach sein!
-Alter wiener Spruch: "Wieso einfach, wenn es auch kompliziert geht?"
+- *für Platformen schon schwierig*   
+     > - ***bezahlte Zugänge*** :  
+     >   *um nur das gewünschte Publikum auf ihren Seiten zu haben,
+     >    schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
+     > - ***Richtlinien*** :  
+     >   *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
+     >   > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
+     >   >   
+     > - ***algorithmen zur Content-Überprüfung*** :  
+     >   so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
+     >   > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
+     >   > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen;*
+     >   > 
+     >   > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
+     >   > 
+     >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
+     >
+     >  🌟 Wissen ist das höchste Gut  
+     >  ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+ 
+- *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
+  - **Nutzer bewerten Inhalte**:
+     >    
+     > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
+     > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
+     > - *nach ihren ***subjektiven Empfindungen***   
+     > - *nach dem Bauchgefühl*  
+     <sub>...</sub>  
+   - **Nutzer vertrauen diesen Bewertungen**:     
+     > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen; 
+      <sub>...</sub>  
+   -  *Hürden wie bezahlte Abos*,  
+   - *überwältigende Foren*,  
+   - *komplizierte MFA*,  
+   - ***ablenkende Werbungen***   
+     > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+  
+  ### ❗ Bildung sollte einfach sein!  
 
 ---
 
