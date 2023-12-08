@@ -64,7 +64,7 @@
     - Hochmotiviertes und professionelles Team.
     - Arbeitsgemeinschaft als Grundlage für das Projekt.
     ```
-    </details>
+  </details>
 
 ### **Ausgangssituation & Möglichkeiten**:  
 
