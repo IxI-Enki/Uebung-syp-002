@@ -22,7 +22,7 @@
    - In der gesamten Menschheitsgeschichte stand uns **noch nie** eine ***so umfangreiche Informationsressource*** zur Verfügung.
    - *Theoretisch* kann ***jedes Individuum*** darauf **zugreifen**.
      > praktisch ergeben sich **Verteilungsschwierigkeiten** durch unsere *zivilisatorischen Errungenschaften* wie **institutionelle Strukturen**;  
-     >  - **Machthierachien** - die ihren Einfluss behalten wollen  
+     >  - **Machthierarchien** - die ihren Einfluss behalten wollen  
      >  - **Unfaire Verteilung** von *Zahlungsmitteln* - die oft unüberwindbare Hürden darstellen  
      >  - Unterschiedliche **Schulen** und **Schulsystemen** - die *darauf ausgelegt* sind, ***keine der oben genannten Punkte in Frage zu stellen***.  
    - Dieser *"Boom"* **stellt nicht nur** die **IT vor Herausforderungen**.  
@@ -32,34 +32,34 @@
 
    - **Traditionelle Suchmaschinen** (*Google & Co.*)  
      > die meist **davon geplagt** sind ***auch*** **Firmen** & deren **Kunden** zu *befriedigen*;  
-     > und *Ergebnisse* deshalb **nach wirtschaftlichen** <sub>oder Politischen</sub> **Interesseen** präsentieren  
+     > und *Ergebnisse* deshalb **nach wirtschaftlichen** <sub>oder Politischen</sub> **Interessen** präsentieren  
    - **Spezifizierte Suchmaschinen** (*Wikipedia & Co.*)  
      > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***    
    - **Videoplattformen** (*YouTube & Co.*)  
      die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen    
      - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>  
      - 🧸 Kinder & Kleinkinder   
-     - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren   
+     - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konsumieren   
      - Menschen die **lehren & lernen**  
        <sub>*.. etc ..*</sub>        
-       >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
+       >  *...dabei wollen sie den Schein, einer "sozialen" Plattform & des "freien" Austausches, wahren*  
        >  *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*  
-       >  *um ihre Wirtschaftlichen Interessen nicht zu gefährdern*  
+       >  *um ihre Wirtschaftlichen Interessen nicht zu gefährden*  
        >   
        > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
    - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
      - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**   
      - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
-       > hört man als "Informations-Quelle" im Altag*   
+       > hört man als "Informations-Quelle" im Alltag*   
        > aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
        >   
-       >  *"Ja das habe ich auf dieser oder jener Platform gesehen/gelesen/gehört"*
+       >  *"Ja das habe ich auf dieser oder jener Plattform gesehen/gelesen/gehört"*
        >     
-     ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
+     ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Referenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
-### *für Platformen schon schwierig*
+### *für Plattformen schon schwierig*
    - **bezahlte Zugänge**:  
      > *um das gewünschte Publikum auf ihren Seiten zu haben,
      > schränken damit das Benutzererlebnis bis zur Abschreckung ein*  
@@ -70,9 +70,9 @@
    - **Algorithmen zur Content-Überprüfung**  
      so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
      > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
-     > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
+     > *um unbequeme Menschen/Meinungen/Tatsachen von Plattformen zu tilgen*
      > 
-     > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
+     > ***..manchmal auch um Wahrheiten, die dem Zeitgeist widersprechen, zu entfernen..***
      > 
      >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
 
@@ -93,7 +93,7 @@
    - *überwältigende Foren*  
    - *komplizierte MFA*  
    - ***ablenkende Werbungen***   
-     > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+     > machen Seiten oft unattraktiv, fast schon unbenutzbar   
  
   ### ❗ Bildung sollte einfach sein ❗   
 ---
@@ -111,7 +111,7 @@
   >  ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
   ---  
 
-## ☯ ***Zwei Seiten einer Medailie*** :  
+## ☯ ***Zwei Seiten einer Medaillie*** :  
 
 #### 👩🏻‍🏫 ***Creator:***  
    - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
@@ -189,11 +189,16 @@
      > - *Damit die* ***eigenen Chancen*** *für sein Leben* ***verbessern***  
      > - *Eventuell helfen wir dadurch auch beim* ***Überwinden von Sprachbarrieren,***  
      > - *und stärken durch den* ***gleichen Bildungsgrad*** *den* ***Zusammenhalt in der Bevölkerung***  
-   - **Das Lernen für jung und alt atraktiv und einfach gestalten**:  
+   - **Das Lernen für jung und alt attraktiv und einfach gestalten**:  
      > - ***moderne Methoden*** *zur Aufbereitung und Gestaltung von Lerninhalten,* ***halten Alle am Ball***  
      > - ***responsive Darstellung*** *der Aufgaben und des bisherigen* ***Erfolges***, ***motivieren jeden im eigenen Tempo Inhalte zu erarbeiten***
      > - ***Belohnungen wie 'Abzeichen', 'Titel' und ähnliches;*** *das auf den* ***eigenen Pages präsentiert werden kann*** *als Teil der Motivation*
-     > <sub>...</sub>  
+     > <sub>...</sub>
+## ***Unterstützung durch "Künstliche Intelligenzen***  
+   - **Die Wahl der passenden Lerninhalte** an den jeweiligen User, könnte extrem von KI-Anbindung profitieren  
+     > - **Die Lernfortschritte** überwachen und individuell anpassen
+     > - **Den Wissensstand einordnen**
+     > <sub>...</sub>
 ---  
 #### ***größte Risiken***:  
    - Eine **ständige Administration** und **Weiterentwicklung erfordern** nicht nur **technische**, sondern auch **finanzielle Ressourcen.**  
