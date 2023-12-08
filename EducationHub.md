@@ -40,68 +40,65 @@
      > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***    
    - **Videoplattformen** (*YouTube & Co.*)  
      > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen    
-     > - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>  
-     > - 🧸 Kinder & Kleinkinder   
-     >   
-     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren   
-     > - Menschen die **lehren & lernen**  
-     >  <sub>*.. etc ..*</sub>  
-     >      
+     - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>  
+     - 🧸 Kinder & Kleinkinder   
+     - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren   
+     - Menschen die **lehren & lernen**  
+       <sub>*.. etc ..*</sub>        
      >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
      >  *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*  
      >  *um ihre Wirtschaftlichen Interessen nicht zu gefährdern*  
      >   
      > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
    - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
-     > - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**  
-     >   
-     > - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
-     >   hört man als "Informations-Quelle" im Altag*   
-     >   aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
-     >   
-     >  *"Ja das habe ich auf dieser oder jener Platform gesehen/gelesen/gehört"*
-     >     
-     > ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
+     - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**   
+     - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
+       > hört man als "Informations-Quelle" im Altag*   
+       > aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
+       >   
+       >  *"Ja das habe ich auf dieser oder jener Platform gesehen/gelesen/gehört"*
+       >     
+     ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
 
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
 
 - *für Platformen schon schwierig*   
-  > - ***bezahlte Zugänge*** :  
-  >   *um nur das gewünschte Publikum auf ihren Seiten zu haben,
-  >    schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
-  > - ***Richtlinien*** :  
-  >   *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
-  >   > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
-  >   >   
-  > - ***algorithmen zur Content-Überprüfung*** :  
-  >   so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
-  >   > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
-  >   > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
-  >   > 
-  >   > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
-  >   > 
-  >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
-  >
-  >  🌟 Wissen ist das höchste Gut  
-  >  ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+  - ***bezahlte Zugänge*** :  
+    > *um das gewünschte Publikum auf ihren Seiten zu haben,
+    > schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
+  - ***Richtlinien*** :  
+    > *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
+      > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
+         <sub>...</sub>  
+  - ***algorithmen zur Content-Überprüfung*** :  
+    so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
+    > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
+    > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
+    > 
+    > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
+    > 
+    >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
+
+    🌟 Wissen ist das höchste Gut  
+    ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
  
 - *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
-  > - **Nutzer bewerten Inhalte**:  
-  >   > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
-  >   > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
-  >   > - *nach ihren ***subjektiven Empfindungen***   
-  >   > - *nach dem Bauchgefühl*  
-  >   <sub>...</sub>  
-  > - **Nutzer vertrauen diesen Bewertungen**:     
-  >   > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
-  >    <sub>...</sub>  
-  > - *Hürden wie bezahlte Abos*  
-  > - *überwältigende Foren*  
-  > - *komplizierte MFA*  
-  > - ***ablenkende Werbungen***   
-  >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+  - **Nutzer bewerten Inhalte**:  
+    > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
+    > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
+    > - *nach ihren ***subjektiven Empfindungen***   
+    > - *nach dem Bauchgefühl*  
+    >   <sub>...</sub>  
+  - **Nutzer vertrauen diesen Bewertungen**:     
+    >  das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
+    >  <sub>...</sub>  
+  - *Hürden wie bezahlte Abos*  
+  - *überwältigende Foren*  
+  - *komplizierte MFA*  
+  - ***ablenkende Werbungen***   
+    > machen Seiten oft unatraktiv, fast schon unbenutzbar   
   
   ### ❗ Bildung sollte einfach sein ❗   
 
@@ -109,14 +106,16 @@
 
 # Ⅲ ) **Die Lösung**  
 
-## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung***  
+## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung*** :  
 
 ### *EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden*   
   **nicht nur für den User, sondern auch für den Content Creator.**  
+   >  ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
+   ---  
 
----
+## ☯ ***Zwei Seiten einer Medailie*** :  
 
-### ***Creator:***  
+#### 👩🏻‍🏫 ***Creator:***  
 - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
 - Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
 - Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
@@ -124,36 +123,32 @@
   > *die Möglichkeiten sind nahezu grenzenlos.*  
 - Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.**   
 <!-- und Lernfortschritte zu beobachten -->
-
-### ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
-
----
-
-### ***User:***  
+   
+#### 👨🏻‍🎓 ***User:***  
 - ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
-  und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber,
-  *welcher Content* im *Bildungskontext vielversprechend* ist.
+  > und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber, *welcher Content* im *Bildungskontext vielversprechend* ist.  
+- Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
+  > **Alle Kommentatoren sind dabei ausgezeichnet!**  
+  >  - *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
 
-- Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.
-  **Alle Kommentatoren sind dabei ausgezeichnet!**
-  *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*
-
-- Damit der **Lehrerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
+- Damit der **Lernerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
   ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen.  
   > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben.*   
   >
-  > Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.
+  >  - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.  
     
- - ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
+- ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
 
-### ***Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.***  
+#### 📖 **Bildung ist ein universelles Schweizer-Messer für das Leben** 
+####  ***EducationHub der "MacGyver" unter den Bildungs-Websits.***  
 
 ---
 
-## ***Budget***  
+## 💲 ***Budget***    
 
- > 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  
-<!--🧠-->  
+<!--🧠
+    > 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  
+-->  
  > - Es bedarf hier wahrscheinlich nach dem Geld der Regierung, die aber eigentlich ein Interesse an der Bildung ihrer Bürger haben sollte,  
  und Unzulänglichkeiten im Bereich der Digitalisierung bemerkt haben müsste..  
  > - Kooperationen mit Bildungsnahen Firmen, könnte vorstellbar sein.  
@@ -162,7 +157,7 @@
 
 ---
 
-# ***Organisatorische Bedienungen***
+# ***Organisatorische Bedinungen***
 
 Es ist unerlässlich, eine robuste Infrastruktur zu schaffen und diese kontinuierlich zu administrieren. Dazu gehören sowohl das Frontend (Website) als auch das Backend (Serverseite) sowie zusätzliche Datenbanken. In einem ersten Schritt bieten wir Content Creators eine vielseitige Auswahl an Mustern und erweitern das Angebot kontinuierlich.
 
