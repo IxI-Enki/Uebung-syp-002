@@ -40,20 +40,36 @@
 
 ---
 
-## 🔎  Die ersten Anlaufstellen, um Informationen zu finden:  
+## 🔎  Die *ersten Anlaufstellen*, um ***Informationen*** zu ***finden*** :  
 
-   - Traditionelle Suchmaschinen (Google & Co.)
-   - Spezifizierte Suchmaschinen (Wikipedia & Co.)
-   - Videoplattformen (YouTube & Co.)
-   - Soziale Medien (Facebook, Twitter & Co.)
+   - *Traditionelle* **Suchmaschinen** (*Google & Co.*)
+     > die meist **davon geplagt** sind ***auch*** **Firmen** & deren **Kunden** zu *befriedigen*;
+     > und *Ergebnisse* deshalb **nach wirtschaftlichen** <sub>oder Politischen</sub> **Interesseen** präsentieren
+   - *Spezifizierte* **Suchmaschinen** (*Wikipedia & Co.*)  
+     > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***  
+   - **Videoplattformen** (*YouTube & Co.*)
+     > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen;    
+     > - Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>;  
+     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren;  
+     > - Menschen die **lehren & lernen**;
+     >  <sub>*.. etc ..*</sub>      
+     > - *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*
+     > - *und Verbreiter von* ***-ausschließlich- politisch korrekter Ideen*** *sein,*
+     > - *um ihre Wirtschaftlichen Interessen nicht zu gefährdern* ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar***
+   - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)
+     > diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**;
+     > > *obwohl dieser Umstand -den meisten-* **Menschen bewusst** *ist, hört man als "Informations-Quelle" im Altag*
+     > > *aber auch in Diskussionen des öfteren* **Sätze wie** :  
+     > > *.."Ja das habe ich auf, dieser oder jener, Platform gesehen/gelesen/gehört"..*
+     > > **..Das bedeutet, dass auch die "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**
 
 --- 
 
-  - Die gefundenen Informationen einzuordnen, ist für Plattformen bereits schwierig; 
+  - Die gefundenen Informationen einzuordnen, ist für Platformen bereits schwierig; 
     für den Endbenutzer - ohne Vorwissen - praktisch unmöglich:  
 
         • Die Entscheidung, ob ein Artikel/Website/Video wirklich geeignet ist (oder überhaupt zu finden),
-            treffen Plattformen und deren Alorithmen, in diesen Algorithmen spielen eventuell die Bewertungen der Benutzer eine Rolle,
+            treffen Plattformen und deren Algorithmen, in diesen Algorithmen spielen eventuell die Bewertungen der Benutzer eine Rolle,
 
 Ansonsten bleibt den Nutzern nur mehr die Möglichkeit, die Suchmaschine ihres Vertrauens zu starten und das World Wide Web auf eigener Faust  zu durchforsten, sich mit verschiedenen zweiphasigen Logins auseinander zu setzen, sich durch überladene Texte zu wühlen, jeder Spur zweimal nachzugehen, um wieder festzustellen: Man könnte ja doch noch  die nächste Website ausprobieren.
 
