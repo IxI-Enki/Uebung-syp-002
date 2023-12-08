@@ -98,6 +98,10 @@
   ### ❗ Bildung sollte einfach sein ❗   
 ---
 
+![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
+
+---
+
 # Ⅲ ) **Die Lösung**  
 
 ## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung*** :  
@@ -138,7 +142,8 @@
 
   - Es bedarf hier *wahrscheinlich* nach dem ***Geld der Regierung***,  
     > *die aber eigentlich ein* ***Interesse an der Bildung ihrer Bürger*** *haben sollte*  
-    > und ***Unzulänglichkeiten im Bereich der Digitalisierung*** *bemerkt haben müsste..*  
+    > und ***Unzulänglichkeiten im Bereich der Digitalisierung*** *bemerkt haben müsste..*
+    #### ..aber anders wird eine Webseite schwer zu betreiben sein - die weder teure Abos, noch manipulative Werbung verkauft.     
   - **Kooperationen mit Bildungsnahen Firmen** - könnten vorstellbar sein.  
   - Sehr **subtile, unaufdringliche, nicht ablenkende Werbung**;  
     > *von Werbepartnern, die* ***unmittelbar in Bildungsnähe*** *sind - könnten ebenfalls vorstellbar sein.*  
@@ -153,7 +158,9 @@
      > *In einem ersten Schritt bieten wir Nutzern eine* ***vielseitige Auswahl*** *an Mustern* ***zum ablegen ihrer Inhalte*** *und erweitern das Angebot kontinuierlich.*  
    - Die Website kann auf **suggestivem Wege ihren Funktionsumfang** erweitert und **kontinuierlich ausgebaut** werden:  
      > - ***um dynamisch und ansprechend zu bleiben***  
-     > - *Dies ermöglicht eine* ***präzise Kostensteuerung*** - *die sich am Erfolg der Website orientiert*  
+     > - *Dies ermöglicht eine* ***präzise Kostensteuerung*** - *die sich am Erfolg der Website orientiert*
+   - Durch **frühes Einbinden von Lehrkräften/Schulen** und anderweitig Bildungsinteressierte - **kompetente Content Creator** wird die Webseite **praktisch,
+     zugänglich** und kann dadurch auf **besseren Anklang und verbreiteten Nutzen** stoßen, als bisherige Lösungen.  
 ---
 
 ## 🛠 ***Technische Bedingungen*** :  
@@ -172,22 +179,28 @@
 
 ### ***Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken***  
 ---  
-- ***Die Nutzererfahrung im Zentrum der Entwicklung***:  
-     - Die **Benutzer sehr früh einzubinden** bietet den **Vorteil, direkt auf ihre Bedürfnisse eingehenzu können.**  
-       > - ***Wünsche, Vorschläge und Kritik annehmen zu können***  
-       > - ***Die Benutzerfreundlichkeit und Bedienung so einfach wie möglich zu gestalten***  
-     - Eine Webseite zu gestalten, die auch einen **praktischen Nutzen für alle Menschen** bietet, wird sich **auf dem Markt durchsetzen.**  
-       > - ***über die Grenzen*** *von (Bundes)Ländern und* ***unabhängig*** *vom Wohn- & Geburtsort-* ***hinaus***  
-     - **JEDER, der WIRKLICH MÖCHTE** kann auch wirklich das **Lernen was Spaß macht.**  
-       > - *Damit die* ***eigenen Chancen*** *für sein Leben* ***verbessern***  
-       > - *Eventuell helfen wir dadurch auch beim* ***Überwinden von Sprachbarrieren,***  
-       > - *und stärken durch den* ***gleichen Bildungsgrad*** *den* ***Zusammenhalt in der Bevölkerung***  
+#### **Die Nutzererfahrung im Zentrum der Entwicklung***  
+   - Die **Benutzer sehr früh einzubinden** bietet den **Vorteil, direkt auf ihre Bedürfnisse eingehen zu können**:  
+     > - ***Wünsche, Vorschläge und Kritik annehmen zu können***  
+     > - ***Die Benutzerfreundlichkeit und Bedienung so einfach wie möglich zu gestalten***  
+   - Eine Webseite zu gestalten, die auch einen **praktischen Nutzen für alle Menschen** bietet, wird sich **auf dem Markt durchsetzen.**  
+   - **JEDER, der WIRKLICH MÖCHTE** kann auch wirklich das **Lernen was Spaß macht**:  
+     > - ***Über die Grenzen*** *von (Bundes)Ländern* ***hinaus***  *und* ***unabhängig*** *vom Wohn- & Geburtsort-*   
+     > - *Damit die* ***eigenen Chancen*** *für sein Leben* ***verbessern***  
+     > - *Eventuell helfen wir dadurch auch beim* ***Überwinden von Sprachbarrieren,***  
+     > - *und stärken durch den* ***gleichen Bildungsgrad*** *den* ***Zusammenhalt in der Bevölkerung***  
+   - **Das Lernen für jung und alt atraktiv und einfach gestalten**:  
+     > - ***moderne Methoden*** *zur Aufbereitung und Gestaltung von Lerninhalten,* ***halten Alle am Ball***  
+     > - ***responsive Darstellung*** *der Aufgaben und des bisherigen* ***Erfolges***, ***motivieren jeden im eigenen Tempo Inhalte zu erarbeiten***
+     > - ***Belohnungen wie 'Abzeichen', 'Titel' und ähnliches;*** *das auf den* ***eigenen Pages präsentiert werden kann*** *als Teil der Motivation*
+     > <sub>...</sub>  
  ---  
-   
-- flexible Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung, bieten eine kosteneffiziente und risikoarme Realisierung.
+#### ***flexible Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung***
+   - bieten eine **kosteneffiziente und risikoarme Realisierung**  
+---  
+#### ***größte Risiken***:  
+   - Eine **ständige Administration** und **Weiterentwicklung erfordern** nicht nur **technische**, sondern auch **finanzielle Ressourcen.**  
+   - Die **Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen*** wird entscheidend sein.  
+   - Eine **kluge und vorausschauende Strategie** wird **daher essenziell sein,**  
+     um die **Herausforderungen zu bewältigen** und die ***Bildungsplattform zu einem nachhaltigen Erfolg zu führen.***  
 
-Die Chancen liegen in der fortschreitenden Erweiterung des Funktionsumfangs und der gesteigerten User-Zufriedenheit. Durch geschickte Werbeeinnahmen könnten nicht nur die Cloud-Ressourcen wachsen, sondern auch die Vermarktungsmöglichkeiten optimiert werden.
-
-Jedoch bergen auch diese vielversprechenden Perspektiven ihre eigenen Risiken. Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen. Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein. Eine kluge und vorausschauende Strategie wird daher essenziell sein, um die Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
-
--->
