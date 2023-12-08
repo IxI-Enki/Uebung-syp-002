@@ -23,8 +23,8 @@
 ## 👼🏻 Der *Mensch zeichnete sich* schon immer *durch seine* ***Neugier*** *aus* :
 
  - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.
- - Deshalb gaben wir uns den Namen : **Homo sapiens**<sub> lat. </sub>  
-    > verstehender, verständiger bzw. weiser, gescheiter, kluger, vernünftiger Mensch
+ - Deshalb gaben wir uns den Namen : **Homo sapiens** 
+    > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig .. 
 
 --- 
 
