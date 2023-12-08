@@ -20,7 +20,7 @@
 
 ---
   
-## 👼🏻 Der *Mensch zeichnete sich* schon immer *durch seine* ***Neugier*** *aus* :
+## 👼🏻  Der *Mensch zeichnete sich* schon immer *durch seine* ***Neugier*** *aus* :
 
  - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.
  - Deshalb gaben wir uns den Namen : **Homo sapiens** 
@@ -28,7 +28,7 @@
 
 --- 
 
-## 📚 Das *Bildungsangebot* ist *umfangreich* geworden; schon *fast unüberschaubar* :  
+## 📚  Das *Bildungsangebot* ist *umfangreich* geworden; schon *fast unüberschaubar* :  
 
    - In der gesamten Menschheitsgeschichte stand uns **noch nie** eine ***so umfangreiche Informationsressource*** zur Verfügung.
    - *Theoretisch* kann ***jedes Individuum*** darauf **zugreifen**.
@@ -38,12 +38,16 @@
      >  - Unterschiedliche **Schulen** und **Schulsystemen** - die *darauf ausgelegt* sind, ***keine der oben genannten Punkte in Frage zu stellen***.  
    - Dieser *"Boom"* **stellt nicht nur** die **IT vor Herausforderungen**.  
 
-- Die ersten Anlaufstellen, um Informationen zu finden:  
+---
 
-      • Traditionelle Suchmaschinen (Google & Co.)
-      • Spezifizierte Suchmaschinen (Wikipedia & Co.)
-      • Videoplattformen (YouTube & Co.)
-      • Soziale Medien (Facebook, Twitter & Co.)
+## 🔎  Die ersten Anlaufstellen, um Informationen zu finden:  
+
+   - Traditionelle Suchmaschinen (Google & Co.)
+   - Spezifizierte Suchmaschinen (Wikipedia & Co.)
+   - Videoplattformen (YouTube & Co.)
+   - Soziale Medien (Facebook, Twitter & Co.)
+
+--- 
 
   - Die gefundenen Informationen einzuordnen, ist für Plattformen bereits schwierig; 
     für den Endbenutzer - ohne Vorwissen - praktisch unmöglich:  
