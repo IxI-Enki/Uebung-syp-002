@@ -18,13 +18,26 @@
         [soll final hier liegn](https://github.com/IxI-Enki/Uebung-syp-002/edit/main/EducationHub.md)  
   ✅ Struktur verbessern  
   ✅ Marktforschungsordner  
+  ✅ Rechtschreibung überprüfen  
   - [ ] Marktforschung ins Proposal einfließen lassen  
   - [ ] Meilenssteine formulieren  
-  ✅ Rechtschreibung überprüfen  
   - [ ] Tags zum abgeben erstellen  
   - [ ] ...
 
-
+--- 
+- #### *zu Meilensteinen:*
+  > <details>
+  >  <summary>Was sind Projektmeilensteine: </summary>  
+  >
+  > - Meilensteine bieten Gelegenheiten zum Innehalten, Bewerten und Feiern (oder auch zum Anpassen), bevor die nächste Arbeitsphase beginnt.  
+  >
+  > - Sie sind natürliche Projektetappen, an denen eine Phase endet und eine neue beginnt.  
+  >
+  >  Hier sind einige Beispiele für solche Phasenübergänge:  
+  > - Von der Ideenfindung zum Design  
+  > - Von der Recherche zur UX-Entwicklung  
+  > - Von der Planung der Inhalte zum ersten Entwurf  
+  </details>    
 
 ---  
 
