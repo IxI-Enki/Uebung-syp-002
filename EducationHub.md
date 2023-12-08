@@ -35,8 +35,8 @@
    - In der gesamten Menschheitsgeschichte stand uns **noch nie** eine ***so umfangreiche Informationsressource*** zur Verfügung.
    - *Theoretisch* kann ***jedes Individuum*** darauf **zugreifen**.
      > praktisch ergeben sich **Verteilungsschwierigkeiten** durch unsere *zivilisatorischen Errungenschaften* wie **institutionelle Strukturen**;  
-     >  - **Machthierachien** - die ihren Einfluss behalten wollen;  
-     >  - **Unfaire Verteilung** von *Zahlungsmitteln* - die oft unüberwindbare Hürden darstellen;  
+     >  - **Machthierachien** - die ihren Einfluss behalten wollen  
+     >  - **Unfaire Verteilung** von *Zahlungsmitteln* - die oft unüberwindbare Hürden darstellen  
      >  - Unterschiedliche **Schulen** und **Schulsystemen** - die *darauf ausgelegt* sind, ***keine der oben genannten Punkte in Frage zu stellen***.  
    - Dieser *"Boom"* **stellt nicht nur** die **IT vor Herausforderungen**.  
 
@@ -50,12 +50,12 @@
    - **Spezifizierte Suchmaschinen** (*Wikipedia & Co.*)  
      > die *ebenfalls politischen Interessen* unterliegen können und die ***eine kleine Gruppe "Auserwählter" editieren und legitimieren***    
    - **Videoplattformen** (*YouTube & Co.*)  
-     > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen;    
-     > - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>;  
+     > die *Content für ein sehr, sehr breites Publikum* anbieten und **überblicken** wollen    
+     > - 💰 Firmen & Kunden die **verkaufen & kaufen** <sub>(wollen)</sub>  
      > - 🧸 Kinder & Kleinkinder   
      >   
-     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren;   
-     > - Menschen die **lehren & lernen**;  
+     > - Benutzer die nur Katzenvideos oder anderen **leicht verdaulichen Content** konumieren   
+     > - Menschen die **lehren & lernen**  
      >  <sub>*.. etc ..*</sub>  
      >      
      >  *...dabei wollen sie den Schein, einer "sozialen" Platform & des "freien" Austausches, wahren*  
@@ -64,9 +64,9 @@
      >   
      > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
    - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
-     > - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**;  
+     > - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**  
      >   
-     > - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist,  
+     > - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
      >   hört man als "Informations-Quelle" im Altag*   
      >   aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
      >   
@@ -79,47 +79,46 @@
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
 
 - *für Platformen schon schwierig*   
-     > - ***bezahlte Zugänge*** :  
-     >   *um nur das gewünschte Publikum auf ihren Seiten zu haben,
-     >    schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
-     > - ***Richtlinien*** :  
-     >   *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
-     >   > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
-     >   >   
-     > - ***algorithmen zur Content-Überprüfung*** :  
-     >   so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
-     >   > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
-     >   > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen;*
-     >   > 
-     >   > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
-     >   > 
-     >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
-     >
-     >  🌟 Wissen ist das höchste Gut  
-     >  ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+  > - ***bezahlte Zugänge*** :  
+  >   *um nur das gewünschte Publikum auf ihren Seiten zu haben,
+  >    schränken damit das Benutzererlebnis bis zur Abschreckung ein*   
+  > - ***Richtlinien*** :  
+  >   *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
+  >   > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
+  >   >   
+  > - ***algorithmen zur Content-Überprüfung*** :  
+  >   so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
+  >   > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
+  >   > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
+  >   > 
+  >   > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
+  >   > 
+  >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
+  >
+  >  🌟 Wissen ist das höchste Gut  
+  >  ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
  
 - *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
-     > - **Nutzer bewerten Inhalte**:
-     >   >    
-     >   > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
-     >   > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
-     >   > - *nach ihren ***subjektiven Empfindungen***   
-     >   > - *nach dem Bauchgefühl*  
-     >   <sub>...</sub>  
-     > - **Nutzer vertrauen diesen Bewertungen**:     
-     >   > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen; 
-     >    <sub>...</sub>  
-     > -  *Hürden wie bezahlte Abos*,  
-     > - *überwältigende Foren*,  
-     > - *komplizierte MFA*,  
-     > - ***ablenkende Werbungen***   
-     >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+  > - **Nutzer bewerten Inhalte**:  
+  >   > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
+  >   > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
+  >   > - *nach ihren ***subjektiven Empfindungen***   
+  >   > - *nach dem Bauchgefühl*  
+  >   <sub>...</sub>  
+  > - **Nutzer vertrauen diesen Bewertungen**:     
+  >   > das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
+  >    <sub>...</sub>  
+  > - *Hürden wie bezahlte Abos*  
+  > - *überwältigende Foren*  
+  > - *komplizierte MFA*  
+  > - ***ablenkende Werbungen***   
+  >   > machen Seiten oft unatraktiv, fast schon unbenutzbar   
   
   ### ❗ Bildung sollte einfach sein!  
 
 ---
 
-# ***EducationHub - der Umschlagplatz für Bildung***
+# Ⅲ ) ***EducationHub - der Umschlagplatz für Bildung***  
 
 EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden – nicht nur für den User, sondern auch für den Content Creator.
 
