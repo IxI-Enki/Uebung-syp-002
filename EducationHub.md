@@ -5,21 +5,12 @@
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
                                           we are placeholder, guarding a wall of text
-![2Lamasu](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/LOGO2.png)  
-
-<!--     Einmal gegengelesen, noch nicht kombiniert oder ausgearbeitet -->
-
-<!-- 
-# **Rahmenbedingung**
-# Ⅱ
--->
+<!--![2Lamasu](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/LOGO2.png)-->
 
 ---  
 
-# Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(der heutigen Zeit)</sub></sub>**  
+# Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
 
----
-  
 ## 👼🏻  Der *Mensch zeichnet sich* schon immer *durch seine* ***Neugier*** *aus* :
 
  - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.  
