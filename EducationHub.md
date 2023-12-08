@@ -4,10 +4,8 @@
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
-                                          we are placeholder, guarding a wall of text
-<!--![2Lamasu](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/LOGO2.png)-->
 
----  
+![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)
 
 # Ⅰ ) **Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>**  
 
@@ -109,21 +107,46 @@
 
 ---
 
-# Ⅲ ) **Die Lösung**  
 <!--🧠-->
-## 🌐 **EducationHub - der Umschlagplatz für Bildung***  
+# Ⅲ ) **Die Lösung**  
 
-EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden – nicht nur für den User, sondern auch für den Content Creator.
+## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung***  
 
-Mit einer spielend leichten Copy-and-Paste-Funktionalität möchten wir es Content Creators ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren. Sich in einen vordefinierten Themenbau einordnet und ihren Modulen selber einen Leitfaden zu geben. Mithilfe vordefinierter Pattern strukturiert man spielend leicht einzelne Seiten oder sogar komplette Module. Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten – die Möglichkeiten sind nahezu grenzenlos. Wir machen es zum Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen. Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!
+### *EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden*   
+  **nicht nur für den User, sondern auch für den Content Creator.**  
 
-Der User kann seine Suchvorschläge nach dem generellen Themenbau filtern und erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick darüber, welcher Content im Bildungskontext vielversprechend ist.
+---
 
-Sollte dennoch zu konkreten Inhalt eine Frage auftauchen, bietet die Kommentarfunktion die Möglichkeit Fragen zu stellen. Alle Kommentatoren sind dabei ausgezeichnet! Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee  haben.
+### ***Creator***  
+- Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
+- Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
+- Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
+  ***Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.***  
+  > *die Möglichkeiten sind nahezu grenzenlos.*  
+- Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.**   
+<!-- und Lernfortschritte zu beobachten -->
 
-Damit der Lehrerfolg im Eifer über die großartige neue Website nicht komplett aus den Augen gerät ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen - denn 100% in der Mengenlehre bedeuten nicht zwangsläufig 100% im gesamten Spektrum der Mathematik. Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.
+### ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
 
-Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.
+---
+
+### ***User***  
+- ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
+  und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber,
+  *welcher Content* im *Bildungskontext vielversprechend* ist.
+
+- Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.
+  **Alle Kommentatoren sind dabei ausgezeichnet!**
+  *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*
+<!-- und Auszeichnungen für absolvierte Themen/Übungen usw -->
+
+- Damit der **Lehrerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
+  ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen.  
+  > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben.*   
+  
+  ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
+
+### ***Bildung ist ein universelles Schweizer-Messer für das Leben und EducationHub der "MacGyver" unter den Bildungs-Websits.***  
 
 ---
 
