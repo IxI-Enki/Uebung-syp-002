@@ -13,7 +13,6 @@
  - Wir *streben danach* die Welt um uns *zu begreifen*, nicht zuletzt *um unseren Platz* darin zu *finden*.  
  - Deshalb gaben wir uns den Namen : **Homo sapiens**  
     > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
-
 --- 
 
 # Ⅱ ) **Die Herausforderung  <sub><sub>(der heutigen Zeit)</sub></sub>**  
@@ -27,7 +26,6 @@
      >  - **Unfaire Verteilung** von *Zahlungsmitteln* - die oft unüberwindbare Hürden darstellen  
      >  - Unterschiedliche **Schulen** und **Schulsystemen** - die *darauf ausgelegt* sind, ***keine der oben genannten Punkte in Frage zu stellen***.  
    - Dieser *"Boom"* **stellt nicht nur** die **IT vor Herausforderungen**.  
-
 ---
 
 ## 🔎  Die *ersten Anlaufstellen*, um ***Informationen*** zu ***finden*** :  
@@ -58,48 +56,46 @@
        >  *"Ja das habe ich auf dieser oder jener Platform gesehen/gelesen/gehört"*
        >     
      ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Refferenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
-
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
 ### *für Platformen schon schwierig*
-  - **bezahlte Zugänge**  
-     >  *um das gewünschte Publikum auf ihren Seiten zu haben,
-     >  schränken damit das Benutzererlebnis bis zur Abschreckung ein*  
-  - ***Richtlinien***  
-    > *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*  
-    > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
-     <sub>...</sub>  
-  - **Algorithmen zur Content-Überprüfung**  
-    so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
-    > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
-    > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
-    > 
-    > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
-    > 
-    >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
+   - **bezahlte Zugänge**:  
+     > *um das gewünschte Publikum auf ihren Seiten zu haben,
+     > schränken damit das Benutzererlebnis bis zur Abschreckung ein*  
+   - ***Richtlinien***:
+     > *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*
+     > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
+      <sub>...</sub>  
+   - **Algorithmen zur Content-Überprüfung**  
+     so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
+     > *der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,*  
+     > *um unbequeme Menschen/Meinungen/Tatsachen von Platformen zu tilgen*
+     > 
+     > ***..manchmal auch um Wahrheiten, die dem Zeitgeist wiedersprechen, zu entfernen..***
+     > 
+     >   ***❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.***  
 
-    🌟 Wissen ist das höchste Gut  
-    ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+   🌟 Wissen ist das höchste Gut  
+   ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
  
-- *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
-  - **Nutzer bewerten Inhalte**:  
-    > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
-    > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
-    > - *nach ihren ***subjektiven Empfindungen***   
-    > - *nach dem Bauchgefühl*  
-    >   <sub>...</sub>  
-  - **Nutzer vertrauen diesen Bewertungen**:     
-    >  das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
-    >  <sub>...</sub>  
-  - *Hürden wie bezahlte Abos*  
-  - *überwältigende Foren*  
-  - *komplizierte MFA*  
-  - ***ablenkende Werbungen***   
-    > machen Seiten oft unatraktiv, fast schon unbenutzbar   
-  
+### *für den Endnutzer - ohne Vorwissen - praktisch unmöglich*   
+   - **Nutzer bewerten Inhalte**:  
+     > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
+     > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
+     > - *nach ihren ***subjektiven Empfindungen***   
+     > - *nach dem Bauchgefühl*  
+     >   <sub>...</sub>  
+   - **Nutzer vertrauen diesen Bewertungen**:     
+     >  das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
+     >  <sub>...</sub>  
+   - *Hürden wie bezahlte Abos*  
+   - *überwältigende Foren*  
+   - *komplizierte MFA*  
+   - ***ablenkende Werbungen***   
+     > machen Seiten oft unatraktiv, fast schon unbenutzbar   
+ 
   ### ❗ Bildung sollte einfach sein ❗   
-
 ---
 
 # Ⅲ ) **Die Lösung**  
@@ -107,83 +103,88 @@
 ## 🌐 **EducationHub** - ***der Umschlagplatz für Bildung*** :  
 
 ### *EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden*   
-  **nicht nur für den User, sondern auch für den Content Creator.**  
-   >  ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
-   ---  
+  **sowohl für den User, als auch für den Content Creator.**  
+  >  ***Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!***  
+  ---  
 
 ## ☯ ***Zwei Seiten einer Medailie*** :  
 
 #### 👩🏻‍🏫 ***Creator:***  
-  - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
-  - Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben**.  
-  - Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module**.  
-    > ***Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.***  
-    > *die Möglichkeiten sind nahezu grenzenlos.*  
-  - Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.**   
-<!-- und Lernfortschritte zu beobachten -->
-   
-#### 👨🏻‍🎓 ***User:***  
-  - ***Der User*** kann seine *Suchvorschläge nach dem generellen Themenbau filtern*  
-    >  und *erhält durch die vorgefundenen Bewertungen gleich einen klaren Überblick* darüber,  
-    >  *welcher Content* im *Bildungskontext vielversprechend* ist.  
-  - Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
-    >  **Alle Kommentatoren sind dabei ausgezeichnet!**  
-    >  *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
+   - Mit einer **spielend leichten Copy-and-Paste-Funktionalität** möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
+   - Sich mühelos in einen *vordefinierten Themenbau* einzuordnen und ihren **Modulen selber einen Leitfaden geben.**  
+   - Mithilfe *vordefinierter Pattern* **strukturiert** man **spielend leicht** einzelne **Seiten oder sogar komplette Module.**  
+     > ***Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.***  
+     **die Möglichkeiten sind nahezu grenzenlos**  
+   - Wir machen es zum **Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen**.  
 
-- Damit der **Lernerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,  
-  ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen.  
-  > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben.*   
-  > - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein.  
-    
-- ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
+#### 👨🏻‍🎓 ***User:***  
+   - **Die User** können ihre *Suchvorschläge nach dem generellen Themenbau filtern*:  
+     > *und erhalten durch die vorgefundenen* ***Bewertungen*** *gleich einen klaren Überblick* darüber,  
+     > *welcher Content* im *Bildungskontext vielversprechend* ist  
+   - Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
+     > **Alle Kommentatoren sind dabei ausgezeichnet**.  
+     > *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
+   - Damit der **Lernerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,
+     ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen
+     > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben*
+     > - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein   
+   - ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
 
 #### 📖 **Bildung ist ein universelles Schweizer-Messer für das Leben** 
 ####  ***EducationHub der "MacGyver" unter den Bildungs-Websits.***  
-
 ---
 
-## 💲 ***Budget***    
+## 💲 ***Budget*** :  
 
-<!--🧠
-    > 15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  
--->  
- > - Es bedarf hier wahrscheinlich nach dem Geld der Regierung, die aber eigentlich ein Interesse an der Bildung ihrer Bürger haben sollte,  
- und Unzulänglichkeiten im Bereich der Digitalisierung bemerkt haben müsste..  
- > - Kooperationen mit Bildungsnahen Firmen, könnte vorstellbar sein.  
- > - Sehr subtile, unaufdringliche, nicht ablenkende Werbung; von Werbepartnern, die unmittelbar in Bildungsnähe sind könnte ebenfalls vorstellbar sein.   
-<!--🧠-->  
-
+  - Es bedarf hier *wahrscheinlich* nach dem ***Geld der Regierung***,  
+    > *die aber eigentlich ein* ***Interesse an der Bildung ihrer Bürger*** *haben sollte*  
+    > und ***Unzulänglichkeiten im Bereich der Digitalisierung*** *bemerkt haben müsste..*  
+  - **Kooperationen mit Bildungsnahen Firmen** - könnten vorstellbar sein.  
+  - Sehr **subtile, unaufdringliche, nicht ablenkende Werbung**;  
+    > *von Werbepartnern, die* ***unmittelbar in Bildungsnähe*** *sind - könnten ebenfalls vorstellbar sein.*  
+<!--🧠 Hier braucht es noch weitere Ideen 🤣-->  
+<!--   15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  -->  
 ---
 
-## 📊 ***Organisatorischer Rahmen***  
+## 📊 ***Organisatorischer Rahmen*** :  
 
-  - Es ist ***unerlässlich***, eine ***robuste Infrastruktur*** zu schaffen und diese *kontinuierlich zu administrieren*.  
-  - Dazu gehören sowohl das **Frontend** (Website) als auch das **Backend** (Serverseite) sowie zusätzliche **Datenbanken**.  
-    > In einem ersten Schritt bieten wir Nutzern eine **vielseitige Auswahl** an Mustern  
-    >  *zum ablegen ihrer Inhalte* und erweitern das Angebot kontinuierlich.  
-
-  - Die Website kann auf **suggestivem Wege ihren Funktionsumfang** erweitern und ***wird kontinuierlich ausgebaut***;  
-    > ***um dynamisch und ansprechend zu bleiben.***  
-    > *Dies ermöglicht eine präzise Kostensteuerung, die sich am Erfolg der Website orientiert.*  
-
-  - Durch eine **skalierbare Cloud-Entwicklung** können bei der Umsetzung sowohl **Kosten als auch Risiken minimiert** werden.  
-    > Klug eingesetzte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.  
-
+   - *Es ist* ***unerlässlich***, *eine* ***robuste Infrastruktur*** *zu schaffen und diese* ***kontinuierlich zu administrieren.***  
+   - Dazu gehören sowohl das **Frontend** (Website) als auch das **Backend** (Serverseite) sowie zusätzliche **Datenbanken.**  
+     > *In einem ersten Schritt bieten wir Nutzern eine* ***vielseitige Auswahl*** *an Mustern* ***zum ablegen ihrer Inhalte*** *und erweitern das Angebot kontinuierlich.*  
+   - Die Website kann auf **suggestivem Wege ihren Funktionsumfang** erweitert und **kontinuierlich ausgebaut** werden:  
+     > - ***um dynamisch und ansprechend zu bleiben***  
+     > - *Dies ermöglicht eine* ***präzise Kostensteuerung*** - *die sich am Erfolg der Website orientiert*  
 ---
 
-# ***Technische Bedingungen***
+## 🛠 ***Technische Bedingungen*** :  
 
-Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden. Auf diese Weise bleibt sie dynamisch, spannend, und die Kosten passen sich präzise dem Erfolg der Website an.
-
-Die Umsetzung einer solchen Lernplattform erfordert umfassende Kenntnisse im Bereich der Informationstechnologie. Dabei ist die Bereitstellung und laufende Administration einer Infrastruktur notwendig, die sowohl das Frontend (Website) als auch das Backend (Serverseite) sowie weitere Datenbanken umfasst. Standardisierte Lösungen bieten hierbei den entscheidenden Vorteil, Kosten und Zeit bei der Umsetzung und laufenden Wartung einzusparen.
-
-Durch eine skalierbare Cloud-Entwicklung können bei der Realisierung sowohl Kosten als auch Risiken effektiv minimiert werden. Durchdachte Werbeeinnahmen könnten die Cloud-Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.
-
+   - **Sukzessive** kann der **Funktionsumfang** der Website **erweitert** und **kontinuierlich weiterentwickelt** werden.  
+     > *Auf diese Weise bleibt sie* ***dynamisch & spannend***, *und die* ***Kosten passen sich** *präzise* ***dem Erfolg*** *der Website an.*  
+   - Die **Umsetzung** einer solchen Lernplattform **erfordert umfassende Kenntnisse im Bereich der Informationstechnologie.**  
+     > *Dabei ist die* ***Bereitstellung und laufende Administration*** *einer Infrastruktur notwendig,*  
+     > *die sowohl das Frontend (Website) als auch das Backend (Serverseite) sowie weitere Datenbanken umfasst.*  
+     > ***Standardisierte Lösungen*** *bieten hierbei den entscheidenden* ***Vorteil, Kosten und Zeit*** *bei der Umsetzung und laufenden Wartung einzusparen.*  
+   - Durch eine **skalierbare Cloud-Entwicklung** können bei der Realisierung sowohl **Kosten als auch Risiken effektiv minimiert** werden.  
+   - **Durchdachte Werbeeinnahmen** könnten die Ressourcen gleichermaßen wachsen lassen und zugleich der **Vermarktung dienen.**  
 ---
 
-# ***Chancen und Risiken***
+## 🏆 ***Chancen und Risiken*** :  
 
-In diesem ambitionierten Rahmen bieten sich sowohl vielversprechende Chancen als auch potenzielle Risiken. Die zunehmende Dynamik und Attraktivität der Website ermöglichen es, die Bildungsplattform kontinuierlich zu verbessern und an die Bedürfnisse der Nutzer anzupassen. Die flexiblen Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung, bieten eine kosteneffiziente und risikoarme Realisierung.
+### ***Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken***  
+---  
+- ***Die Nutzererfahrung im Zentrum der Entwicklung***:  
+     - Die **Benutzer sehr früh einzubinden** bietet den **Vorteil, direkt auf ihre Bedürfnisse eingehenzu können.**  
+       > - ***Wünsche, Vorschläge und Kritik annehmen zu können***  
+       > - ***Die Benutzerfreundlichkeit und Bedienung so einfach wie möglich zu gestalten***  
+     - Eine Webseite zu gestalten, die auch einen **praktischen Nutzen für alle Menschen** bietet, wird sich **auf dem Markt durchsetzen.**  
+       > - ***über die Grenzen*** *von (Bundes)Ländern und* ***unabhängig*** *vom Wohn- & Geburtsort-* ***hinaus***  
+     - **JEDER, der WIRKLICH MÖCHTE** kann auch wirklich das **Lernen was Spaß macht.**  
+       > - *Damit die* ***eigenen Chancen*** *für sein Leben* ***verbessern***  
+       > - *Eventuell helfen wir dadurch auch beim* ***Überwinden von Sprachbarrieren,***  
+       > - *und stärken durch den* ***gleichen Bildungsgrad*** *den* ***Zusammenhalt in der Bevölkerung***  
+ ---  
+   
+- flexible Kostenstrukturen, unterstützt durch eine skalierbare Cloud-Entwicklung, bieten eine kosteneffiziente und risikoarme Realisierung.
 
 Die Chancen liegen in der fortschreitenden Erweiterung des Funktionsumfangs und der gesteigerten User-Zufriedenheit. Durch geschickte Werbeeinnahmen könnten nicht nur die Cloud-Ressourcen wachsen, sondern auch die Vermarktungsmöglichkeiten optimiert werden.
 
