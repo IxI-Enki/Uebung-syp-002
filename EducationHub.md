@@ -208,3 +208,20 @@
      um die **Herausforderungen zu bewältigen** und die ***Bildungsplattform zu einem nachhaltigen Erfolg zu führen.***
 ---       
 ![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
+
+---
+
+# Ⅳ ) **Die Konkurrenz - bestehende Bildungswebseiten** :  
+
+## Unser nächster Schritt wird - das noch umfangreichere Recherchieren von bereits bestehenden Plattformen sein.  
+
+> [!IMPORTANT]
+> - deren Stärken und Schwächen genau herausarbeiten
+> - gute Ideen und Konzepte darin erkennen und für unsere Anwendung zu adaptieren
+> - diese erweitern 
+> <sub>...</sub>
+>
+> einige brauchbare Eindrücke die wir bereits gesammelt haben sind hier zu finden:  
+> [ "Marktforschung" ](https://github.com/IxI-Enki/Uebung-syp-002/tree/main/Analyze_competition)
+>
+> Mit dieser Grundlage werden zukünftige Meilensteine formuliert.
