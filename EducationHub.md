@@ -49,13 +49,13 @@
        > 🛑 ⇒ **manche Dinge sind aber einfach** ***nicht miteinander vereinbar*** 💢  
    - **"Soziale" Medien** (*Facebook*, *Twitter & Co.*)   
      - Diese *unterliegen natürlich ebenfalls*, sowohl *politischen* als auch, **wirtschaftlichen Interessen**   
-     - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** *ist;  
-       > hört man als "Informations-Quelle" im Alltag*   
+     - obwohl dieser *Umstand -den meisten-* **Menschen bewusst** ist;  
+       > *hört man als "Informations-Quelle" im Alltag*   
        > aber auch *als Legitimierung in öffentlichen Diskussionen* **Sätze wie** :
        >   
        >  *"Ja das habe ich auf dieser oder jener Plattform gesehen/gelesen/gehört"*
        >     
-     ❗ ⇒ **Das bedeutet, dass auch "sozialen" Medien als Referenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
+     ❗ ⇒ **Das bedeutet, dass auch "soziale" Medien als Referenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.**  
 --- 
 
 ## 🎓 Die gefundenen ***Informationen einordnen*** :    
@@ -63,7 +63,7 @@
    - **bezahlte Zugänge**:  
      > *um das gewünschte Publikum auf ihren Seiten zu haben,
      > schränken damit das Benutzererlebnis bis zur Abschreckung ein*  
-   - ***Richtlinien***:
+   - **Richtlinien**:
      > *um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben*
      > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
       <sub>...</sub>  
@@ -83,15 +83,15 @@
    - **Nutzer bewerten Inhalte**:  
      > - *meist erst* ***nachdem*** *Inhalte konsumiert wurden*  
      > - *nach ihren eigenen Kompetenzen* (zB bei fachlichen Themen)    
-     > - *nach ihren ***subjektiven Empfindungen***   
+     > - *nach ihren* ***subjektiven Empfindungen***   
      > - *nach dem Bauchgefühl*  
      >   <sub>...</sub>  
    - **Nutzer vertrauen diesen Bewertungen**:     
-     >  das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen 
+     >  *das führt dazu, dass Interessen bestehen können dieses Vertrauen zu missbrauchen* 
      >  <sub>...</sub>  
-   - *Hürden wie bezahlte Abos*  
-   - *überwältigende Foren*  
-   - *komplizierte MFA*  
+   - **Hürden wie bezahlte Abos**  
+   - **überwältigende Foren**  
+   - **komplizierte MFA** 
    - ***ablenkende Werbungen***   
      > machen Seiten oft unattraktiv, fast schon unbenutzbar   
  
@@ -125,13 +125,13 @@
    - **Die User** können ihre *Suchvorschläge nach dem generellen Themenbau filtern*:  
      > *und erhalten durch die vorgefundenen* ***Bewertungen*** *gleich einen klaren Überblick* darüber,  
      > *welcher Content* im *Bildungskontext vielversprechend* ist  
-   - Sollte zu **konkreten Inhalten eine Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit Fragen zu stellen.  
-     > **Alle Kommentatoren sind dabei ausgezeichnet**.  
+   - Sollten zu **konkreten Inhalten Fragen auftauchen**, bietet ***die Kommentarfunktion*** die Möglichkeit dies zu tun.  
+     > **Alle Kommentatoren sind dabei ausgezeichnet.**  
      > *Ausgezeichnet mit goldenen Häkchen für besonders hilfreiche Nutzer oder blauen Häkchen für solche, die offensichtlich eine Idee haben..*  
    - Damit der **Lernerfolg** im Eifer über die großartige neue Website nicht komplett aus den Augen verloren wird,
      ermöglichen wir es dem User, seine Module in seiner eigenen Profilseite zu verwalten und den Lernfortschritt zu verfolgen
      > *zB 100% in der Mengenlehre abgeschlossen zu haben, bedeutet nicht 100% im gesamten Spektrum der Mathematik gelernt zu haben*
-     > - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator, für das Know-how einer Person sein   
+     > - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sichtbarer Indikator - für das Know-how einer Person sein   
    - ***Diese Informationen auf einen Blick zu haben, verschafft dem User eine klare Übersicht – und damit 100% Kontrolle über seinen Lernprozess.***  
 
 #### 📖 **Bildung ist ein universelles Schweizer-Messer für das Leben** 
