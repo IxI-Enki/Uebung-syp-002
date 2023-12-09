@@ -27,7 +27,7 @@
 ![SKILLSHARE](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Analyze_competition/beispiel-skillshare.jpg)
 </details>
 
-# ***Beispiel für einen visualisierten Lernfortschritt***:
+# ***Beispiele für einen visualisierten Lernfortschritt***:
 
 <details> 
 
@@ -42,6 +42,7 @@
 
 ![Twitter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Analyze_competition/beispiel-twitter-feed.jpg)
 </details>
+
 ---
 
 <details><summary>Instagram: </summary>
