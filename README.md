@@ -19,7 +19,6 @@
 >   | Jan Ritt | @IxI-Enki |
 >   | ---: | :--- |
 >   | Daniel Binder | @DBsMOJO |
->   | Imre Obermüller | @Imre7777 |  
 
 ---
 
