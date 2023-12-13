@@ -30,23 +30,23 @@
 
 ## 🔎  Die ersten Anlaufstellen, um Informationen zu finden :  
 
-   - Traditionelle Suchmaschinen (Google & Co.)  
-     > die meist davon geplagt sind auch Firmen & deren Kunden zu befriedigen;  
-     > und Ergebnisse deshalb nach wirtschaftlichen <sub>oder Politischen</sub> Interessen präsentieren  
-   - Spezifizierte Suchmaschinen (Wikipedia & Co.)  
-     > die ebenfalls politischen Interessen unterliegen können und die eine kleine Gruppe "Auserwählter" editieren und legitimieren    
-   - Videoplattformen (YouTube & Co.)  
-     die Content für ein sehr, sehr breites Publikum anbieten und überblicken wollen    
-     - 💰 Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>  
-     - 🧸 Kinder & Kleinkinder   
-     - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
-     - Menschen die lehren & lernen  
-       <sub>.. etc ..</sub>        
-       >  ...dabei wollen sie den Schein, einer "sozialen" Plattform & des "freien" Austausches, wahren  
-       >  und Verbreiter von -ausschließlich- politisch korrekter Ideen sein,  
-       >  um ihre Wirtschaftlichen Interessen nicht zu gefährden  
-       >   
-       > 🛑 ⇒ manche Dinge sind aber einfach nicht miteinander vereinbar 💢  
+- ### Traditionelle Suchmaschinen (Google & Co.)  
+   -  Müssen aber aus wirtschaftlichen Interesse Firmen & deren Kunden befriedigen.  
+   -  Filtern und präsentieren ihre Ergebnisse dem entsprechend.
+      >  - Auf Google finden Nutzer -bei nahezu jeder Suchanfrage- erst einige Ergebnisse, die offensiochtlich als "Anzeige" gekennzeichnet sind
+      >  - <!-- Hat man diese Werbungen erfolgreich übersprungen , so wird man nicht selten auf Seiten von Drittanbieter weitergeleitet, die -->
+      >
+      >  - 
+- ### Spezifizierte Suchmaschinen (Wikipedia & Co.)  
+   >  die ebenfalls politischen Interessen unterliegen können und die eine kleine Gruppe "Auserwählter" editieren und legitimieren    
+- ### Videoplattformen (YouTube & Co.)  
+   >  die Content für ein sehr, sehr breites Publikum anbieten und überblicken wollen    
+   >  - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>  
+   >  - Kinder & Kleinkinder   
+   >  - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
+   >  - Menschen die lehren & lernen  
+   >    <sub>.. etc ..</sub>        
+
    - "Soziale" Medien (Facebook, Twitter & Co.)   
      - Diese unterliegen natürlich ebenfalls, sowohl politischen als auch, wirtschaftlichen Interessen   
      - obwohl dieser Umstand -den meisten- Menschen bewusst ist;  
