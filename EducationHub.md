@@ -32,7 +32,7 @@ Ich denke aber, dass dies immer zu einen Problem werden **kann**, wenn eine Plat
 >        - Dem Leser fehlt <sub>(*wie uns auch*)</sub> eine konkrete Vorstellung davon wie man es finanzieren kann...  
 >          >  <sub> Meine Idee/Gedankengang: **$$** Wo ist Geld? **$$** :   
 >          >   - Nicht bei denen die eigentlich Bildung brauchen/wollen!  
->          >     →  Mit "lernen" wird "kostenlos" gesucht <sup>[siehe Marktanalyse]()</sup>   
+>          >     →  Mit "lernen" wird "kostenlos" gesucht <sup>[siehe Marktanalyse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)</sup>   
 >          >   - Das oberste 1% wird sein Vermögen nicht aus rein philantropischen Intentionen abdrücken  
 >          >     <sub> → Selbst wenn .. benutzt man uns dann vielleicht zum Schein alá *"ich mache sooo viel für Bildung/dafür kann ich anderen ihr Trinkwasser wegnehmen"* das kann zum Greenwashing benutzt werden .... Wollen wir diese Option lassen? </sub>  
 >          >   - der Staat macht es einem nicht gerade einfach, wenn es um Bildung geht! </sub>  
