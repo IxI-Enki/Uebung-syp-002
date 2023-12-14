@@ -9,9 +9,6 @@
 > *Ablage für* ***Marktforschung*** *&* ***Konzepte der Konkurrenz***  
 >
 
-# 🎉 SO wär das cool:
-
-[![](https://mermaid.ink/img/pako:eNo9Uctug0AM_BXLp1Za0C6PhnDoqVJPPbWnhhxccAgp7KJlaaBR_r0LSLWs0cia8UO-YWkqxhzBxzSXZ7Iu-GJHhV4qrnEtQ4GvxtSefFjW1ZCD0W2jGVomqxtdw8OVW3flxj0WuBmngKZmgEMkZQYX0nDiLwEdWaDeLmSGy6iFhxZorAUM3IMpnQBtfqDiUoC37hfrces4bx0L7NmWrF2BICEInkFJuSnWnQ6RgFRAEnrYLeAzhiMK7Nh21FT-1tuiL9CdueMCc08rst_L6nevo9GZ91mXmJ-oHVjg2Ffk-KWh2lL3X-1JY37DCfNdFqZKqShNsjRJsn0icMZ8n4ZKqljJp0iqNN7dBf4a4_0yTOUaSsVx5K-MBHLVOGPftlesH1kHfK4GZ0e-_wEmWn46?type=png)](https://mermaid.live/edit#pako:eNo9Uctug0AM_BXLp1Za0C6PhnDoqVJPPbWnhhxccAgp7KJlaaBR_r0LSLWs0cia8UO-YWkqxhzBxzSXZ7Iu-GJHhV4qrnEtQ4GvxtSefFjW1ZCD0W2jGVomqxtdw8OVW3flxj0WuBmngKZmgEMkZQYX0nDiLwEdWaDeLmSGy6iFhxZorAUM3IMpnQBtfqDiUoC37hfrces4bx0L7NmWrF2BICEInkFJuSnWnQ6RgFRAEnrYLeAzhiMK7Nh21FT-1tuiL9CdueMCc08rst_L6nevo9GZ91mXmJ-oHVjg2Ffk-KWh2lL3X-1JY37DCfNdFqZKqShNsjRJsn0icMZ8n4ZKqljJp0iqNN7dBf4a4_0yTOUaSsVx5K-MBHLVOGPftlesH1kHfK4GZ0e-_wEmWn46)
 
 ---
 # ***Die Konkurrenz***:  
