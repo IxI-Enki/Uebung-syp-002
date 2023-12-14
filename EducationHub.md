@@ -28,8 +28,7 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >    <!-- 3 -->   
 >    - **3**:   [Schriftarten, -farben und Formulierungen](https://github.com/IxI-Enki/education-hub/issues/3)
 >        - [ ] Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.  
->          Dazu gehört auch, dass man auf "kreative" Schriftwahl und -farbe verzichten soll.
->        -   -  ***Gegenfrage: Wer verkauft heutzutage etwas ohne Emotionen anzusprechen?  Automarken und Handelsunternehmen passen (in ihren online Auftritten) ihre Logos NUR IM WESTEN zu Regenbögenflaggen an, um niemanden "Emotional zu verletzen" und "auszugrenzen" - Shell und BP und endlos viele andere ebenso....  während in den Ländern wo Öl herkommt Schwule noch gesteinigt werden...(So viel also zu "pride")...  Wir zerbrechen uns den Kopf über CO2, während in der Wüste nutzloseste, verschwenderische Städte von immigrierten Sklaven gebaut werden und daneben künstliche Inseln im Meer errichtet werden, als Prestigeobjekte; wenn die globale Wirtschaft+Politik auf Fakten basiert, und das Klima eine Bedrohung darstellt; wieso macht man nicht dort wirtschaftlich+politischen Aktivismus wo man einen nennenswerten Impact damit hätte, wenn man durchkäme?***  
+>          Dazu gehört auch, dass man auf "kreative" Schriftwahl und -farbe verzichten soll.   
 >        - ✅ → PARTIALLY RESOLVED : [fett/kursiv entfernt](https://github.com/IxI-Enki/education-hub/commit/30cb9f0bba6e069657231e3a0d9febe7fb3f3261)  
 >        - die Möglichkeiten sind nahezu grenzenlos → **Dafür gibt's keine Kohle**  
 > ———————  
