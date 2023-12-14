@@ -18,7 +18,7 @@
 >          >  -  "manche Dinge sind aber einfach nicht miteinander vereinbar" → gemeint war:
 >          >     Es ist nicht miteinander vereinbar auf seiner Plattform Unterhaltungs-content (**mit zu vielen, zu aufdringlichen, zu ablenkenden Werbungen**) & Lehrreiche Inhalte (**die ebenfalls ein hohes Maß an Aufmerksamkeit und Fokus erfordern**) anzubieten; das wiederspricht sich etwas. <sub>( meiner Meinung nach )</sub>
 >          >  -  "Andeutungen" → gemeint war:
->          >     Es ist relativ einfach, durch gezieltes/koordiniertes Melden von Inhalten an ein automatisiertes System, diese Inhalte verschwinden zu lassen ( die Intention dahunter ist erstmal sekundär und man kann diesenicht genau kennen;  
+>          >     Es ist relativ einfach, durch gezieltes/koordiniertes Melden von Inhalten an ein automatisiertes System, diese Inhalte verschwinden zu lassen ( die Intention dahinter ist erstmal sekundär und man kann diesenicht genau kennen;  
 Ich denke aber, dass dies immer zu einen Problem werden **kann**, wenn eine Plattform "zu groß" wird bzw "zu viele Menschen erreicht" → Dann kann über diese Reichweite die Meinung von Menschen geformt werden; bzw dies kann versucht werden ...  
 > ———————  
 >    <!-- 3 -->   
