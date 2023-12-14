@@ -43,8 +43,10 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >          >     <sub>  ... Und **Niemand hat dafür einen Plan für den nächsten Lockdown oÄ - oder bereitet Infrastruktur darauf vor** </sub>  
 >          >     <sub>   → **Wo ist das Geld um die Schulen zu digitalisieren?** </sub>
 >          >   - Abonements finde ich persönlich oft verschwendetes Geld, da man die gebotenen Leistungen häufig nicht in Anspruch nimmt und entweder darauf vergisst oder manchmal sogar Hürden in den Weg gelegt bekommt diese wieder zu kündigen - damit meine ich, dass es oft viel einfacher ist ein Abo abzuschließen als es ist dieses wieder zu kündigen...  
->          >     → vielleicht ein System wie Patreon - wir könnten anbieten auf freiwilliger Basis größere einmalige Beiträge zu bezahlen, wenn das Angebot gefällt;
->          >     ..oder einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
+>          >     → vielleicht ein System wie Patreon? oder Crowdfunding?
+>          >       - wir könnten anbieten auf freiwilliger Basis größere einmalige Beiträge zu bezahlen, wenn das Angebot gefällt...  
+>          >       - und man könnte anbieten dass sich Nutzer inerhalb der "Edu-hub-community", gegenseitig Einladungen zu Fächern schenken können;...  
+>          >       .. für einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
 ---  
 
 # Ⅰ ) Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>  
