@@ -18,9 +18,11 @@
 >          >  -  "manche Dinge sind aber einfach nicht miteinander vereinbar" → gemeint war:
 >          >     Es ist nicht miteinander vereinbar auf seiner Plattform Unterhaltungs-content (**mit zu vielen, zu aufdringlichen, zu ablenkenden Werbungen**) & Lehrreiche Inhalte (**die ebenfalls ein hohes Maß an Aufmerksamkeit und Fokus erfordern**) anzubieten; das wiederspricht sich etwas. <sub>( meiner Meinung nach )</sub>
 >          >  -  "Andeutungen" → gemeint war:
->          >     Es ist relativ einfach, durch gezieltes/koordiniertes Melden von Inhalten an ein automatisiertes System, diese Inhalte verschwinden zu lassen ( die Intention dahinter ist erstmal sekundär und man kann diesenicht genau kennen;  
-Ich denke aber, dass dies immer zu einen Problem werden **kann**, wenn eine Plattform "zu groß" wird bzw "zu viele Menschen erreicht" → Dann kann über diese Reichweite die Meinung von Menschen geformt werden; bzw dies kann versucht werden ...  
-> ———————  
+>          >     Es ist relativ einfach, durch gezieltes/koordiniertes Melden von Inhalten an ein automatisiertes System, diese Inhalte verschwinden zu lassen ( die Intention dahinter ist erstmal sekundär und man kann diese nicht genau kennen);  
+Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plattform "zu groß" wird bzw "zu viele Menschen erreicht" → Dann kann über diese Reichweite die Meinung von Menschen geformt werden; bzw dies kann versucht werden ...  
+>
+> 
+>             ———————  
 >    <!-- 3 -->   
 >    - **3**:   [Schriftarten, -farben und Formulierungen](https://github.com/IxI-Enki/education-hub/issues/3)
 >        - Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.
@@ -85,7 +87,7 @@ Ich denke aber, dass dies immer zu einen Problem werden **kann**, wenn eine Plat
    >  - Menschen die lehren & lernen  
    >    <sub>.. etc ..</sub>        
 
-   - "Soziale" Medien (Facebook, Twitter & Co.)   
+- ### "Soziale" Medien (Facebook, Twitter & Co.)   
      - Diese unterliegen natürlich ebenfalls, sowohl politischen als auch, wirtschaftlichen Interessen   
      - obwohl dieser Umstand -den meisten- Menschen bewusst ist;  
        > hört man als "Informations-Quelle" im Alltag   
@@ -93,7 +95,7 @@ Ich denke aber, dass dies immer zu einen Problem werden **kann**, wenn eine Plat
        >   
        >  "Ja das habe ich auf dieser oder jener Plattform gesehen/gelesen/gehört"
        >     
-     ❗ ⇒ Das bedeutet, dass auch "soziale" Medien als Referenzpunkte zur eigenen <sub>Meinungs-</sub>Bildung heran gezogen werden.  
+     ❗ ⇒ Das bedeutet, dass auch "soziale" Medien als Referenzpunkte zur eigenen (Meinungs-) Bildung heran gezogen werden.  
 --- 
 
 ## 🎓 Die gefundenen Informationen einordnen :    
