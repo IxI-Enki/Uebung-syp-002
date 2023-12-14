@@ -76,53 +76,57 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 ## 🔎  Die ersten Anlaufstellen, um Informationen zu finden :  
 
 - ### Traditionelle Suchmaschinen (Google & Co.)  
-   -  Müssen aber aus wirtschaftlichen Interesse Firmen & deren Kunden befriedigen.  
+   -  Müssen aber aus wirtschaftlichem Interesse Firmen & deren Kunden befriedigen.  
    -  Filtern und präsentieren ihre Ergebnisse dem entsprechend.
-      >  - Auf Google finden Nutzer -bei nahezu jeder Suchanfrage- erst einige Ergebnisse, die offensiochtlich als "Anzeige" gekennzeichnet sind
-      >  - <!-- Hat man diese Werbungen erfolgreich übersprungen , so wird man nicht selten auf Seiten von Drittanbieter weitergeleitet, die -->
-      >
-      >  - 
+      >  - Auf Google finden Nutzer -bei nahezu jeder Suchanfrage- erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.
+      >  - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
 - ### Spezifizierte Suchmaschinen (Wikipedia & Co.)  
-   >  die ebenfalls politischen Interessen unterliegen können und die eine kleine Gruppe "Auserwählter" editieren und legitimieren    
-- ### Videoplattformen (YouTube & Co.)  
-   >  die Content für ein sehr, sehr breites Publikum anbieten und überblicken wollen    
-   >  - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>  
-   >  - Kinder & Kleinkinder   
-   >  - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
-   >  - Menschen die lehren & lernen  
-   >    <sub>.. etc ..</sub>        
-
-- ### "Soziale" Medien (Facebook, Twitter & Co.)   
-     - Diese unterliegen natürlich ebenfalls, sowohl politischen als auch, wirtschaftlichen Interessen   
-     - obwohl dieser Umstand -den meisten- Menschen bewusst ist;  
-       > hört man als "Informations-Quelle" im Alltag   
-       > aber auch als Legitimierung in öffentlichen Diskussionen Sätze wie :
-       >   
-       >  "Ja das habe ich auf dieser oder jener Plattform gesehen/gelesen/gehört"
-       >     
-     ❗ ⇒ Das bedeutet, dass auch "soziale" Medien als Referenzpunkte zur eigenen (Meinungs-) Bildung heran gezogen werden.  
+   -  Werden von einer kleinen Gruppe "Auserwählter" editiert und legitimiert.    
+- ### Videoplattformen (YouTube, TikTok & Co.)  
+   -  Bieten Content für ein sehr breites Publikum an, die unterschiedlichste Interessen haben:      
+        - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>                                  
+        - Kinder & Kleinkinder  
+        - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
+        - Menschen die lehren & lernen  
+          <sub>.. etc ..</sub>  
+  <!-- bereits zusammengefasst / besser ausgedrückt -->
+    - #####   ❗  ⇒  Der Interessenskonflikt zeigt sich in Werbeeinblendungen und anderen Ablenkungen, die von ablenkend bis zu frustrierend sein können.   
+   
+ - ### "Soziale" Medien (Facebook, Twitter & Co.)   
+     - Diese unterliegen ebenfalls politischen als auch wirtschaftlichen Interessen   
+       >  Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.     
+   <!-- bereits zusammengefasst / besser ausgedrückt                               
+       > aber auch als Legitimierung in öffentlichen Diskussionen Sätze wie :        //  bereits zusammengefasst / besser ausgedrückt
+       >                                                                             //  
+       >  "Ja das habe ich auf dieser oder jener Plattform gesehen/gelesen/gehört"   // -->
+    - #####   ❗   ⇒  Das bedeutet, dass auch soziale Medien als Referenzpunkte zur eigenen (Meinungs-) Bildung heran gezogen werden.  
 --- 
 
 ## 🎓 Die gefundenen Informationen einordnen :    
-### für Plattformen schon schwierig
-   - bezahlte Zugänge:  
-     > um das gewünschte Publikum auf ihren Seiten zu haben,
-     > schränken damit das Benutzererlebnis bis zur Abschreckung ein  
-   - Richtlinien:
-     > um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben
-     > oft sind diese (absichtlich) schwammig, missverständlich und unterliegen nicht selten drastischen Änderungen  
-      <sub>...</sub>  
-   - Algorithmen zur Content-Überprüfung  
-     so gut sie auch sind - in Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
-     > der Begriff "Canceln" ist schon weit verbreitet und beschreibt auch, das missbräuchliche Ausnutzen der Richtlinien und automatischen Löschung,  
-     > um unbequeme Menschen/Meinungen/Tatsachen von Plattformen zu tilgen
-     > 
-     > ..manchmal auch um Wahrheiten, die dem Zeitgeist widersprechen, zu entfernen..
-     > 
-     >   ❗ Das ist aus unserer Sicht völlig inakzeptabel, da auch unbequeme Fakten Teil der Realität sind.  
 
-   🌟 Wissen ist das höchste Gut  
-   ⭐ Sich zu irren und daraus zu lernen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+### Methoden für Plattformen:   
+   - #### bezahlte Zugänge:   
+     - Bieten eine Hürde für "unerwünschtes Publikum".     
+     - Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.    
+   - #### Richtlinien:  
+     - Um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben.  
+       > Wenn diese Richtlinien missverständlich oder "schwammig" sind, ist es schwierig sie automatisiert durchzusetzen.  
+   - #### Algorithmen zur Content-Überprüfung:  
+     - In Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
+       > Akteure können -durch gezieltes Melden von Inhalten- dafür sorgen, dass etwas gelöscht wird, dass ihnen missfällt.  
+       >
+     - #####   ❗   ⇒ Sorgfältige Abwägungen müssen hier getroffen werden - böswillige Absichten und flächendeckende, präventive Zensur sollten beide vermieden werden.  
+       ⭐ Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+
+
+
+<!---- ÜBERARBEITET BIS HIERHIN ---->
+
+
+
+
+
+
  
 ### für den Endnutzer - ohne Vorwissen - praktisch unmöglich   
    - Nutzer bewerten Inhalte:  
