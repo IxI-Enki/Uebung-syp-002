@@ -4,14 +4,14 @@
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
-
+<!--
 ## ⇒ [All issues](https://github.com/IxI-Enki/education-hub/issues) 
-<details>    
->    <!-- 1 -->
+ <details>    
+>   
 >    -   [✅](https://github.com/IxI-Enki/education-hub/issues/1)  
 >        → RESOLVED : repo renamed  
 > ———————  
->    <!-- 2 -->
+>    
 >    - **2**:  [Grundsätzliches](https://github.com/IxI-Enki/education-hub/issues/2#issue-2039397253)
 >        - ✅ I) und II) sind schon eine recht brauchbare Version einer Ausgangssituation und der Rahmenbedingungen
 >        - [~]  III) würde ich mich auf Ihre Lösungsidee beschränken und diese noch sehr viel konkreter machen
@@ -26,14 +26,14 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >
 > 
 >             ———————  
->    <!-- 3 -->   
+>      
 >    - **3**:   [Schriftarten, -farben und Formulierungen](https://github.com/IxI-Enki/education-hub/issues/3)
 >        - ✅ Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.  
 >          Dazu gehört auch, dass man auf "kreative" Schriftwahl und -farbe verzichten soll.   
 >        - ✅ → PARTIALLY RESOLVED : [fett/kursiv entfernt](https://github.com/IxI-Enki/education-hub/commit/30cb9f0bba6e069657231e3a0d9febe7fb3f3261)  
 >        - die Möglichkeiten sind nahezu grenzenlos → **Dafür gibt's keine Kohle**  
 > ———————  
->    <!-- 4 -->            
+>                
 >    - **4**:   [Finanzierung](https://github.com/IxI-Enki/education-hub/issues/4)
 >        - ✅ Dem Leser fehlt <sub>(*wie uns auch*)</sub> eine konkrete Vorstellung davon wie man es finanzieren kann...  
 >          >  <sub>Meine Idee/Gedankengang: </sub>  
@@ -53,9 +53,10 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >          >       - und man könnte anbieten dass sich Nutzer inerhalb der "Edu-hub-community", gegenseitig Einladungen zu Fächern schenken können;...  
 >          >       .. für einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
 
-</details>
+</details> -->
 ---  
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 # Ⅰ ) Das Lernen heute - "traditionelles" Akquirieren von Wissen   
 
 ![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)
@@ -65,11 +66,9 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
  - Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.  
  - Deshalb gaben wir uns den Namen : Homo sapiens  
     > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
-
 --- 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-
 # Ⅱ ) Die Herausforderung  <sub><sub>(der heutigen Zeit)</sub></sub>  
 
 ## 📚  Das Bildungsangebot ist umfangreich geworden; schon fast unüberschaubar :  
@@ -84,7 +83,6 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-
 # Ⅲ ) Status quo
 
 ##  Man lernt also entweder "traditionell" an Schulen, besucht dort Kurse und Legt Prüfungen ab :
@@ -134,7 +132,6 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-
 ## 🔎 Andere/erste Anlaufstellen, um Informationen zu finden :  
 
 - ### Traditionelle Suchmaschinen (Google & Co.)  
@@ -158,30 +155,33 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
      - Diese unterliegen ebenfalls politischen als auch wirtschaftlichen Interessen   
        >  Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.     
    - #####   ❗   ⇒  Das bedeutet, dass auch soziale Medien als Referenzpunkte zur eigenen (Meinungs-) Bildung heran gezogen werden.  
---- 
+
+
+
+
 <!-------------------------------------------------------------------------------------------------------------------------->
-  ### ❗ Bildung sollte einfach sein ❗   
+### ❗ Bildung sollte einfach sein ❗   
 ---
 
-
 <!---=====================================================================================================================--->
-
 ![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
 
+
+
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 # Ⅳ ) Die Lösung  
 
 ## 🌐 EducationHub - der Umschlagplatz für Bildung :  
 
-### EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden!   
-  - für Lehrende, Lernende und Neugierige!
-  >  Willkommen auf EducationHub – wo Bildung so flexibel wie ein Schweizer Taschenmesser ist!  
-  ---  
-  
+### EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden! - für Lehrende, Lernende und Neugierige!
+
 # Unser Größtes Ziel aber ist es die Lücke zwischen digitalem Lernen und analogem Zeugniss zu schließen.  
 Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch anerkannte Prüfungen abgelegt werden können.  
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+---
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 ## Worauf Education hub technisch setzt:
 
 ### Dokumentation    
@@ -194,12 +194,12 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 - Der Algorithmus soll bestimmen können, ob nun wirklich die Person einen digitale Prüfung ablegt, für die sie sich ausgibt und die unterschiedlichen Test-Praktiken einzelner Vortragender vereinheitlichen.  
 
 - Damit bewirken wir zum einen, dass der Handel mit gekauften Zeugnissen und Titeln eingedämmt wird, und unqualifizierte Menschen nichtmehr in Positionen kommen können, an denen sie "Schaden" durch Unwissenheit anrichten können. 
+---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-
 # In Isolation funktioniert auch die beste Technik nicht, wir machen Technik für Menschen:  
 
-#### 👩🏻‍🏫 Creator:  
+## 👩🏻‍🏫 Creator:  
    - Sich mühelos in einen vordefinierten Themenbau einzuordnen und ihren Modulen selber einen Leitfaden geben.  
    - Mithilfe vordefinierter Pattern strukturiert man einzelne Seiten oder sogar komplette Module.  
      > Videos, Texte, Dokumente, Präsentationen einzubinden oder interaktive Frage-Antwort-Spiele gestalten.  
@@ -207,9 +207,11 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
    - Rückmeldungen, Bewertungen, Feedback, Nachhilfe geben.
    - ...
 
- - Den richtigen Lehrstil für den richtigen Benutzer finden.
+### - Den richtigen Lehrstil für den richtigen Benutzer finden.
+---  
 
-#### 👨🏻‍🎓 User:  
+<!-------------------------------------------------------------------------------------------------------------------------->  
+## 👨🏻‍🎓 User:  
    - Die User können ihre Suchvorschläge nach dem generellen Themenbau filtern:  
      > und erhalten durch die vorgefundenen Bewertungen gleich einen klaren Überblick darüber,  
      > welcher Content im Bildungskontext vielversprechend ist  
@@ -219,33 +221,18 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
      - und damit 100% Kontrolle über seinen Lernprozess.
    - Referenzen und Statistiken zur öffentlichen Einsicht
    - ...
-
+---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-<!--
-#### 📖 Bildung ist ein universelles Schweizer-Messer für das Leben 
-####  EducationHub der "MacGyver" unter den Bildungs-Websits.  
----
---> 
-
-## 💲 Budget :  
-   - ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;
+# 💲 Budget :  
+- ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;
        - Einzelnen Kurse/Fächer/Disziplinen werden jeweils für einen Minimalbetrag erworben, und die Zugriffe auf Lernunterlagen bleiben den Nutzern dadurch erhalten.
        - Diese Zugangs-Pakete können sich User der Community auch untereinander schenken, oder extern erworben und weitergeschenkt werden - analog zu Steamguthaben/Steamspielen.
        - Mithilfe eines "Crowdfunding" - Topfes, in den User freiwillig spenden können, sollte ihnen unser Angebot gefallen können wichtige Kurse, die jeder gratis besuchen sollte finanziert werden und vom "Kaufzwang" völlig befreit werden.  
-    - ❗ ⇒ Wenn es uns gelingt, Hochschulen und Bildungsministerien (global) zu überzeugen, haben wir es geschafft!
- 
-  <!--- Es bedarf hier wahrscheinlich nach dem Geld der Regierung,  
-    > die aber eigentlich ein Interesse an der Bildung ihrer Bürger haben sollte  
-    > und Unzulänglichkeiten im Bereich der Digitalisierung bemerkt haben müsste..
-    #### ..aber anders wird eine Webseite schwer zu betreiben sein - die weder teure Abos, noch manipulative Werbung verkauft.     
-  - Kooperationen mit Bildungsnahen Firmen - könnten vorstellbar sein.  
-  - Sehr subtile, unaufdringliche, nicht ablenkende Werbung;  
-    > von Werbepartnern, die unmittelbar in Bildungsnähe sind - könnten ebenfalls vorstellbar sein.  
-<!--🧠 Hier braucht es noch weitere Ideen 🤣-->  
-<!--   15,32 Euro, 76 Kuna aus den letzten Kroatienurlaub und drei Kaugummis.  
+- ❗ ⇒ Wenn es uns gelingt, Hochschulen und Bildungsministerien (global) zu überzeugen, haben wir es geschafft!
 ---
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 ## 📊 Organisatorischer Rahmen :  
 
    - Es ist unerlässlich, eine robuste Infrastruktur zu schaffen und diese kontinuierlich zu administrieren.  
@@ -258,6 +245,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
      zugänglich und kann dadurch auf besseren Anklang und verbreiteten Nutzen stoßen, als bisherige Lösungen.  
 ---
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 ## 🛠 Technische Bedingungen :  
 
    - Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden.  
@@ -269,8 +257,8 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
    - Durch eine skalierbare Cloud-Entwicklung können bei der Realisierung sowohl Kosten als auch Risiken effektiv minimiert werden.  
    - Durchdachte Werbeeinnahmen könnten die Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.  
 ---
--->
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 ## 🏆 Chancen und Risiken :  
 
 ### Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken  
@@ -298,12 +286,16 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
      > - Prüfungen ermöglichen
      > <sub>...</sub>
 ---  
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 #### Risiken:  
    - Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen.  
    - Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein.  
    - Eine kluge und vorausschauende Strategie wird daher essenziell sein,  
      um die Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
 ---       
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 ![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
 
  
