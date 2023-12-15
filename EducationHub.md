@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------->
 
 ## ⇒ [All issues](https://github.com/IxI-Enki/education-hub/issues) 
-    
+<details>    
 >    <!-- 1 -->
 >    -   [✅](https://github.com/IxI-Enki/education-hub/issues/1)  
 >        → RESOLVED : repo renamed  
