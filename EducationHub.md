@@ -200,12 +200,14 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 # In Isolation funktioniert auch die beste Technik nicht, wir machen Technik für Menschen:  
 
 #### 👩🏻‍🏫 Creator:  
-   - Mit einer spielend leichten Copy-and-Paste-Funktionalität möchten wir es Content Creator ermöglichen, ihre Lerninhalte mühelos einem interessierten Publikum zu präsentieren.  
    - Sich mühelos in einen vordefinierten Themenbau einzuordnen und ihren Modulen selber einen Leitfaden geben.  
-   - Mithilfe vordefinierter Pattern strukturiert man spielend leicht einzelne Seiten oder sogar komplette Module.  
-     > Einfach: Videos, Texte, Dokumente, Präsentationen einfügen oder interaktive Frage-Antwort-Spiele gestalten.  
-     die Möglichkeiten sind nahezu grenzenlos  
-   - Wir machen es zum Kinderspiel, lehrreiche Inhalte zu erstellen und zu teilen.  
+   - Mithilfe vordefinierter Pattern strukturiert man einzelne Seiten oder sogar komplette Module.  
+     > Videos, Texte, Dokumente, Präsentationen einzubinden oder interaktive Frage-Antwort-Spiele gestalten.  
+   - Die Inhalte an das richtige Publikum bringen.
+   - Rückmeldungen, Bewertungen, Feedback, Nachhilfe geben.
+   - ...
+
+ - Den richtigen Lehrstil für den richtigen Benutzer finden.
 
 #### 👨🏻‍🎓 User:  
    - Die User können ihre Suchvorschläge nach dem generellen Themenbau filtern:  
@@ -215,7 +217,8 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
    - Damit der Lernerfolg in seiner eigenen Profilseite zu verwalten und den Überblick behalten.
      - Auszeichnungen für absolvierte Themen/Übungen können wiederum in den Kommentaren, ein für Andere sofort sichtbarer Indikator für das eigene Know-how.   
      - und damit 100% Kontrolle über seinen Lernprozess.
-   - Referenzen und Statistiken zur öffentlichen Einsicht 
+   - Referenzen und Statistiken zur öffentlichen Einsicht
+   - ...
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
