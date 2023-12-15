@@ -14,8 +14,8 @@
 >    <!-- 2 -->
 >    - **2**:  [Grundsätzliches](https://github.com/IxI-Enki/education-hub/issues/2#issue-2039397253)
 >        - ✅ I) und II) sind schon eine recht brauchbare Version einer Ausgangssituation und der Rahmenbedingungen
->        - - [ ] III) würde ich mich auf Ihre Lösungsidee beschränken und diese noch sehr viel konkreter machen
->        - - [ ] IV) Die Konkurrenz würde ich in die Ausgangssituation einbauen
+>        - [~]  III) würde ich mich auf Ihre Lösungsidee beschränken und diese noch sehr viel konkreter machen
+>        - ✅ IV) Die Konkurrenz würde ich in die Ausgangssituation einbauen
 >        - ✅ besser ausdrücken  
 >          → RESOLVED : text cut-short & precised
 >          > ✅  "manche Dinge sind aber einfach nicht miteinander vereinbar" → gemeint war:
@@ -28,14 +28,14 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >             ———————  
 >    <!-- 3 -->   
 >    - **3**:   [Schriftarten, -farben und Formulierungen](https://github.com/IxI-Enki/education-hub/issues/3)
->        - [ ] Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.  
+>        - ✅ Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.  
 >          Dazu gehört auch, dass man auf "kreative" Schriftwahl und -farbe verzichten soll.   
 >        - ✅ → PARTIALLY RESOLVED : [fett/kursiv entfernt](https://github.com/IxI-Enki/education-hub/commit/30cb9f0bba6e069657231e3a0d9febe7fb3f3261)  
 >        - die Möglichkeiten sind nahezu grenzenlos → **Dafür gibt's keine Kohle**  
 > ———————  
 >    <!-- 4 -->            
 >    - **4**:   [Finanzierung](https://github.com/IxI-Enki/education-hub/issues/4)
->        - [ ] Dem Leser fehlt <sub>(*wie uns auch*)</sub> eine konkrete Vorstellung davon wie man es finanzieren kann...  
+>        - ✅ Dem Leser fehlt <sub>(*wie uns auch*)</sub> eine konkrete Vorstellung davon wie man es finanzieren kann...  
 >          >  <sub>Meine Idee/Gedankengang: </sub>  
 >          >   *$* Wo ist denn Geld? *$*:    
 >          >   - Nicht bei denen die eigentlich Bildung brauchen/wollen!  
