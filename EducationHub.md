@@ -148,7 +148,6 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
         - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
         - Menschen die lehren & lernen  
           <sub>.. etc ..</sub>  
-  <!-- bereits zusammengefasst / besser ausgedrückt -->
     - #####   ❗  ⇒  Der Interessenskonflikt zeigt sich in Werbeeinblendungen und anderen Ablenkungen, die von ablenkend bis zu frustrierend sein können.   
    
  - ### "Soziale" Medien (Facebook, Twitter & Co.)   
@@ -178,7 +177,6 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
 # Unser Größtes Ziel aber ist es die Lücke zwischen digitalem Lernen und analogem Zeugniss zu schließen.  
 Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch anerkannte Prüfungen abgelegt werden können.  
-
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -222,13 +220,16 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
    - Referenzen und Statistiken zur öffentlichen Einsicht
    - ...
 ---
-<!-------------------------------------------------------------------------------------------------------------------------->
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 # 💲 Budget :  
-- ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;
-       - Einzelnen Kurse/Fächer/Disziplinen werden jeweils für einen Minimalbetrag erworben, und die Zugriffe auf Lernunterlagen bleiben den Nutzern dadurch erhalten.
-       - Diese Zugangs-Pakete können sich User der Community auch untereinander schenken, oder extern erworben und weitergeschenkt werden - analog zu Steamguthaben/Steamspielen.
-       - Mithilfe eines "Crowdfunding" - Topfes, in den User freiwillig spenden können, sollte ihnen unser Angebot gefallen können wichtige Kurse, die jeder gratis besuchen sollte finanziert werden und vom "Kaufzwang" völlig befreit werden.  
+
+- ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;  
+  - Einzelnen Kurse/Fächer/Disziplinen werden jeweils für einen Minimalbetrag erworben, und die Zugriffe auf Lernunterlagen bleiben den Nutzern dadurch erhalten.  
+  - Diese Zugangs-Pakete können sich User der Community auch untereinander schenken, oder extern erworben und weitergeschenkt werden - analog zu Steamguthaben/Steamspielen.  
+  - Mithilfe eines "Crowdfunding" - Topfes, in den User freiwillig spenden können - sollte ihnen unser Angebot gefallen; 
+    > Daraus können wichtige Kurse die jeder besuchen sollte, finanziert werden und vom "Kaufzwang" völlig befreit werden.  
+
 - ❗ ⇒ Wenn es uns gelingt, Hochschulen und Bildungsministerien (global) zu überzeugen, haben wir es geschafft!
 ---
 
