@@ -5,7 +5,8 @@
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
 
->    ## ⇒ [open issues](https://github.com/IxI-Enki/education-hub/issues)  
+## ⇒ [All issues](https://github.com/IxI-Enki/education-hub/issues) 
+    
 >    <!-- 1 -->
 >    -   [✅](https://github.com/IxI-Enki/education-hub/issues/1)  
 >        → RESOLVED : repo renamed  
@@ -51,6 +52,8 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >          >       - wir könnten anbieten auf freiwilliger Basis größere einmalige Beiträge zu bezahlen, wenn das Angebot gefällt...  
 >          >       - und man könnte anbieten dass sich Nutzer inerhalb der "Edu-hub-community", gegenseitig Einladungen zu Fächern schenken können;...  
 >          >       .. für einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
+
+</details>
 ---  
 
 # Ⅰ ) Das Lernen - Akquirieren von Wissen  <sub><sub>(in der heutigen Zeit)</sub></sub>  
