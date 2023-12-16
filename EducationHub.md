@@ -98,10 +98,10 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
  - So unterschiedlich diese auf den ersten Blick wirken, haben sie ähnliche Herangehensweisen:
      [ Beispiele & Marktforschung ](https://github.com/IxI-Enki/Uebung-syp-002/tree/main/Analyze_competition)  
 
-### Methoden für Plattformen:   
-   - #### bezahlte Zugänge:   
-     - Bieten eine Hürde für "unerwünschtes Publikum".     
-     - Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.    
+### Methoden für Plattformen:
+   - #### bezahlte Zugänge:
+     - Bieten eine Hürde für "unerwünschtes Publikum".
+       > Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.  
    - #### Richtlinien:  
      - Um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben.  
        > Wenn diese Richtlinien missverständlich oder "schwammig" sind, ist es schwierig sie automatisiert durchzusetzen.  
@@ -117,13 +117,13 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
  - Auf der anderen Seite der Erfahrung finden wir die Nutzer, dieser Angebote:
 
-### Was Nutzer erleben dabei:     
-   - #### Sie müssen Bewertungen Anderer vertrauen, um sich irgendwie durch die Angebote zu mühen:       
+### Was Nutzer dabei erleben:     
+  - #### Sie müssen Bewertungen Anderer vertrauen, um sich irgendwie durch die Angebote zu mühen:  
+     - überwältigende Foren
+     - komplizierte MFA
      - Hürden wie bezahlte Abos  
-     - überwältigende Foren  
-     - komplizierte MFA 
      - ablenkende Werbungen   
-   - machen Seiten oft unattraktiv, fast schon unbenutzbar
+       > machen Seiten oft unattraktiv, fast schon unbenutzbar
 
 ##### Education Hub legt daher besonderen Wert auf:        
    - ❗ ⇒ Minimale Einstiegshürden - Wir bieten verschiedene Optionen an um uns zu benutzen, um eine maximale Flexibilität zu gewährleisten, damit jeder die Vorteile genießen kann.
@@ -260,7 +260,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-## 🏆 Chancen und Risiken :  
+## 🏆 Chancen :  
 
 ### Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken  
 ---  
@@ -289,7 +289,11 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---  
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-#### Risiken:  
+## und Risiken:
+- Datensicherheit, Privatsphäre:
+  - Wir müssen mit Experten auf diesem Gebiet zusammenarbeiten, denn die Einsehbarkeit von privaten Prüfungsergebnissen und Lernfortschritten, die es für die Nachvollziehbarkeit von Kompetenzen bedarf, darf den Datenschutzbestimmungen nicht wiedersprechen.
+  
+
    - Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen.  
    - Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein.  
    - Eine kluge und vorausschauende Strategie wird daher essenziell sein,  
