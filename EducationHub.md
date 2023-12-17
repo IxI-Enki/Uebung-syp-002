@@ -59,9 +59,7 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 <!-------------------------------------------------------------------------------------------------------------------------->
 # Ⅰ ) Das Lernen heute - "traditionelles" Akquirieren von Wissen   
 
-![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)
-
-## 👼🏻  Der Mensch zeichnet sich schon immer durch seine Neugier aus :
+## Der Mensch zeichnet sich schon immer durch seine Neugier aus :
 
  - Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.  
  - Deshalb gaben wir uns den Namen : Homo sapiens  
@@ -71,7 +69,7 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 <!-------------------------------------------------------------------------------------------------------------------------->
 # Ⅱ ) Die Herausforderung  <sub><sub>(der heutigen Zeit)</sub></sub>  
 
-## 📚  Das Bildungsangebot ist umfangreich geworden; schon fast unüberschaubar :  
+##  Das Bildungsangebot ist umfangreich geworden; schon fast unüberschaubar :  
 
  - In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.
  - Theoretisch kann jedes Individuum darauf zugreifen.
@@ -111,7 +109,7 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
 ##### Education Hub legt daher besonderen Wert auf: 
    - ❗ ⇒ Sorgfältige Abwägungen müssen hier getroffen werden - böswillige Absichten und flächendeckende, präventive Zensur sollten beide vermieden werden.  
-       ⭐ Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+        Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -132,7 +130,7 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-## 🔎 Andere/erste Anlaufstellen, um Informationen zu finden :  
+##  Andere/erste Anlaufstellen, um Informationen zu finden :  
 
 - ### Traditionelle Suchmaschinen (Google & Co.)  
    -  Müssen aber aus wirtschaftlichem Interesse Firmen & deren Kunden befriedigen.  
@@ -163,15 +161,13 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 ---
 
 <!---=====================================================================================================================--->
-![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
-
 
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 # Ⅳ ) Die Lösung  
 
-## 🌐 EducationHub - der Umschlagplatz für Bildung :  
+## EducationHub - der Umschlagplatz für Bildung :  
 
 ### EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden! - für Lehrende, Lernende und Neugierige!
 
@@ -197,7 +193,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 <!-------------------------------------------------------------------------------------------------------------------------->
 # In Isolation funktioniert auch die beste Technik nicht, wir machen Technik für Menschen:  
 
-## 👩🏻‍🏫 Creator:  
+## Creator:  
    - Sich mühelos in einen vordefinierten Themenbau einzuordnen und ihren Modulen selber einen Leitfaden geben.  
    - Mithilfe vordefinierter Pattern strukturiert man einzelne Seiten oder sogar komplette Module.  
      > Videos, Texte, Dokumente, Präsentationen einzubinden oder interaktive Frage-Antwort-Spiele gestalten.  
@@ -209,7 +205,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---  
 
 <!-------------------------------------------------------------------------------------------------------------------------->  
-## 👨🏻‍🎓 User:  
+## User:  
    - Die User können ihre Suchvorschläge nach dem generellen Themenbau filtern:  
      > und erhalten durch die vorgefundenen Bewertungen gleich einen klaren Überblick darüber,  
      > welcher Content im Bildungskontext vielversprechend ist  
@@ -222,7 +218,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-# 💲 Budget :  
+#  Budget :  
 
 - ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;  
   - Einzelnen Kurse/Fächer/Disziplinen werden jeweils für einen Minimalbetrag erworben, und die Zugriffe auf Lernunterlagen bleiben den Nutzern dadurch erhalten.  
@@ -247,7 +243,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-## 🛠 Technische Bedingungen :  
+## Technische Bedingungen :  
 
    - Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden.  
      > Auf diese Weise bleibt sie dynamisch & spannend, und die Kosten passen sich präzise dem Erfolg der Website an.  
@@ -260,7 +256,7 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-## 🏆 Chancen und Risiken :  
+##  Chancen und Risiken :  
 
 ### Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken  
 ---  
@@ -295,8 +291,5 @@ Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch a
    - Eine kluge und vorausschauende Strategie wird daher essenziell sein,  
      um die Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
 ---       
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-![Tempelwächter](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Visuals_Project-Proposal/Lammasu-Kopfzeile.png)  
 
  
