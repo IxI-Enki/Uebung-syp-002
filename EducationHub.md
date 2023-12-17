@@ -54,52 +54,127 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 >          >       .. für einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
 
 </details> -->
----  
-
 <!-------------------------------------------------------------------------------------------------------------------------->
-# Ⅰ ) Das Lernen heute - "traditionelles" Akquirieren von Wissen   
+# Ⅰ ) Das Lernen    
 
-## Der Mensch zeichnet sich schon immer durch seine Neugier aus :
+##  Der Mensch zeichnet sich schon immer durch seine Neugier aus
 
- - Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.  
- - Deshalb gaben wir uns den Namen : Homo sapiens  
-    > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
+Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.  
+Deshalb gaben wir uns den Namen : Homo sapiens  
+  > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
+
+##  Das Bildungsangebot ist umfangreich geworden  
+
+In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.
+Dieser "Boom" stellt nicht nur die IT vor Herausforderungen.
+Theoretisch kann zwar jedes Individuum darauf zugreifen, praktisch gibt jedoch noch einige Hürden die überwunden werden sollten;  
+- Ungleichmäßige Verteilung von Zahlungsmitteln  
+- Unterschiedliche Schulen und Schulsystemen  
+- Machthierarchien  
+
+--- 
+<!-------------------------------------------------------------------------------------------------------------------------->
+# Ⅱ ) Status quo: 
+
+##  'Traditionelles' Akquirieren von Wissen
+
+Die Methoden im klassischen Präsenzunterricht umfassen Lehrvorträge, Gruppenaktivitäten, Diskussionen, praktische Übungen und individuelle Betreuung.  
+Der Lehrer spielt eine zentrale Rolle bei der Wissensvermittlung, und die direkte Interaktion ermöglicht ein schnelles Feedback.  
+
+Neben den Vorteilen des klassischen Präsenzunterrichts, wie direkter Kontakt von Lehrern und Schülern,  
+der eine unmittelbare Klärung von Fragen ermöglicht und darüber hinaus eine für die Disziplin förderliche Struktur sein kann,  
+kann dieser auch Nachteile mit sich bringen:
+
+- Der starre Zeitplan kann für einige Lernende problematisch sein, insbesondere wenn sie mit anderen Verpflichtungen konkurrieren.  
+- Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
+- Geografische Distanzen können den Zugang zu Bildung behindern, und der traditionelle Unterricht berücksichtigt möglicherweise nicht ausreichend verschiedene Lernstile.  
+
+Dabei fehlt vielen Schulen die digitale Kompetenz, um am Puls der Zeit zu bleiben, oder Alternativen wie zB 'Home-Learning' effektiv und einfach anzubieten.  
+
+Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnamefällen wie zB Pandemien unter Umständen absolviert werden,  
+dabei entscheiden alle Schulen unterschiedlich wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
+
+--- 
+<!-------------------------------------------------------------------------------------------------------------------------->
+
+##  den Lernprozess unterstüzende Plattformen  
+
+Digitale Lernplattformen bieten somit eine vielfältige Palette an Möglichkeiten, um Bildung und Wissen auf innovative Weise zu vermitteln.  
+Viele nützen daher Plattformen die den traditionellen Unterricht unterstüzen, Lerninhalte bereitstellen und individuellen Fortschritten angepasst werden können.  
+
+Die Methoden dieser digitalen Lernplattformen reichen von klassischen Vorlesungen über interaktive Übungen bis hin zu Gamification-Elementen.  
+Adaptive Lernsysteme passen sich individuellen Fortschritten an und bieten personalisierte Inhalte.  
+Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.  
+
+- Die in Österreich verbreitetsten Plattformen zu diesem Zweck sind:  
+  > - Moodle
+  > - Edutube
+  > - Kahoot!
+  > - Lernplattform der Universitäten (z.B., u:find)
+
 --- 
 
-<!-------------------------------------------------------------------------------------------------------------------------->
-# Ⅱ ) Die Herausforderung  <sub><sub>(der heutigen Zeit)</sub></sub>  
+###  Spezifikationen dieser Marktführer:  
 
-##  Das Bildungsangebot ist umfangreich geworden; schon fast unüberschaubar :  
+### Moodle  
+- **Vorteile**:  
+    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
+    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
+- **Nachteile**:  
+    Die Benutzeroberfläche kann für Anfänger komplex sein  
+    Erfordert Hosting und Wartung durch die Institutionen  
+- **Kostenmodelle**:  
+    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
+- **Zielklientel**:  
+    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
+  
+### Edutube
+- **Vorteile**:  
+    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
+- **Nachteile**:  
+    Nicht so umfassend wie einige internationale Alternativen  
+    Qualität der Inhalte kann variieren  
+- **Kostenmodelle**:  
+    In der Regel kostenlos  
+- **Zielklientel**:  
+    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
+  
+### Kahoot!  
+- **Vorteile**:  
+    Interaktive Plattform, die für spielerische, umfragebasierte Lernaktivitäten verwendet wird  
+    Einfach zu nutzen  
+- **Nachteile**:  
+    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
+- **Kostenmodelle**:  
+    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
+- **Zielklientel**:  
+    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
 
- - In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.
- - Theoretisch kann jedes Individuum darauf zugreifen.
-   > praktisch ergeben sich Verteilungsschwierigkeiten durch unsere zivilisatorischen Errungenschaften wie institutionelle Strukturen;  
-   >  - Machthierarchien - die ihren Einfluss behalten wollen  
-   >  - Unfaire Verteilung von Zahlungsmitteln - die oft unüberwindbare Hürden darstellen  
-   >  - Unterschiedliche Schulen und Schulsystemen - die darauf ausgelegt sind, keine der oben genannten Punkte in Frage zu stellen.  
- - Dieser "Boom" stellt nicht nur die IT vor Herausforderungen.  
+### Lernplattform der Universitäten (z.B., u:find)  
+- **Vorteile**:  
+    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
+    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
+- **Nachteile**:  
+    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
+- **Kostenmodelle**:  
+    Nutzung kann Teil der Studiengebühren sein  
+- **Zielklientel**:  
+    Studierende und Lehrende an den jeweiligen Universitäten  
+
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-# Ⅲ ) Status quo
 
-##  Man lernt also entweder "traditionell" an Schulen, besucht dort Kurse und Legt Prüfungen ab :
-   
- - Dabei fehlt vielen Schulen sie digitale Kompetenz, um am Puls der Zeit zu bleiben, oder Alternativen zB "Home-Learning" anzubieten.
- - Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in extremen Ausnamefällen (Pandemien) unter fragwürdigen Umständen absolviert werden.
-   > Einmal musste jeder Student sein Wohnzimmer mit der Webcam abfilmen; ein anderes mal einen Teamviewer oÄ installieren ..usw.. 
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-
-##  Oder man lernt mit Hilfe von diversen bestehenden Bildungswebseiten : 
+<!--  
+##  Oder man lernt mit Hilfe von diversen bestehenden Bildungs- und Lernwebseiten : 
 
  - So unterschiedlich diese auf den ersten Blick wirken, haben sie ähnliche Herangehensweisen:
      [ Beispiele & Marktforschung ](https://github.com/IxI-Enki/Uebung-syp-002/tree/main/Analyze_competition)  
 
-### Methoden für Plattformen:   
-   - #### bezahlte Zugänge:   
-     - Bieten eine Hürde für "unerwünschtes Publikum".     
-     - Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.    
+### Methoden für Plattformen:
+   - #### bezahlte Zugänge:
+     - Bieten eine Hürde für "unerwünschtes Publikum".
+       > Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.  
    - #### Richtlinien:  
      - Um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben.  
        > Wenn diese Richtlinien missverständlich oder "schwammig" sind, ist es schwierig sie automatisiert durchzusetzen.  
@@ -109,9 +184,11 @@ Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plat
 
 ##### Education Hub legt daher besonderen Wert auf: 
    - ❗ ⇒ Sorgfältige Abwägungen müssen hier getroffen werden - böswillige Absichten und flächendeckende, präventive Zensur sollten beide vermieden werden.  
-        Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+       ⭐ Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
+-->
 
 <!-------------------------------------------------------------------------------------------------------------------------->
+
 
  - Auf der anderen Seite der Erfahrung finden wir die Nutzer, dieser Angebote:
 
