@@ -11,7 +11,7 @@
 
 *Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*   
 
-##  Das Bildungsangebot ist umfangreich geworden  
+##  Das Bildungsangebot ist umfangreich geworden, fast unüberschaubar  
 
 In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.
 Dieser "Boom" stellt nicht nur die IT vor Herausforderungen.
@@ -64,64 +64,64 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 ----
 </sup></sub>
 <!-------------------------------------------------------------------------------------------------------------------------->
-##  **Spezifikationen dieser Marktführer**:  
+## **Spezifikationen dieser Marktführer**:
 
 - ### Moodle  
-  > - **Vorteile**:  
-  >    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
-  >    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
-  > - **Nachteile**:  
-  >    Die Benutzeroberfläche kann für Anfänger komplex sein  
-  >    Erfordert Hosting und Wartung durch die Institutionen  
-  > - **Kostenmodelle**:  
-  >    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
-  > - **Zielklientel**:  
-  >    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
+  - **Vorteile**:  
+    >    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
+    >    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
+  - **Nachteile**:  
+    >    Die Benutzeroberfläche kann für Anfänger komplex sein  
+    >    Erfordert Hosting und Wartung durch die Institutionen  
+  - **Kostenmodelle**:  
+    >    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
+  - **Zielklientel**:  
+    >    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................-->
 - ### Edutube
-  > - **Vorteile**:  
-  >    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
-  > - **Nachteile**:  
-  >    Nicht so umfassend wie einige internationale Alternativen  
-  >    Qualität der Inhalte kann variieren  
-  > - **Kostenmodelle**:  
-  >    In der Regel kostenlos  
-  > - **Zielklientel**:  
-  >    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
+  - **Vorteile**:  
+    >    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
+  - **Nachteile**:  
+    >    Nicht so umfassend wie einige internationale Alternativen  
+    >    Qualität der Inhalte kann variieren  
+  - **Kostenmodelle**:  
+    >    In der Regel kostenlos  
+  - **Zielklientel**:  
+    >    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................--> 
 - ### Kahoot!  
-  > - **Vorteile**:  
-  >    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
-  >    Einfach zu nutzen  
-  > - **Nachteile**:  
-  >    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
-  > - **Kostenmodelle**:  
-  >    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
-  > - **Zielklientel**:  
-  >    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
+  - **Vorteile**:  
+    >    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
+    >    Einfach zu nutzen  
+  - **Nachteile**:  
+    >    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
+  - **Kostenmodelle**:  
+    >    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
+  - **Zielklientel**:  
+    >    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................-->
 - ### Lernplattform der Universitäten (z.B., u:find)  
-  > - **Vorteile**:  
-  >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
-  >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
-  > - **Nachteile**:  
-  >    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
-  > - **Kostenmodelle**:  
-  >    Nutzung kann Teil der Studiengebühren sein  
-  > - **Zielklientel**:  
-  >    Studierende und Lehrende an den jeweiligen Universitäten  
+  - **Vorteile**:  
+    >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
+    >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
+  - **Nachteile**:  
+    >    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
+  - **Kostenmodelle**:  
+    >    Nutzung kann Teil der Studiengebühren sein  
+  - **Zielklientel**:  
+    >    Studierende und Lehrende an den jeweiligen Universitäten  
 
 ---
 <!--......................................................................................................................-->
@@ -132,7 +132,7 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
 
 - Jedoch sind auch Risiken zu beachten:    
   > - **Qualität** der Inhalte kann variieren, und die Wenigsten bieten akademische Anerkennung ihrer Zertifikate.  
-  >- **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
+  > - **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
   > - Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
   > - **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
 
@@ -155,98 +155,61 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
   > - Menschen die lehren & lernen  
 
 ### Spezifizierte Suchmaschinen und Foren (Wikipedia & Co.)  
-- Bieten eine Unmenge an Informationen, für dessen Einordnung ein **Grundwissen** oft mehr als nur hilfreich ist.    
+- Bieten eine Unmenge an Informationen, für dessen Einordnung ein **Grundwissen** oft mehr als nur hilfreich ist.  
+
+### Soziale Medien (Facebook, Twitter & Co.)  
+- Diese unterliegen ebenfalls politischen als auch wirtschaftlichen Interessen   
+  > - Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.  
 
 --- 
+<!-------------------------------------------------------------------------------------------------------------------------->
+### ❗ Bildung sollte einfach sein ❗  
+Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffen, bei der er sich sicher sein kann auch fundiertes Wissen zu erlangen, auf das auch wirklich weiter aufgebaut werden kann.    
+ 
+---
 <!--======================================================================================================================-->
 
+# Ⅲ ) Die Lösung  
 
+## EducationHub - der Umschlagplatz für Bildung:  
 
-  
-<!--  
-##  Oder man lernt mit Hilfe von diversen bestehenden Bildungs- und Lernwebseiten : 
+### EducationHub strebt danach, die ultimative Anlaufstelle für Bildung zu werden.
 
- - So unterschiedlich diese auf den ersten Blick wirken, haben sie ähnliche Herangehensweisen:
-     [ Beispiele & Marktforschung ](https://github.com/IxI-Enki/Uebung-syp-002/tree/main/Analyze_competition)  
-
-### Methoden für Plattformen:
-   - #### bezahlte Zugänge:
-     - Bieten eine Hürde für "unerwünschtes Publikum".
-       > Schränken das Benutzererlebnis ein, schrecken vielleicht sogar ab.  
-   - #### Richtlinien:  
-     - Um eine erste Filterung der Inhalte zu erreichen und die Richtung dieser etwas vorzugeben.  
-       > Wenn diese Richtlinien missverständlich oder "schwammig" sind, ist es schwierig sie automatisiert durchzusetzen.  
-   - #### Algorithmen zur Content-Überprüfung:  
-     - In Kombination mit schwammigen Richtlinien können diese mehr schaden als helfen:  
-       > Akteure können -durch gezieltes Melden von Inhalten- dafür sorgen, dass etwas gelöscht wird, dass ihnen missfällt.  
-
-##### Education Hub legt daher besonderen Wert auf: 
-   - ❗ ⇒ Sorgfältige Abwägungen müssen hier getroffen werden - böswillige Absichten und flächendeckende, präventive Zensur sollten beide vermieden werden.  
-       ⭐ Sich zu irren, daraus zu lernen und Wissen gewinnen - ist für den Lernprozess unumgänglich - ja sogar erwünscht!  
--->
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-
-
- - Auf der anderen Seite der Erfahrung finden wir die Nutzer, dieser Angebote:
-
-### Was Nutzer erleben dabei:     
-   - #### Sie müssen Bewertungen Anderer vertrauen, um sich irgendwie durch die Angebote zu mühen:       
-     - Hürden wie bezahlte Abos  
-     - überwältigende Foren  
-     - komplizierte MFA 
-     - ablenkende Werbungen   
-   - machen Seiten oft unattraktiv, fast schon unbenutzbar
-
-##### Education Hub legt daher besonderen Wert auf:        
-   - ❗ ⇒ Minimale Einstiegshürden - Wir bieten verschiedene Optionen an um uns zu benutzen, um eine maximale Flexibilität zu gewährleisten, damit jeder die Vorteile genießen kann.
-   - ❗ ⇒ Der Einstieg über die bewährte MFA von Google ermöglicht den einfachsten Zugang zur Platform, und ist dabei erpropt und sicher.
-   - ❗ ⇒ Werbepartner müssen (wenn überhaupt Notwendig) unmittelbar in Bildungskontext sein (zB Stabilo, Texas Instruments uÄ..) sind die einzigen Partner, denen wir subtile Werbeflächen anbieten werden, dabei legen wir großen Wert darauf, dass diese den Flow beim lernen nicht unterbricht.   
-
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-##  Andere/
-    - #####   ❗  ⇒  Der Interessenskonflikt zeigt sich in Werbeeinblendungen und anderen Ablenkungen, die von ablenkend bis zu frustrierend sein können.   
-   
- - ### "Soziale" Medien (Facebook, Twitter & Co.)   
-     - Diese unterliegen ebenfalls politischen als auch wirtschaftlichen Interessen   
-       >  Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.     
-   - #####   ❗   ⇒  Das bedeutet, dass auch soziale Medien als Referenzpunkte zur eigenen (Meinungs-) Bildung heran gezogen werden.  
-
-
-
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-### ❗ Bildung sollte einfach sein ❗   
----
-
-<!---=====================================================================================================================--->
-
-
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-# Ⅳ ) Die Lösung  
-
-## EducationHub - der Umschlagplatz für Bildung :  
-
-### EducationHub strebt danach, das ultimative Schweizer Taschenmesser für freie Bildung zu werden! - für Lehrende, Lernende und Neugierige!
-
-# Unser Größtes Ziel aber ist es die Lücke zwischen digitalem Lernen und analogem Zeugniss zu schließen.  
-Wir möchten neben einer zentralen Lernplatform, die einzige sein auf der auch anerkannte Prüfungen abgelegt werden können.  
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-## Worauf Education hub technisch setzt:
+# **1.)** Die grundlegenden Ansätze von Education Hub: 
 
-### Dokumentation    
-- Wir bieten sowohl eine einfach einzusehende Historie des Lernfortschittes an (ähnlich zu githubs contribution Übersicht);
-- Die genaue Historie soll verhindern, dass geschummelt werden kann, oder dies zuletzt für jeden ersichtlich sein können.
-- Damit können Qualifikationen eindeutig nachgewiesen, festgehalten und legitimiert werden. 
+- ## **Open-Source**  
+bietet eine transparente und kollaborative Umgebung, die Innovation fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
+Durch den offenen Zugang zum Quellcode sind Anpassungen und Verbesserungen möglich, was zu verlässlicheren und sichereren Lösungen führt.  
+Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung nachhaltiger und fortschrittlicher Technologien bei, die von einer breiten Nutzerbasis profitieren.  
 
-### Machine Learning  
-- Machine learning wird jede einzelne Nutzer Erfahrung pseudonymisiert beobachten, und dadurch feststellen können ob das Verhalten bei Prüfungen zu dem beobachteten Lernverhalten während der Übungen passt. 
-- Der Algorithmus soll bestimmen können, ob nun wirklich die Person einen digitale Prüfung ablegt, für die sie sich ausgibt und die unterschiedlichen Test-Praktiken einzelner Vortragender vereinheitlichen.  
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Dokumentation & Transparenz nach dem erpropten Vorbild - Github**  
+schafft eine offene und kollaborative Lernumgebung.  
+Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, Inhalte gemeinschaftlich zu gestalten, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
+Die GitHub-ähnliche Struktur ermöglicht es, den Lernprozess besser zu verstehen, individuelle Anpassungen vorzunehmen und schafft so eine dynamische und partizipative Bildungsumgebung.  
 
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Privacy-by-Design-Prinzipien**  
+wie Anonymisierung, Pseudonymisierung und Datenschutzrichtlinien ermöglichen eine gewisse Transparenz und Analysen, während gleichzeitig die Privatsphäre geschützt wird.  
+Durch klare Datenschutzrichtlinien und sichere Technologien stellen wir sicher, dass persönliche Informationen vertraulich behandelt und nur für berechtigte Zwecke verwendet werden.  
+Die Realisierung von Datenschutz in einer transparenten Lernplattform erfordert einen ausgewogenen Ansatz, der die individuelle Privatsphäre respektiert, gleichzeitig aber auch die Transparenz und Zusammenarbeit fördert.  
+
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Machine Learning**  
+ermöglicht personalisierte Ansätze und adaptive Lernsysteme und Strategien.  
+Zudem kann mit predictive Analytics frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
+Automatische Rückmeldungen können als erste Hilfestellungen für Schüler fungieren und Lehrer entlasten.  
+Das Zeitmanagement von Lernenden kann durch ML ebenfalls profitieren.  
+Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfungen zuzuordnen und ein  
 - Damit bewirken wir zum einen, dass der Handel mit gekauften Zeugnissen und Titeln eingedämmt wird, und unqualifizierte Menschen nichtmehr in Positionen kommen können, an denen sie "Schaden" durch Unwissenheit anrichten können. 
 ---
 
