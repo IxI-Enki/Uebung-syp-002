@@ -181,39 +181,66 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 # **1.)** Die grundlegenden Ansätze von Education Hub: 
 
 - ## **Open-Source**  
-bietet eine transparente und kollaborative Umgebung, die Innovation fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
-Durch den offenen Zugang zum Quellcode sind Anpassungen und Verbesserungen möglich, was zu verlässlicheren und sichereren Lösungen führt.  
-Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung nachhaltiger und fortschrittlicher Technologien bei, die von einer breiten Nutzerbasis profitieren.  
+  bietet eine transparente und kollaborative Umgebung, die Innovation fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
+  Durch den offenen Zugang zum Quellcode sind Anpassungen und Verbesserungen möglich, was zu verlässlicheren und sichereren Lösungen führt.  
+  Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung nachhaltiger und fortschrittlicher Technologien bei, die von einer breiten Nutzerbasis profitieren.  
 
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Dokumentation & Transparenz nach dem erpropten Vorbild - Github**  
-schafft eine offene und kollaborative Lernumgebung.  
-Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, Inhalte gemeinschaftlich zu gestalten, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
-Die GitHub-ähnliche Struktur ermöglicht es, den Lernprozess besser zu verstehen, individuelle Anpassungen vorzunehmen und schafft so eine dynamische und partizipative Bildungsumgebung.  
+- ## **Dokumentation & Transparenz nach dem erprobten Vorbild - Github**  
+  schafft eine offene und kollaborative Lernumgebung.  
+  Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, Inhalte gemeinschaftlich zu gestalten, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
+  Die GitHub-ähnliche Struktur ermöglicht es, den Lernprozess besser zu verstehen, individuelle Anpassungen vorzunehmen und schafft so eine dynamische und partizipative Bildungsumgebung.  
 
 <sub><sup> 
 ----
 </sup></sub>  
 - ## **Privacy-by-Design-Prinzipien**  
-wie Anonymisierung, Pseudonymisierung und Datenschutzrichtlinien ermöglichen eine gewisse Transparenz und Analysen, während gleichzeitig die Privatsphäre geschützt wird.  
-Durch klare Datenschutzrichtlinien und sichere Technologien stellen wir sicher, dass persönliche Informationen vertraulich behandelt und nur für berechtigte Zwecke verwendet werden.  
-Die Realisierung von Datenschutz in einer transparenten Lernplattform erfordert einen ausgewogenen Ansatz, der die individuelle Privatsphäre respektiert, gleichzeitig aber auch die Transparenz und Zusammenarbeit fördert.  
+  wie Anonymisierung, Pseudonymisierung und Datenschutzrichtlinien ermöglichen eine gewisse Transparenz und Analysen, während gleichzeitig die Privatsphäre geschützt wird.  
+  Durch klare Datenschutzrichtlinien und sichere Technologien stellen wir sicher, dass persönliche Informationen vertraulich behandelt und nur für berechtigte Zwecke verwendet werden.  
+  Die Realisierung von Datenschutz in einer transparenten Lernplattform erfordert einen ausgewogenen Ansatz, der die individuelle Privatsphäre respektiert, gleichzeitig aber auch die Transparenz und Zusammenarbeit fördert.  
 
 <sub><sup> 
 ----
 </sup></sub>  
 - ## **Machine Learning**  
-ermöglicht personalisierte Ansätze und adaptive Lernsysteme und Strategien.  
-Zudem kann mit predictive Analytics frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
-Automatische Rückmeldungen können als erste Hilfestellungen für Schüler fungieren und Lehrer entlasten.  
-Das Zeitmanagement von Lernenden kann durch ML ebenfalls profitieren.  
-Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfungen zuzuordnen und ein  
-- Damit bewirken wir zum einen, dass der Handel mit gekauften Zeugnissen und Titeln eingedämmt wird, und unqualifizierte Menschen nichtmehr in Positionen kommen können, an denen sie "Schaden" durch Unwissenheit anrichten können. 
+  ermöglicht personalisierte Ansätze und adaptive Lernsysteme und Strategien.  
+  Zudem kann mit predictive Analytics frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
+  Automatische Rückmeldungen können als erste Hilfestellungen für Schüler fungieren und Lehrer entlasten.  
+  Das Zeitmanagement von Lernenden kann durch ML ebenfalls profitieren.  
+  Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Onlineprüfungen zuzuordnen und einen Schummelversuch frühzeitig erkennen.  
+  Beim automatisierten Übersetzen von Lerninhalten, in die Muttersprache von Lernenden kann Machine Learning eine sehr große Hilfe darstellen und zu einem besseren Verständnis verhelfen.    
+
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Intuitives/Nutzerfreundliches Design**
+  ermöglicht es den Nutzern die Funktionen ohne aufwändige Schulungen oder Anleitungen zu verstehen.  
+  Klare Navigation, gut sichtbare Schaltflächen, konsistente Designelemente und eine ansprechende visuelle Gestaltung tragen dazu bei, dass Nutzer die Plattform leicht verstehen und effektiv nutzen können.  
+  Sowie dass die Interaktion mit der Software reibungslos und wie erwartet funktioniert.  
+
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Kontinuierliches Feedback**
+  und damit einhergehende sukzessive Verbesserung ist entscheidend, um eine optimale Nutzerfreundlichkeit zu gewährleisten.  
+  Dieser Austausch ermöglicht es, auf die Bedürfnisse und Anforderungen der Nutzer einzugehen und die Benutzererfahrung kontinuierlich zu optimieren.  
+  Die Fähigkeit, auf Feedback zu reagieren und laufende Verbesserungen vorzunehmen, schafft nicht nur eine dynamische und anpassungsfähige Plattform, sondern stärkt auch das Vertrauen der Nutzer.  
+  Ein kontinuierlicher Dialog mit der Zielgruppe fördert Innovation und sichert, dass die angebotenen Lösungen stets den wachsenden Anforderungen gerecht werden.  
+
+<sub><sup> 
+----
+</sup></sub>  
+- ## **Zugänglichkeit & Verfügbarkeit**  
+  auch im Bereich der Kosten möchten wir durch ein transparentes und flexibles Preismodell ermöglichen.   
+  Anstatt Abonnements für Lernende einzuführen, ermöglichen wir den Erwerb einzelner Kurse, Fächer oder Disziplinen zu minimalen Kosten.  
+  
+  Unser ultimatives Ziel ist es jedoch, Schulen, Hochschulen und Bildungsministerien weltweit zu überzeugen.  
+  Wenn uns das gelingt, wird Bildung zu einem gemeinsamen Anliegen, das von der Gemeinschaft getragen wird.  
 ---
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------
 # In Isolation funktioniert auch die beste Technik nicht, wir machen Technik für Menschen:  
 
 ## Creator:  
@@ -227,7 +254,7 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
 ### - Den richtigen Lehrstil für den richtigen Benutzer finden.
 ---  
 
-<!-------------------------------------------------------------------------------------------------------------------------->  
+<!--------------------------------------------------------------------------------------------------------------------------
 ## User:  
    - Die User können ihre Suchvorschläge nach dem generellen Themenbau filtern:  
      > und erhalten durch die vorgefundenen Bewertungen gleich einen klaren Überblick darüber,  
@@ -240,7 +267,7 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
    - ...
 ---
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------
 #  Budget :  
 
 - ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;  
@@ -252,7 +279,7 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
 - ❗ ⇒ Wenn es uns gelingt, Hochschulen und Bildungsministerien (global) zu überzeugen, haben wir es geschafft!
 ---
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------
 ## 📊 Organisatorischer Rahmen :  
 
    - Es ist unerlässlich, eine robuste Infrastruktur zu schaffen und diese kontinuierlich zu administrieren.  
@@ -265,7 +292,7 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
      zugänglich und kann dadurch auf besseren Anklang und verbreiteten Nutzen stoßen, als bisherige Lösungen.  
 ---
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------
 ## Technische Bedingungen :  
 
    - Sukzessive kann der Funktionsumfang der Website erweitert und kontinuierlich weiterentwickelt werden.  
@@ -278,7 +305,7 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
    - Durchdachte Werbeeinnahmen könnten die Ressourcen gleichermaßen wachsen lassen und zugleich der Vermarktung dienen.  
 ---
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------
 ##  Chancen und Risiken :  
 
 ### Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken  
@@ -299,15 +326,9 @@ Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Prüfun
      >   motivieren jeden im eigenen Tempo Inhalte zu erarbeiten
      > - Belohnungen wie 'Abzeichen', 'Titel' und ähnliches; das auf den eigenen Pages präsentiert werden kann als Teil der Motivation
      > <sub>...</sub>
-## Unterstützung durch "Künstliche Intelligenzen"  
-   - Die Wahl der passenden Lerninhalte an den jeweiligen User, könnte extrem von KI-Anbindung profitieren  
-     > - Die Lernfortschritte überwachen und individuell anpassen
-     > - Den Wissensstand einordnen
-     > - Prüfungen ermöglichen
-     > <sub>...</sub>
----  
 
-<!-------------------------------------------------------------------------------------------------------------------------->
+
+<!--------------------------------------------------------------------------------------------------------------------------
 #### Risiken:  
    - Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen.  
    - Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein.  
