@@ -66,62 +66,62 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 <!-------------------------------------------------------------------------------------------------------------------------->
 ##  **Spezifikationen dieser Marktführer**:  
 
-### Moodle  
-- **Vorteile**:  
-    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
-    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
-- **Nachteile**:  
-    Die Benutzeroberfläche kann für Anfänger komplex sein  
-    Erfordert Hosting und Wartung durch die Institutionen  
-- **Kostenmodelle**:  
-    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
-- **Zielklientel**:  
-    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
+- ### Moodle  
+  > - **Vorteile**:  
+  >    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
+  >    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
+  > - **Nachteile**:  
+  >    Die Benutzeroberfläche kann für Anfänger komplex sein  
+  >    Erfordert Hosting und Wartung durch die Institutionen  
+  > - **Kostenmodelle**:  
+  >    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
+  > - **Zielklientel**:  
+  >    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................-->
-### Edutube
-- **Vorteile**:  
-    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
-- **Nachteile**:  
-    Nicht so umfassend wie einige internationale Alternativen  
-    Qualität der Inhalte kann variieren  
-- **Kostenmodelle**:  
-    In der Regel kostenlos  
-- **Zielklientel**:  
-    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
+- ### Edutube
+  > - **Vorteile**:  
+  >    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
+  > - **Nachteile**:  
+  >    Nicht so umfassend wie einige internationale Alternativen  
+  >    Qualität der Inhalte kann variieren  
+  > - **Kostenmodelle**:  
+  >    In der Regel kostenlos  
+  > - **Zielklientel**:  
+  >    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................--> 
-### Kahoot!  
-- **Vorteile**:  
-    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
-    Einfach zu nutzen  
-- **Nachteile**:  
-    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
-- **Kostenmodelle**:  
-    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
-- **Zielklientel**:  
-    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
+- ### Kahoot!  
+  > - **Vorteile**:  
+  >    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
+  >    Einfach zu nutzen  
+  > - **Nachteile**:  
+  >    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
+  > - **Kostenmodelle**:  
+  >    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
+  > - **Zielklientel**:  
+  >    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
 
 <sub><sup> 
 ----
 </sup></sub>
 <!--......................................................................................................................-->
-### Lernplattform der Universitäten (z.B., u:find)  
-- **Vorteile**:  
-    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
-    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
-- **Nachteile**:  
-    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
-- **Kostenmodelle**:  
-    Nutzung kann Teil der Studiengebühren sein  
-- **Zielklientel**:  
-    Studierende und Lehrende an den jeweiligen Universitäten  
+- ### Lernplattform der Universitäten (z.B., u:find)  
+  > - **Vorteile**:  
+  >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
+  >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
+  > - **Nachteile**:  
+  >    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
+  > - **Kostenmodelle**:  
+  >    Nutzung kann Teil der Studiengebühren sein  
+  > - **Zielklientel**:  
+  >    Studierende und Lehrende an den jeweiligen Universitäten  
 
 ---
 <!--......................................................................................................................-->
@@ -130,11 +130,11 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 Kommerzielle Lern-Apps haben **in den letzten Jahren an Bedeutung gewonnen** und bieten eine breite Palette von Bildungsmöglichkeiten.  
 Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über berufsbezogene Schulungen bis hin zu kreativen Themen.  
 
-Jedoch sind auch Risiken zu beachten:    
-- **Qualität** der Inhalte kann variieren, und die Wenigsten bieten akademische Anerkennung ihrer Zertifikate.  
-- **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
-- Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
-- **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
+- Jedoch sind auch Risiken zu beachten:    
+  > - **Qualität** der Inhalte kann variieren, und die Wenigsten bieten akademische Anerkennung ihrer Zertifikate.  
+  >- **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
+  > - Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
+  > - **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
