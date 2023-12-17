@@ -4,64 +4,12 @@
     📗Quickstart:      https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github  
     📘Basic Syntax:    https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 --------------------------------------------------------------------------------------------------------------------------------------->
-<!--
-## ⇒ [All issues](https://github.com/IxI-Enki/education-hub/issues) 
- <details>    
->   
->    -   [✅](https://github.com/IxI-Enki/education-hub/issues/1)  
->        → RESOLVED : repo renamed  
-> ———————  
->    
->    - **2**:  [Grundsätzliches](https://github.com/IxI-Enki/education-hub/issues/2#issue-2039397253)
->        - ✅ I) und II) sind schon eine recht brauchbare Version einer Ausgangssituation und der Rahmenbedingungen
->        - [~]  III) würde ich mich auf Ihre Lösungsidee beschränken und diese noch sehr viel konkreter machen
->        - ✅ IV) Die Konkurrenz würde ich in die Ausgangssituation einbauen
->        - ✅ besser ausdrücken  
->          → RESOLVED : text cut-short & precised
->          > ✅  "manche Dinge sind aber einfach nicht miteinander vereinbar" → gemeint war:
->          >     Es ist nicht miteinander vereinbar auf seiner Plattform Unterhaltungs-content (**mit zu vielen, zu aufdringlichen, zu ablenkenden Werbungen**) & Lehrreiche Inhalte (**die ebenfalls ein hohes Maß an Aufmerksamkeit und Fokus erfordern**) anzubieten; das wiederspricht sich etwas. <sub>( meiner Meinung nach )</sub>  
->          > ✅  "Andeutungen" → gemeint war:
->          >     Es ist relativ einfach, durch gezieltes/koordiniertes Melden von Inhalten an ein automatisiertes System, diese Inhalte verschwinden zu lassen ( die Intention dahinter ist erstmal sekundär und man kann diese nicht genau kennen);  
-Ich denke aber, dass dies immer zu einem Problem werden **kann**, wenn eine Plattform "zu groß" wird bzw "zu viele Menschen erreicht" → Dann kann über diese Reichweite die Meinung von Menschen geformt werden; bzw dies kann versucht werden ...  
->
-> 
->             ———————  
->      
->    - **3**:   [Schriftarten, -farben und Formulierungen](https://github.com/IxI-Enki/education-hub/issues/3)
->        - ✅ Ein Project Proposal soll (im Gegensatz zu einer Werbebroschüre) mit Fakten und einer auf Emotionen verzichtenden Sprache ausgeführt sein.  
->          Dazu gehört auch, dass man auf "kreative" Schriftwahl und -farbe verzichten soll.   
->        - ✅ → PARTIALLY RESOLVED : [fett/kursiv entfernt](https://github.com/IxI-Enki/education-hub/commit/30cb9f0bba6e069657231e3a0d9febe7fb3f3261)  
->        - die Möglichkeiten sind nahezu grenzenlos → **Dafür gibt's keine Kohle**  
-> ———————  
->                
->    - **4**:   [Finanzierung](https://github.com/IxI-Enki/education-hub/issues/4)
->        - ✅ Dem Leser fehlt <sub>(*wie uns auch*)</sub> eine konkrete Vorstellung davon wie man es finanzieren kann...  
->          >  <sub>Meine Idee/Gedankengang: </sub>  
->          >   *$* Wo ist denn Geld? *$*:    
->          >   - Nicht bei denen die eigentlich Bildung brauchen/wollen!  
->          >     →  Mit "lernen" wird "kostenlos" gesucht <sup>[siehe Marktanalyse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)</sup>   
->          >   - Das oberste 1% wird sein Vermögen nicht aus rein philanthropischen Intentionen abdrücken  
->          >     <sub> → Selbst wenn .. benutzt man uns dann vielleicht zum Schein alá *"ich mache sooo viel für Bildung/dafür kann ich anderen ihr Trinkwasser wegnehmen"* das kann zum Greenwashing benutzt werden .... Wollen wir diese Option lassen? </sub>  
->          >   - der Staat macht es einem nicht gerade einfach, wenn es um Bildung geht! </sub>  
->          >     <sub> → man denke an Corona und dass (**in der globalisierten Welt von heute**), so etwas zwangsläufig noch öfter passieren wird.</sub>  
->          >     <sub>  (Denn Transportketten umspannen den Globus und verteilen sowohl Güter als auch Krankheiten rasend schnell...)</sub>  
->          >     <sub>  ... Und **Niemand hat dafür einen Plan für den nächsten Lockdown oÄ - oder bereitet Infrastruktur darauf vor** </sub>  
->          >     <sub>   → **Wo ist das Geld um die Schulen zu digitalisieren?** </sub>
->          >   - Abonements finde ich persönlich oft verschwendetes Geld, da man die gebotenen Leistungen häufig nicht in Anspruch nimmt und entweder darauf vergisst oder manchmal sogar Hürden in den Weg gelegt bekommt diese wieder zu kündigen - damit meine ich, dass es oft viel einfacher ist ein Abo abzuschließen als es ist dieses wieder zu kündigen...  
->          >     → vielleicht ein System wie Patreon? oder Crowdfunding?
->          >       - wir könnten anbieten auf freiwilliger Basis größere einmalige Beiträge zu bezahlen, wenn das Angebot gefällt...  
->          >       - und man könnte anbieten dass sich Nutzer inerhalb der "Edu-hub-community", gegenseitig Einladungen zu Fächern schenken können;...  
->          >       .. für einstellige Beträge je Fach zB? <sub> Optimal finde ich noch Nichts davon </sub>      
 
-</details> -->
-<!-------------------------------------------------------------------------------------------------------------------------->
-# Ⅰ ) Das Lernen    
+# Ⅰ ) Das Lernen  
 
 ##  Der Mensch zeichnet sich schon immer durch seine Neugier aus
 
-Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.  
-Deshalb gaben wir uns den Namen : Homo sapiens  
-  > sapiens <sub>lat.</sub> : verstehend, verständig bzw. weise, klug, vernünftig ..  
+*Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*   
 
 ##  Das Bildungsangebot ist umfangreich geworden  
 
@@ -73,48 +21,50 @@ Theoretisch kann zwar jedes Individuum darauf zugreifen, praktisch gibt jedoch n
 - Machthierarchien  
 
 --- 
-<!-------------------------------------------------------------------------------------------------------------------------->
+<!--======================================================================================================================-->
+
 # Ⅱ ) Status quo: 
 
-##  'Traditionelles' Akquirieren von Wissen
+## **1.)** 'Traditionelles' Akquirieren von Wissen:
 
-Die Methoden im klassischen Präsenzunterricht umfassen Lehrvorträge, Gruppenaktivitäten, Diskussionen, praktische Übungen und individuelle Betreuung.  
-Der Lehrer spielt eine zentrale Rolle bei der Wissensvermittlung, und die direkte Interaktion ermöglicht ein schnelles Feedback.  
+Die Methoden im klassischen Präsenzunterricht umfassen **Lehrvorträge, Gruppenaktivitäten, Diskussionen, praktische Übungen** und individuelle Betreuung.  
+Der **Lehrer** spielt eine **zentrale Rolle** bei der Wissensvermittlung, und die direkte Interaktion ermöglicht ein schnelles Feedback.  
 
 Neben den Vorteilen des klassischen Präsenzunterrichts, wie direkter Kontakt von Lehrern und Schülern,  
-der eine unmittelbare Klärung von Fragen ermöglicht und darüber hinaus eine für die Disziplin förderliche Struktur sein kann,  
+der eine unmittelbare Klärung von Fragen ermöglicht und darüber hinaus eine für die **Disziplin** förderliche Struktur sein kann,  
 kann dieser auch Nachteile mit sich bringen:
 
 - Der starre Zeitplan kann für einige Lernende problematisch sein, insbesondere wenn sie mit anderen Verpflichtungen konkurrieren.  
 - Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
 - Geografische Distanzen können den Zugang zu Bildung behindern, und der traditionelle Unterricht berücksichtigt möglicherweise nicht ausreichend verschiedene Lernstile.  
 
-Dabei fehlt vielen Schulen die digitale Kompetenz, um am Puls der Zeit zu bleiben, oder Alternativen wie zB 'Home-Learning' effektiv und einfach anzubieten.  
+Vielen **Schulen fehlt die digitale Kompetenz**, um am Puls der Zeit zu bleiben, oder Alternativen wie z.B. 'Home-Learning' effektiv und einfach anzubieten.  
 
-Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnamefällen wie zB Pandemien unter Umständen absolviert werden,  
-dabei entscheiden alle Schulen unterschiedlich wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
+Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnahmefällen wie z.B. Pandemien unter Umständen absolviert werden,  
+dabei entscheiden alle Schulen individuell wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
 
 --- 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-##  den Lernprozess unterstüzende Plattformen  
+## **2.)** Den Lernprozess unterstützende Plattformen:  
 
-Digitale Lernplattformen bieten somit eine vielfältige Palette an Möglichkeiten, um Bildung und Wissen auf innovative Weise zu vermitteln.  
-Viele nützen daher Plattformen die den traditionellen Unterricht unterstüzen, Lerninhalte bereitstellen und individuellen Fortschritten angepasst werden können.  
+Digitale Lernplattformen bieten somit eine vielfältige Palette an Möglichkeiten, um Bildung und **Wissen auf innovative Weise zu vermitteln**.  
+Viele nützen daher Plattformen die den traditionellen Unterricht unterstützen, Lerninhalte bereitstellen und individuellen Fortschritten angepasst werden können.  
 
-Die Methoden dieser digitalen Lernplattformen reichen von klassischen Vorlesungen über interaktive Übungen bis hin zu Gamification-Elementen.  
-Adaptive Lernsysteme passen sich individuellen Fortschritten an und bieten personalisierte Inhalte.  
-Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.  
+Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesungen** über **interaktive Übungen** bis hin zu **Gamification-Elementen**.  
+**Adaptive Lernsysteme** passen sich **individuellen Fortschritten** an und bieten personalisierte Inhalte.  
 
-- Die in Österreich verbreitetsten Plattformen zu diesem Zweck sind:  
+- In Österreich sind die verbreitetsten Plattformen zu diesem Zweck:  
   > - Moodle
   > - Edutube
   > - Kahoot!
   > - Lernplattform der Universitäten (z.B., u:find)
 
---- 
-
-###  Spezifikationen dieser Marktführer:  
+<sub><sup> 
+----
+</sup></sub>
+<!-------------------------------------------------------------------------------------------------------------------------->
+##  **Spezifikationen dieser Marktführer**:  
 
 ### Moodle  
 - **Vorteile**:  
@@ -127,7 +77,11 @@ Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.
     Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
 - **Zielklientel**:  
     Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
-  
+
+<sub><sup> 
+----
+</sup></sub>
+<!--......................................................................................................................-->
 ### Edutube
 - **Vorteile**:  
     Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
@@ -138,10 +92,14 @@ Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.
     In der Regel kostenlos  
 - **Zielklientel**:  
     Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
-  
+
+<sub><sup> 
+----
+</sup></sub>
+<!--......................................................................................................................--> 
 ### Kahoot!  
 - **Vorteile**:  
-    Interaktive Plattform, die für spielerische, umfragebasierte Lernaktivitäten verwendet wird  
+    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
     Einfach zu nutzen  
 - **Nachteile**:  
     Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
@@ -150,6 +108,10 @@ Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.
 - **Zielklientel**:  
     Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
 
+<sub><sup> 
+----
+</sup></sub>
+<!--......................................................................................................................-->
 ### Lernplattform der Universitäten (z.B., u:find)  
 - **Vorteile**:  
     Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
@@ -162,9 +124,45 @@ Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.
     Studierende und Lehrende an den jeweiligen Universitäten  
 
 ---
+<!--......................................................................................................................-->
+## **2b.)** Kommerzielle Lernprogramme/Apps:
 
+Kommerzielle Lern-Apps haben **in den letzten Jahren an Bedeutung gewonnen** und bieten eine breite Palette von Bildungsmöglichkeiten.  
+Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über berufsbezogene Schulungen bis hin zu kreativen Themen.  
+
+Jedoch sind auch Risiken zu beachten:    
+- **Qualität** der Inhalte kann variieren, und die Wenigsten bieten akademische Anerkennung ihrer Zertifikate.  
+- **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
+- Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
+- **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
+
+---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
+## **3.)**  Weitere wichtige Anlaufstellen, ohne direkte Bildungsabsicht:  
+
+### Traditionelle Suchmaschinen (Google & Co.)   
+
+- Müssen aus **wirtschaftlichem Interesse** Firmen & deren Kunden befriedigen - **Filtern** und präsentieren ihre Ergebnisse dem entsprechend.  
+  > - Auf Google finden Nutzer - bei nahezu jeder Suchanfrage - erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.  
+  > - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
+
+### Videoplattformen (YouTube, TikTok & Co.)  
+- Bieten Content für ein sehr **breites Publikum** an, die unterschiedlichste Interessen haben:      
+  > - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>                                  
+  > - Kinder & Kleinkinder  
+  > - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
+  > - Menschen die lehren & lernen  
+
+### Spezifizierte Suchmaschinen und Foren (Wikipedia & Co.)  
+- Bieten eine Unmenge an Informationen, für dessen Einordnung ein **Grundwissen** oft mehr als nur hilfreich ist.    
+
+--- 
+<!--======================================================================================================================-->
+
+
+
+  
 <!--  
 ##  Oder man lernt mit Hilfe von diversen bestehenden Bildungs- und Lernwebseiten : 
 
@@ -207,22 +205,7 @@ Diskussionsforen und Online-Gruppen fördern den Austausch unter Lernenden.
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-##  Andere/erste Anlaufstellen, um Informationen zu finden :  
-
-- ### Traditionelle Suchmaschinen (Google & Co.)  
-   -  Müssen aber aus wirtschaftlichem Interesse Firmen & deren Kunden befriedigen.  
-   -  Filtern und präsentieren ihre Ergebnisse dem entsprechend.
-      >  - Auf Google finden Nutzer -bei nahezu jeder Suchanfrage- erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.
-      >  - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
-- ### Spezifizierte Suchmaschinen (Wikipedia & Co.)  
-   -  Werden von einer kleinen Gruppe "Auserwählter" editiert und legitimiert.    
-- ### Videoplattformen (YouTube, TikTok & Co.)  
-   -  Bieten Content für ein sehr breites Publikum an, die unterschiedlichste Interessen haben:      
-        - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>                                  
-        - Kinder & Kleinkinder  
-        - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
-        - Menschen die lehren & lernen  
-          <sub>.. etc ..</sub>  
+##  Andere/
     - #####   ❗  ⇒  Der Interessenskonflikt zeigt sich in Werbeeinblendungen und anderen Ablenkungen, die von ablenkend bis zu frustrierend sein können.   
    
  - ### "Soziale" Medien (Facebook, Twitter & Co.)   
