@@ -169,11 +169,9 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ---
 <!--======================================================================================================================-->
 
-# Ⅲ ) Die Lösung  
+# Ⅲ ) Die Lösung: EducationHub - der Umschlagplatz für Bildung:  
 
-## EducationHub - der Umschlagplatz für Bildung:  
-
-### EducationHub strebt danach, die ultimative Anlaufstelle für Bildung zu werden.
+### EducationHub strebt danach, die ultimative Anlaufstelle für die Weiterbildung Menschen aller Altersgruppen zu werden.
 
 ---
 
