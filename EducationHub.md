@@ -417,7 +417,33 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
-## ***C.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
+## ***C.) Integration von Machine Learning:*** (ML)
+
+- Adaptive Lernplattformen:  
+  > Wir nutzen ML, um das Verhalten von Lernenden zu analysieren und daraus Schlüsse zu ziehen, welche Art von Inhalten für einzelne Schüler am effektivsten ist.  
+  > Unsere Plattformen passen sich an die individuellen Bedürfnisse an, indem sie automatisch Inhalte vorschlagen, die dem Lernstil und dem Kenntnisstand jedes Schülers entsprechen.  
+- Predictive Analytics:
+  > Durch die Analyse von Lernhistorien und Verhaltensdaten ermöglichen wir ML, Vorhersagen darüber zu treffen, wie gut ein Lernender in bestimmten Themen abschneiden wird.   
+  > Wir informieren Lehrer frühzeitig über potenzielle Schwierigkeiten, um gezielte Unterstützung bieten zu können.  
+- Automatisierte Rückmeldung:  
+  > ML stellt automatisierte Feedback-Mechanismen bereit, die auf den individuellen Fortschritten und Fehlern der Lernenden basieren.  
+  > Dadurch ermöglichen wir sofortiges Feedback, was den Lernprozess effizienter gestaltet.  
+- Personalisierte Inhalte:
+  > ML kommt bei uns zum Einsatz, um personalisierte Lernmaterialien zu erstellen, die den individuellen Kenntnisstand und die Interessen der Lernenden berücksichtigen.  
+  > Das steigert die Relevanz der Inhalte und fördert die Motivation.  
+- Frühzeitige Intervention:  
+  > Durch die Überwachung von Verhaltensindikatoren identifizieren wir frühzeitig potenzielle Probleme oder Schwierigkeiten bei einzelnen Schülern mithilfe von ML.  
+  > Unsere Lehrer können dann gezielt Unterstützung anbieten, bevor Schwierigkeiten eskalieren.  
+- Gamification:  
+  > Wir integrieren ML in Gamification-Elemente, um Lernende zu motivieren und herauszufordern.  
+  > Die Analyse des Spielverhaltens ermöglicht es unserer Plattform, die Lernerfahrung kontinuierlich zu optimieren.  
+- Zeitmanagement:  
+  > ML analysiert bei uns das optimale Zeitmanagement für individuelle Lernende und gibt Empfehlungen für effektive Lernzeiten und Pausen.  
+
+---
+
+<!-------------------------------------------------------------------------------------------------------------------------->
+## ***D.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
 
 - Anonymisierung und Pseudonymisierung:   
   > Wir setzen Anonymisierungstechniken ein, um persönliche Daten zu schützen.  
@@ -448,31 +474,6 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 - Datenschutzrichtlinien klar kommunizieren:  
   > Wir stellen klare Datenschutzrichtlinien bereit und kommunizieren sie deutlich auf unserer Plattform.  
   > Weiters tellen wir sicher, dass Lernende und Lehrende leicht darauf zugreifen können.  
-
----
-<!-------------------------------------------------------------------------------------------------------------------------->
-## ***D.) Integration von Machine Learning:*** (ML)
-
-- Adaptive Lernplattformen:  
-  > Wir nutzen ML, um das Verhalten von Lernenden zu analysieren und daraus Schlüsse zu ziehen, welche Art von Inhalten für einzelne Schüler am effektivsten ist.  
-  > Unsere Plattformen passen sich an die individuellen Bedürfnisse an, indem sie automatisch Inhalte vorschlagen, die dem Lernstil und dem Kenntnisstand jedes Schülers entsprechen.  
-- Predictive Analytics:
-  > Durch die Analyse von Lernhistorien und Verhaltensdaten ermöglichen wir ML, Vorhersagen darüber zu treffen, wie gut ein Lernender in bestimmten Themen abschneiden wird.   
-  > Wir informieren Lehrer frühzeitig über potenzielle Schwierigkeiten, um gezielte Unterstützung bieten zu können.  
-- Automatisierte Rückmeldung:  
-  > ML stellt automatisierte Feedback-Mechanismen bereit, die auf den individuellen Fortschritten und Fehlern der Lernenden basieren.  
-  > Dadurch ermöglichen wir sofortiges Feedback, was den Lernprozess effizienter gestaltet.  
-- Personalisierte Inhalte:
-  > ML kommt bei uns zum Einsatz, um personalisierte Lernmaterialien zu erstellen, die den individuellen Kenntnisstand und die Interessen der Lernenden berücksichtigen.  
-  > Das steigert die Relevanz der Inhalte und fördert die Motivation.  
-- Frühzeitige Intervention:  
-  > Durch die Überwachung von Verhaltensindikatoren identifizieren wir frühzeitig potenzielle Probleme oder Schwierigkeiten bei einzelnen Schülern mithilfe von ML.  
-  > Unsere Lehrer können dann gezielt Unterstützung anbieten, bevor Schwierigkeiten eskalieren.  
-- Gamification:  
-  > Wir integrieren ML in Gamification-Elemente, um Lernende zu motivieren und herauszufordern.  
-  > Die Analyse des Spielverhaltens ermöglicht es unserer Plattform, die Lernerfahrung kontinuierlich zu optimieren.  
-- Zeitmanagement:  
-  > ML analysiert bei uns das optimale Zeitmanagement für individuelle Lernende und gibt Empfehlungen für effektive Lernzeiten und Pausen.  
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
