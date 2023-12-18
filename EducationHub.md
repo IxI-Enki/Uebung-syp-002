@@ -38,9 +38,9 @@ kann dieser auch Nachteile mit sich bringen:
 - Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
 - Geografische Distanzen können den Zugang zu Bildung behindern, und der traditionelle Unterricht berücksichtigt möglicherweise nicht ausreichend verschiedene Lernstile.  
 
-Vielen **Schulen fehlt die digitale Kompetenz**, um am Puls der Zeit zu bleiben, oder Alternativen wie z.B. 'Home-Learning' effektiv und einfach anzubieten.  
+Vielen **Schulen fehlt die digitale Kompetenz** um am Puls der Zeit zu bleiben, oder Alternativen wie z.B. 'Home-Learning' effektiv und einfach anzubieten.  
 
-Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnahmefällen wie z.B. Pandemien unter Umständen absolviert werden,  
+Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnahmefällen wie z.B. Pandemien (unter seltenen Umständen) online absolviert werden,  
 dabei entscheiden alle Schulen individuell wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
 
 --- 
@@ -66,7 +66,7 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 <!-------------------------------------------------------------------------------------------------------------------------->
 ## **Spezifikationen dieser Marktführer**:
 
-- ### Moodle  
+- ### [Moodle](https://moodle.com/de/)  
   - **Vorteile**:  
     >    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
     >    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
@@ -82,7 +82,7 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 ----
 </sup></sub>
 <!--......................................................................................................................-->
-- ### Edutube
+- ### [Edutube](https://www.bildung.gv.at/filter/faq/page.php?l=de&p=47&t)
   - **Vorteile**:  
     >    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
   - **Nachteile**:  
@@ -97,7 +97,7 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 ----
 </sup></sub>
 <!--......................................................................................................................--> 
-- ### Kahoot!  
+- ### [Kahoot!](https://kahoot.com/de/)  
   - **Vorteile**:  
     >    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
     >    Einfach zu nutzen  
@@ -112,7 +112,7 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 ----
 </sup></sub>
 <!--......................................................................................................................-->
-- ### Lernplattform der Universitäten (z.B., u:find)  
+- ### Lernplattform der Universitäten (z.B., [u:find](https://ssc-phil.univie.ac.at/lehre/vorlesungsverzeichnis-ufind/))  
   - **Vorteile**:  
     >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
     >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
@@ -136,13 +136,15 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
   > - Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
   > - **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
 
+- [Beispiele für kommerzielle Lern-Apps](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/README.md)
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 ## **3.)**  Weitere wichtige Anlaufstellen, ohne direkte Bildungsabsicht:  
 
 ### Traditionelle Suchmaschinen (Google & Co.)   
-
+ [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)
+   
 - Müssen aus **wirtschaftlichem Interesse** Firmen & deren Kunden befriedigen - **Filtern** und präsentieren ihre Ergebnisse dem entsprechend.  
   > - Auf Google finden Nutzer - bei nahezu jeder Suchanfrage - erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.  
   > - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
@@ -178,7 +180,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <!-------------------------------------------------------------------------------------------------------------------------->
 # **1.)** Die grundlegenden Ansätze von Education Hub: 
 
-- ## **Open-Source**  
+- ## [**Open-Source** ](https://opensource.org)  
   bietet eine transparente und kollaborative Umgebung, die **Innovation** fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
   Durch den offenen Zugang zum Quellcode sind **Anpassungen und Verbesserungen möglich**, was zu **verlässlichen und sicheren Lösungen** führt.  
   Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung **nachhaltiger und fortschrittlicher Technologien** bei, die von einer breiten Nutzerbasis profitieren.  
@@ -186,7 +188,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Dokumentation & Transparenz nach dem erprobten Vorbild - Github**  
+- ## [**Dokumentation & Transparenz nach dem erprobten Vorbild - Github**](https://dl.acm.org/doi/abs/10.1145/2145204.2145396)  
   schafft eine offene und kollaborative Lernumgebung.  
   Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, **Inhalte gemeinschaftlich zu gestalten**, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
   Die GitHub-ähnliche Struktur ermöglicht es, den Lernprozess besser zu verstehen, individuelle Anpassungen vorzunehmen und schafft so eine dynamische und partizipative Bildungsumgebung.  
@@ -194,7 +196,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Privacy-by-Design-Prinzipien**  
+- ## [**Privacy-by-Design-Prinzipien**](https://piwikpro.de/blog/privacy-by-design-und-privacy-by-default/)  
   wie Anonymisierung, Pseudonymisierung und Datenschutzrichtlinien ermöglichen eine gewisse Transparenz und Analysen, während gleichzeitig die Privatsphäre geschützt wird.  
   Durch klare Datenschutzrichtlinien und sichere Technologien stellen wir sicher, dass persönliche Informationen vertraulich behandelt und nur für berechtigte Zwecke verwendet werden.  
   Die Realisierung von Datenschutz in einer transparenten Lernplattform erfordert einen ausgewogenen Ansatz, der die individuelle Privatsphäre respektiert, gleichzeitig aber auch die Transparenz und Zusammenarbeit fördert.  
@@ -202,7 +204,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Machine Learning**  
+- ## [**Machine Learning**](https://piogroup.net/blog/machine-learning-in-education-benefits-and-impact)  
   ermöglicht **personalisierte Ansätze** und **adaptive Lernsysteme** und Strategien.  
   Zudem kann mit **predictive Analytics** frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
   Automatische Rückmeldungen können als erste Hilfestellungen für Schüler fungieren und Lehrer entlasten.  
@@ -213,7 +215,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Intuitives/Nutzerfreundliches Design**
+- ## [**Intuitives/Nutzerfreundliches Design**](https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/)
   ermöglicht es den Nutzern die Funktionen ohne aufwändige Schulungen oder Anleitungen zu verstehen.  
   Klare Navigation, gut sichtbare Schaltflächen, konsistente Designelemente und eine ansprechende visuelle Gestaltung tragen dazu bei, dass Nutzer die Plattform leicht verstehen und effektiv nutzen können.  
   Sowie dass die Interaktion mit der Software reibungslos und wie erwartet funktioniert.  
@@ -221,7 +223,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Kontinuierliches Feedback**
+- ## [**Kontinuierliches Feedback**](https://www.betterworks.com/magazine/continuous-feedback/)
   und damit einhergehende sukzessive Verbesserung ist entscheidend, um eine optimale Nutzerfreundlichkeit zu gewährleisten.  
   Dieser Austausch ermöglicht es, auf die **Bedürfnisse und Anforderungen** der Nutzer einzugehen und die Benutzererfahrung **kontinuierlich zu optimieren**.  
   Die Fähigkeit, auf Feedback zu reagieren und laufende Verbesserungen vorzunehmen, schafft nicht nur eine dynamische und anpassungsfähige Plattform, sondern stärkt auch das Vertrauen der Nutzer.  
@@ -230,7 +232,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Zugänglichkeit & Verfügbarkeit**  
+- ## **Zugänglichkeit & Verfügbarkeit**
   auch im Bereich der Kosten möchten wir durch ein transparentes und **flexibles Preismodell** ermöglichen.   
   Anstatt Abonnements für Lernende einzuführen, ermöglichen wir den Erwerb einzelner Kurse, Fächer oder Disziplinen zu minimalen Kosten.  
   
@@ -255,8 +257,12 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
     Wie auch prominente, renommierte Vortragende ein direktes Interesse darin besitzen, dass ihre Vorträge weiterhin exklusiv bleiben.     
     Ebenso existiert ein Markt für gekaufte Abschlüsse, Zeugnisse und Titel, die wohl kaum begeistert davon wären, wenn es eine zentrale Instanz gäbe die das Verteilen von genannten Dokumenten erschwert oder sogar verhindert.
 
-- Doch wir sehen dies als Möglichkeit zur Entwicklung einer neuen Ordnung, in denen Führungskräfte unwiderlegbar ihre Kompetenzen darlegen können werden, Plagiatsvorwürfe der Vergangenheit angehören und sich insgesamt die Qualität von Bildung auf einen höheren, globalen Standard heben lässt; welche Implikationen das noch zur Folge haben könnte, wagen wir nur hoffnungsvoll zu vermuten.
-  
+- ***Doch wir sehen dies als Möglichkeit zur Entwicklung einer neuen Ordnung, in denen Führungskräfte unwiderlegbar ihre Kompetenzen darlegen können werden, Plagiatsvorwürfe der Vergangenheit angehören und sich insgesamt die Qualität von Bildung auf einen höheren, globalen Standard heben lässt; welche Implikationen das noch zur Folge haben könnte, wagen wir nur hoffnungsvoll zu vermuten.***
+
+[Studien bezüglich gekauften Abschlüssen und Titel - deren Impact](https://b-irc.org/en/macedonia-flooded-with-forged-brains/) 
+[Etwas ältere Studie zum thema fake degrees](https://www.jstor.org/stable/25511352)
+[Guide on diploma Mills](https://www.cimea.it/Upload/Documenti/Guidelines-on-Diploma-Mills.pdf)
+
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -274,7 +280,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
       dadurch soll die Hürde genommen werden, sich selbst einmal einen Kurs zu kaufen, denn wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
       Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.
     
-  - Zusätzlich bieten wir eine innovative Crowdfunding-Möglichkeit an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
+  - Zusätzlich bieten wir eine innovative [Crowdfunding-Möglichkeit]((https://press.farm/kickstarter-vs-indiegogo-vs-patreon-crowdfunding-guide/) an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
       Diese Mittel fließen in einen Topf, aus dem besonders wichtige Kurse, die jeder besuchen sollte, finanziert werden können.  
       
   Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.
