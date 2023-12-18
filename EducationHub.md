@@ -48,7 +48,7 @@ Neben diesen Vorteilen des klassischen Präsenzunterrichts, kann er aber auch Na
 --- 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-## **2.)** Den Lernprozess unterstützende Plattformen:  
+## **2a.)** Den Lernprozess unterstützende Plattformen:  
 
 Digitale Lernplattformen bieten eine vielfältige Palette an Möglichkeiten, um Bildung und **Wissen auf innovative Weise zu vermitteln**.  
 Viele nützen daher Plattformen um den traditionellen Unterricht zu unterstützen, Lerninhalte bereitzustellen und individuelle Lernfortschritte im Auge zu behalten.  
@@ -56,7 +56,7 @@ Viele nützen daher Plattformen um den traditionellen Unterricht zu unterstütze
 Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesungen** über **interaktive Übungen** bis hin zu **Gamification-Elementen**.  
  **Adaptive Lernsysteme** passen sich **individuellen Fortschritten** an und bieten personalisierte Inhalte.  
 
-- In Österreich sind die verbreitetsten Plattformen zu diesem Zweck:  
+- Die meist verwendeten Lernplattformen Österreichs sind:  
   > - Moodle
   > - Edutube
   > - Kahoot!
@@ -70,15 +70,15 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 
 - ### [Moodle](https://moodle.com/de/)  
   - **Vorteile**:  
-    >    Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
-    >    Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
+    > Open-Source-Plattform - hohe Anpassungsmöglichkeiten  
+    > Wird oft von Bildungseinrichtungen genutzt und ermöglicht die Erstellung von Kursen, Foren und die Bereitstellung von Ressourcen  
   - **Nachteile**:  
-    >    Die Benutzeroberfläche kann für Anfänger komplex sein  
-    >    Erfordert Hosting und Wartung durch die Institutionen  
-  - **Kostenmodelle**:  
-    >    Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
+    > Die Benutzeroberfläche kann für Anfänger komplex sein  
+    > Erfordert Hosting und Wartung durch die Institutionen  
+  - **Kostenmodell**:  
+    > Moodle selbst ist kostenlos, Kosten für Hosting und Wartung können anfallen  
   - **Zielklientel**:  
-    >    Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
+    > Bildungseinrichtungen, die eine eigene Lernplattform betreiben möchten  
 
 <sub><sup> 
 ----
@@ -86,14 +86,14 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 <!--......................................................................................................................-->
 - ### [Edutube](https://www.bildung.gv.at/filter/faq/page.php?l=de&p=47&t)
   - **Vorteile**:  
-    >    Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
+    > Austausch von Bildungsinhalten, darunter Videos, Präsentationen und Dokumenten  
   - **Nachteile**:  
-    >    Nicht so umfassend wie einige internationale Alternativen  
-    >    Qualität der Inhalte kann variieren  
-  - **Kostenmodelle**:  
-    >    In der Regel kostenlos  
+    > Nicht so umfassend wie einige internationale Alternativen  
+    > Qualität der Inhalte kann variieren  
+  - **KostenmodelL**:  
+    > In der Regel kostenlos  
   - **Zielklientel**:  
-    >    Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
+    > Pädagogen und Lernende, die auf der Suche nach Bildungsinhalten und Ressourcen sind  
 
 <sub><sup> 
 ----
@@ -101,14 +101,14 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 <!--......................................................................................................................--> 
 - ### [Kahoot!](https://kahoot.com/de/)  
   - **Vorteile**:  
-    >    Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
-    >    Einfach zu nutzen  
+    > Interaktive Plattform, die für spielerische, Umfrage-basierte Lernaktivitäten verwendet wird  
+    > Einfach zu nutzen  
   - **Nachteile**:  
-    >    Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
-  - **Kostenmodelle**:  
-    >    Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
+    > Besser für kurze, spielerische Aktivitäten geeignet und weniger für umfangreichere Lehrinhalte  
+  - **Kostenmodell**:  
+    > Grundlegende Nutzung kostenlos, es gibt jedoch kostenpflichtige Pläne für erweiterte Funktionen  
   - **Zielklientel**:  
-    >    Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
+    > Lehrer und Trainer, die interaktive und spielerische Elemente in den Unterricht integrieren möchten  
 
 <sub><sup> 
 ----
@@ -116,14 +116,14 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 <!--......................................................................................................................-->
 - ### Lernplattform der Universitäten (z.B:, [u:find](https://ssc-phil.univie.ac.at/lehre/vorlesungsverzeichnis-ufind/))  
   - **Vorteile**:  
-    >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
-    >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
+    > Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
+    > Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
   - **Nachteile**:  
-    >    Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
-  - **Kostenmodelle**:  
-    >    Nutzung kann Teil der Studiengebühren sein  
+    > Nicht so benutzerfreundlich oder einheitlich wie einige kommerzielle Alternativen  
+  - **Kostenmodell**:  
+    > Nutzung kann Teil der Studiengebühren sein  
   - **Zielklientel**:  
-    >    Studierende und Lehrende an den jeweiligen Universitäten  
+    > Studierende und Lehrende an den jeweiligen Universitäten  
 
 ---
 <!--......................................................................................................................-->
@@ -137,8 +137,12 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
   > - **Datenschutzbedenken** können entstehen, da einige Plattformen persönliche Daten sammeln.  
   > - Gefahr der **Überbetonung kurzfristiger, oberflächlicher Kenntnisse** gegenüber tiefgehendem Verständnis.   
   > - **Kosten*** für den Zugang zu hochwertigen Inhalten können ebenfalls ein Hindernis darstellen.  
+  >
+  > <sub><sup> 
+  > ----
+  > </sup></sub>
+  > [Beispiele für kommerzielle Lern-Apps](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/README.md)
 
-- [Beispiele für kommerzielle Lern-Apps](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/README.md)
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -214,7 +218,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-# **1.)** Die grundlegenden Ansätze von Education Hub: 
+## **1.)** Die grundlegenden Ansätze von Education Hub: 
 
 - ## [**Open-Source** ](https://opensource.org)  
   bietet eine transparente und kollaborative Umgebung, die **Innovation** fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
@@ -317,8 +321,8 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
   > ----
   > </sup></sub>  
   > - [The changing forms and expectations of peer review](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-018-0051-5)
----
 
+---
 <!-------------------------------------------------------------------------------------------------------------------------->
 # **3.)** Finanzierung: 
 
@@ -332,16 +336,16 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
      
   - Diese **Zugangspakete können** innerhalb der Community **verschenkt oder extern erworben und weitergegeben werden** – vergleichbar mit Steam-Guthaben oder -Spielen.
       dadurch soll die Hürde genommen werden sich selbst einen Kurs zu kaufen, und  wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
-      Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.
+      **Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.**
     
   - Zusätzlich bieten wir eine innovative [Crowdfunding-Möglichkeit](https://press.farm/kickstarter-vs-indiegogo-vs-patreon-crowdfunding-guide/) an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
       Diese Mittel fließen in einen Topf, aus dem **besonders wichtige Kurse**, die jeder besuchen sollte, finanziert werden können.  
       
-  Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.
+  ***Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.***
+  
 ---
 
 <!--======================================================================================================================-->
-
 #  Ⅳ ) Die Details  
 
 ### In Isolation funktioniert auch die beste Technik nicht - wir entwickeln Technik für Menschen:  
@@ -375,9 +379,45 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
   > Wir setzen auf offene Standards, um sicherzustellen, dass unsere Plattform für eine breite Nutzerbasis zugänglich ist und dass Bildungsinhalte interoperabel und langfristig nutzbar sind.
 
 ---
+<!-------------------------------------------------------------------------------------------------------------------------->
+## ***B.) Transparenz und Dokumentation inspiriert von GitHub in unserer Bildungsplattform:***
 
+- **Öffentliche Lernprofile**:
+  > Jeder Lernende hat ein öffentliches Lernprofil, das Fortschritte und Erfolge transparent darstellt.
+  > Dies fördert eine offene Kultur des Teilens und der Anerkennung von individuellen Leistungen.
+- **Detaillierte Lernhistorie**:
+  > Die Plattform zeichnet detailliert auf, welche Lernschritte ein Nutzer unternommen hat.
+  > Dies ermöglicht eine umfassende Dokumentation des individuellen Lernverlaufs und bietet eine Grundlage für gezielte Unterstützung.
+- **Kollaborative Lernprojekte**:
+  > Ähnlich zu GitHub ermöglichen wir kollaborative Lernprojekte, bei denen Lernende gemeinsam an Projekten arbeiten können.
+  > Die Fortschritte und Beiträge sind transparent einsehbar und fördern den Austausch innerhalb der Lerncommunity.
+- **Offene Lehrmaterialien**:
+  > Lehrmaterialien sind öffentlich zugänglich und transparent.
+  > Dies schafft eine Atmosphäre des Teilens von Wissen und fördert die Zusammenarbeit zwischen Lehrenden, um Lehrinhalte kontinuierlich zu verbessern.
+- **Community-Diskussionsforen**:
+  > Transparente Diskussionsforen ermöglichen es Lernenden, sich aktiv an der Gestaltung der Plattform zu beteiligen.
+  > Sie können Ideen austauschen, Bedenken äußern und an der gemeinsamen Weiterentwicklung teilhaben.
+- **Projekt-Roadmaps**:
+  > Klare Projekt-Roadmaps zeigen den Entwicklungsverlauf der Plattform transparent auf.
+  > Die Community kann sich über geplante Funktionen informieren und Feedback geben, um die Entwicklung aktiv mitzugestalten.
+- **Fortschrittsvisualisierung**:
+  > Graphische Darstellungen visualisieren individuelle und gruppenbezogene Lernfortschritte.
+  > Dies fördert nicht nur die Motivation der Lernenden, sondern ermöglicht auch Lehrenden, den Erfolg ihrer Lehrmethoden zu beobachten.
+- **Transparente Evaluationskriterien:
+  > Klare und transparente Kriterien für Evaluierungen und Prüfungen sind für alle Benutzer einsehbar.
+  > Dies schafft Fairness und Verständnis für die Bewertung von Lernleistungen.
+- **Entwicklungsdokumentation**:
+  > Ähnlich zu GitHub dokumentieren wir transparent den Entwicklungsprozess der Plattform.
+  > Dies ermöglicht es Entwicklern, die Entscheidungsfindung nachzuvollziehen und fördert eine offene Entwicklergemeinschaft.
+- **Partizipative Governance**:
+  > Die Plattform wird durch partizipative Governance-Modelle transparent gesteuert.
+  > Entscheidungen bezüglich Entwicklung, Richtlinien und Funktionen werden gemeinsam getroffen, um die Vielfalt der Perspektiven zu berücksichtigen.
 
-## ***A.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
+*Durch die Umsetzung dieser Ansätze inspiriert von GitHub schaffen wir eine transparente und dokumentierte Bildungsplattform, die von der aktiven Beteiligung und Zusammenarbeit der Lernenden und Lehrenden profitiert.*
+
+---
+<!-------------------------------------------------------------------------------------------------------------------------->
+## ***C.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
 
 - Anonymisierung und Pseudonymisierung:   
   > Wir setzen Anonymisierungstechniken ein, um persönliche Daten zu schützen.  
@@ -411,8 +451,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
-
-## ***B.) Integration von Machine Learning:*** (ML)
+## ***D.) Integration von Machine Learning:*** (ML)
 
 - Adaptive Lernplattformen:  
   > Wir nutzen ML, um das Verhalten von Lernenden zu analysieren und daraus Schlüsse zu ziehen, welche Art von Inhalten für einzelne Schüler am effektivsten ist.  
@@ -437,11 +476,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
-
-
-<!-------------------------------------------------------------------------------------------------------------------------->
-
-## ***D.) Designentscheidungen:***
+## ***E.) Designentscheidungen:***
 
 - Benutzerzentrierter Ansatz:
   > Unser Design orientiert sich an den Bedürfnissen der Benutzer.
@@ -472,8 +507,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
-
-## ***E.) Feedback und Innovationsraum:***
+## ***F.) Feedback und Innovationsraum:***
 
 - Kontinuierliches Feedback-System:
   > Unsere Plattform implementiert ein kontinuierliches Feedback-System, das es Benutzern ermöglicht, ihre Erfahrungen und Anregungen unmittelbar zu teilen.
