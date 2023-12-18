@@ -37,7 +37,7 @@
 
 ---
 
-- [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md);
+- [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)
 
 <!--- 
 # **Beispiele für "süchtig machende Feeds"**:
