@@ -179,16 +179,16 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 # **1.)** Die grundlegenden Ansätze von Education Hub: 
 
 - ## **Open-Source**  
-  bietet eine transparente und kollaborative Umgebung, die Innovation fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
-  Durch den offenen Zugang zum Quellcode sind Anpassungen und Verbesserungen möglich, was zu verlässlicheren und sichereren Lösungen führt.  
-  Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung nachhaltiger und fortschrittlicher Technologien bei, die von einer breiten Nutzerbasis profitieren.  
+  bietet eine transparente und kollaborative Umgebung, die **Innovation** fördert, Kosten reduziert und eine breite Gemeinschaft von Entwicklern ermöglicht.  
+  Durch den offenen Zugang zum Quellcode sind **Anpassungen und Verbesserungen möglich**, was zu **verlässlichen und sicheren Lösungen** führt.  
+  Der gemeinsame Wissensaustausch in der Open-Source-Gemeinschaft trägt zur Entwicklung **nachhaltiger und fortschrittlicher Technologien** bei, die von einer breiten Nutzerbasis profitieren.  
 
 <sub><sup> 
 ----
 </sup></sub>  
 - ## **Dokumentation & Transparenz nach dem erprobten Vorbild - Github**  
   schafft eine offene und kollaborative Lernumgebung.  
-  Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, Inhalte gemeinschaftlich zu gestalten, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
+  Durch die transparente Nachverfolgung von Lernfortschritten und die Möglichkeit, **Inhalte gemeinschaftlich zu gestalten**, fördern wir den offenen Austausch von Ideen und die Zusammenarbeit zwischen Lehrenden und Lernenden.  
   Die GitHub-ähnliche Struktur ermöglicht es, den Lernprozess besser zu verstehen, individuelle Anpassungen vorzunehmen und schafft so eine dynamische und partizipative Bildungsumgebung.  
 
 <sub><sup> 
@@ -203,11 +203,11 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ----
 </sup></sub>  
 - ## **Machine Learning**  
-  ermöglicht personalisierte Ansätze und adaptive Lernsysteme und Strategien.  
-  Zudem kann mit predictive Analytics frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
+  ermöglicht **personalisierte Ansätze** und **adaptive Lernsysteme** und Strategien.  
+  Zudem kann mit **predictive Analytics** frühzeitig auf potentielle Schwächen reagiert werden und das Angebot angepasst und erweitert werden.  
   Automatische Rückmeldungen können als erste Hilfestellungen für Schüler fungieren und Lehrer entlasten.  
   Das Zeitmanagement von Lernenden kann durch ML ebenfalls profitieren.  
-  Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Onlineprüfungen zuzuordnen und einen Schummelversuch frühzeitig erkennen.  
+  Die Analyse von pseudonymisierten Nutzerverhalten kann helfen Nutzer bei Onlineprüfungen zuzuordnen und einen **Schummelversuch frühzeitig erkennen**.  
   Beim automatisierten Übersetzen von Lerninhalten, in die Muttersprache von Lernenden kann Machine Learning eine sehr große Hilfe darstellen und zu einem besseren Verständnis verhelfen.    
 
 <sub><sup> 
@@ -223,7 +223,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 </sup></sub>  
 - ## **Kontinuierliches Feedback**
   und damit einhergehende sukzessive Verbesserung ist entscheidend, um eine optimale Nutzerfreundlichkeit zu gewährleisten.  
-  Dieser Austausch ermöglicht es, auf die Bedürfnisse und Anforderungen der Nutzer einzugehen und die Benutzererfahrung kontinuierlich zu optimieren.  
+  Dieser Austausch ermöglicht es, auf die **Bedürfnisse und Anforderungen** der Nutzer einzugehen und die Benutzererfahrung **kontinuierlich zu optimieren**.  
   Die Fähigkeit, auf Feedback zu reagieren und laufende Verbesserungen vorzunehmen, schafft nicht nur eine dynamische und anpassungsfähige Plattform, sondern stärkt auch das Vertrauen der Nutzer.  
   Ein kontinuierlicher Dialog mit der Zielgruppe fördert Innovation und sichert, dass die angebotenen Lösungen stets den wachsenden Anforderungen gerecht werden.  
 
@@ -231,14 +231,58 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ----
 </sup></sub>  
 - ## **Zugänglichkeit & Verfügbarkeit**  
-  auch im Bereich der Kosten möchten wir durch ein transparentes und flexibles Preismodell ermöglichen.   
+  auch im Bereich der Kosten möchten wir durch ein transparentes und **flexibles Preismodell** ermöglichen.   
   Anstatt Abonnements für Lernende einzuführen, ermöglichen wir den Erwerb einzelner Kurse, Fächer oder Disziplinen zu minimalen Kosten.  
   
-  Unser ultimatives Ziel ist es jedoch, Schulen, Hochschulen und Bildungsministerien weltweit zu überzeugen.  
-  Wenn uns das gelingt, wird Bildung zu einem gemeinsamen Anliegen, das von der Gemeinschaft getragen wird.  
+  ***Unser ultimatives Ziel ist es jedoch, Schulen, Hochschulen und Bildungsministerien weltweit zu überzeugen.  
+  Wenn uns das gelingt, wird Bildung zu einem gemeinsamen Anliegen, das von der Gemeinschaft getragen wird.***  
 ---
 
-<!--------------------------------------------------------------------------------------------------------------------------
+<!-------------------------------------------------------------------------------------------------------------------------->
+# **2.)** Potenzielle Risiken & Chancen:
+
+- Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen.  
+    Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein.  
+    Eine kluge und vorausschauende Strategie ist ebenfalls essenziell, um Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
+
+- Da es unser Ziel ist Bildung für jeden, überall gleichmäßig bereitzustellen, werden wir vermutlich auf viele Hürden treffen,
+    wollten wir von Anfang an alle bereits existierenden Angebote und Optionen obsolet machen.
+
+- Deshalb ist es im ersten Stadium der Education Hub Entwicklung essentiell die möglichst einfache Integration aller Lerninhalte in unsere Plattform zu ermöglichen.
+    Um uns als einfache Alternative auf dem Markt zu zeigen.  
+
+- Viele Instanzen haben ein großes monetäres Interesse ihre Lehrkräfte, damit verbundene Forschungen und Prestige nicht öffentlich zugänglich zu machen, da auch hinter dem publizieren, peer-reviewen von Arbeiten ein großer Markt steckt.  
+    Wie auch prominente, renommierte Vortragende ein direktes Interesse darin besitzen, dass ihre Vorträge weiterhin exklusiv bleiben.     
+    Ebenso existiert ein Markt für gekaufte Abschlüsse, Zeugnisse und Titel, die wohl kaum begeistert davon wären, wenn es eine zentrale Instanz gäbe die das Verteilen von genannten Dokumenten erschwert oder sogar verhindert.
+
+- Doch wir sehen dies als Möglichkeit zur Entwicklung einer neuen Ordnung, in denen Führungskräfte unwiderlegbar ihre Kompetenzen darlegen können werden, Plagiatsvorwürfe der Vergangenheit angehören und sich insgesamt die Qualität von Bildung auf einen höheren, globalen Standard heben lässt; welche Implikationen das noch zur Folge haben könnte, wagen wir nur hoffnungsvoll zu vermuten.
+  
+---
+
+<!-------------------------------------------------------------------------------------------------------------------------->
+# **3.)** Finanzierung: 
+
+  Obwohl unser dezidiertes Ziel die Zusammenarbeit mit Hochschulen, Bildungsministerien und Einrichtungen weltweit ist, um in Richtung einer offenen, inklusiven Bildung zu kommen, brauchen wir einen Plan um die Idee ins rollen zu bringen:
+  
+  - Unser Budget-Ansatz unterscheidet sich grundlegend: **Keine Abonnementmodelle für lernende Menschen.**
+      dadurch soll den Nutzern keine Einstiegshürde vom ausprobieren unserer Alternative begegnen und das Benutzen von Education Hub von Anfang an zwanglos ablaufen.
+     
+  - Stattdessen können Einzelkurse, Fächer oder Disziplinen zu einem minimalen Betrag erworben werden, wobei der Zugang zu den Lernunterlagen dauerhaft bleiben soll.
+      Dieser dauerhafte Zugang zu Unterlagen soll den Erhalt von physischen Unterlagen imitieren und als "Catcher" dienen, sowie als äußert praktisch empfunden werden.
+     
+  - Diese Zugangspakete können innerhalb der Community verschenkt oder extern erworben und weitergegeben werden – vergleichbar mit Steam-Guthaben oder -Spielen.
+      dadurch soll die Hürde genommen werden, sich selbst einmal einen Kurs zu kaufen, denn wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
+      Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.
+    
+  - Zusätzlich bieten wir eine innovative Crowdfunding-Möglichkeit an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
+      Diese Mittel fließen in einen Topf, aus dem besonders wichtige Kurse, die jeder besuchen sollte, finanziert werden können.  
+      
+  Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.
+---
+
+<!-------------------------------------------------------------------------------------------------------------------------->
+
+<!--
 # In Isolation funktioniert auch die beste Technik nicht, wir machen Technik für Menschen:  
 
 ## Creator:  
@@ -263,18 +307,6 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
      - und damit 100% Kontrolle über seinen Lernprozess.
    - Referenzen und Statistiken zur öffentlichen Einsicht
    - ...
----
-
-<!--------------------------------------------------------------------------------------------------------------------------
-#  Budget :  
-
-- ❗ ⇒ Wir haben keine Abomodelle für Lernende Menschen;  
-  - Einzelnen Kurse/Fächer/Disziplinen werden jeweils für einen Minimalbetrag erworben, und die Zugriffe auf Lernunterlagen bleiben den Nutzern dadurch erhalten.  
-  - Diese Zugangs-Pakete können sich User der Community auch untereinander schenken, oder extern erworben und weitergeschenkt werden - analog zu Steamguthaben/Steamspielen.  
-  - Mithilfe eines "Crowdfunding" - Topfes, in den User freiwillig spenden können - sollte ihnen unser Angebot gefallen; 
-    > Daraus können wichtige Kurse die jeder besuchen sollte, finanziert werden und vom "Kaufzwang" völlig befreit werden.  
-
-- ❗ ⇒ Wenn es uns gelingt, Hochschulen und Bildungsministerien (global) zu überzeugen, haben wir es geschafft!
 ---
 
 <!--------------------------------------------------------------------------------------------------------------------------
@@ -306,7 +338,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <!--------------------------------------------------------------------------------------------------------------------------
 ##  Chancen und Risiken :  
 
-### Dieser ambitionierte Rahmen bietet sowohl vielversprechende Chancen als auch potenzielle Risiken  
+ 
 ---  
 #### Die Nutzererfahrung im Zentrum der Entwicklung  
    - Die Benutzer sehr früh einzubinden bietet den Vorteil, direkt auf ihre Bedürfnisse eingehen zu können:  
@@ -325,13 +357,3 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
      > - Belohnungen wie 'Abzeichen', 'Titel' und ähnliches; das auf den eigenen Pages präsentiert werden kann als Teil der Motivation
      > <sub>...</sub>
 
-
-<!--------------------------------------------------------------------------------------------------------------------------
-#### Risiken:  
-   - Eine ständige Administration und Weiterentwicklung erfordern nicht nur technische, sondern auch finanzielle Ressourcen.  
-   - Die Balance zwischen Funktionsumfang, Nutzererwartungen und den tatsächlichen Erfolgskennzahlen wird entscheidend sein.  
-   - Eine kluge und vorausschauende Strategie wird daher essenziell sein,  
-     um die Herausforderungen zu bewältigen und die Bildungsplattform zu einem nachhaltigen Erfolg zu führen.
----       
-
- 
