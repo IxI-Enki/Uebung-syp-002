@@ -18,19 +18,8 @@
 >     
 >   | Jan Ritt | @IxI-Enki |
 >   | ---: | :--- |
->   | Daniel Binder | @DBsMOJO |
+>   | ( Daniel Binder | @DBsMOJO ) |
 
 ---
-
-> [!TIP]
-> <details><summary> Anforderungen & Beispiele: </summary>  
->  <sub> Hinweise für das Team </sub>  
->
->  **General Things to Think About:**  [GeneralOverviewOfAProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/GeneralOverviewOfAProposal.pdf)  
->  
->  **Things to Work on:**  [TasksToDoForAProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/TasksToDoForAProposal.pdf)  
->  
->  **Example Proposal:**  [ExampleProposal](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Notes_Project-Proposal/ExampleProposal.pdf)  
-</details>  
 
 
