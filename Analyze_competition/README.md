@@ -36,7 +36,7 @@
 ![LernFortschrittAnzeige](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Analyze_competition/beispiel-lernfortschritt.png)
 </details>
 
---- 
+<!--- 
 # **Beispiele für "süchtig machende Feeds"**:
   > Um junge Menschen von toxischen Seiten weg zu holen, sollten wir mit ähnlichen Mitteln arbeiten
 
