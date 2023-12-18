@@ -12,7 +12,6 @@
 
 ---
 # ***Die Konkurrenz***:  
-[Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md);
 
 ### **Brilliant**:  
 <details>
@@ -35,6 +34,8 @@
 
 ![LernFortschrittAnzeige](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/Analyze_competition/beispiel-lernfortschritt.png)
 </details>
+
+- [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md);
 
 <!--- 
 # **Beispiele für "süchtig machende Feeds"**:
