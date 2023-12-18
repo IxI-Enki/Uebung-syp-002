@@ -11,21 +11,32 @@
 
 # <sup> *Project* </sup> : ***Education Hub***  
 
-### ***Übersicht***
+  ***Der Mensch zeichnet sich schon immer durch seine Neugier aus:***  
+   ***Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.***  
 
-Education Hub soll eine zentrale Lernplattform werden, die sowohl für lernende als auch für lehrende Menschen eine essentielle Anlaufstelle darstellt.
+---
+### **Übersicht:**
 
-   *Der Mensch zeichnet sich schon immer durch seine Neugier aus:  
-   Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*  
+<sub><sup>
+---
+</sup></sub>
+ - #### Education Hub soll **die zentrale Lernplattform** werden, die sowohl für lernende als auch für lehrende Menschen eine essentielle Anlaufstelle darstellt.
 
-- Auf einer einfach zu bedienenden Oberfläche können Nutzer Lerninhalte veröffentlichen, Prüfungsvorbereitungen anbieten, ihre Lernerfolge verfolgen und den weiteren Verlauf ihrer Weiterbildung planen, vorbereiten und im Auge behalten. 
-- Vortragende aller Disziplinen sollen ein sehr einfach zu bedienendes Medium, dass ohne große Vorbereitungen und Vorkenntnissen intuitiv bedient werden kann und so den Weg ins digitale Klassenzimmer vereinfachen. 
+<sub><sup>
+---
+</sup></sub>
+- Auf einer intuitiv zu bedienenden Oberfläche können Nutzer **Lerninhalte veröffentlichen**, **Prüfungsvorbereitungen anbieten**, ihre **Lernerfolge verfolgen** und den weiteren Verlauf ihrer **Weiterbildung planen**, **vorbereiten** und **im Auge behalten**.  
+- Vortragende aller Disziplinen sollen ein sehr einfach zu bedienendes Medium, dass ohne große Vorbereitungen und Vorkenntnissen bedient werden kann, vorfinden. Und ihnen so den Weg ins digitale Klassenzimmer vereinfachen.
+  
+<sub><sup>
+---
+</sup></sub>
+- Zu unseren Zielen gehört es, das Klassenzimmer und den Ablauf des Lernens komplett zu digitalisieren und somit einen einfachen Zugang zu Bildungsangeboten ermöglichen, der von überall aufrufbar sein wird und dessen Erreichbarkeit nicht von unvorhersehbaren Ereignissen abhängen wird.  
 
+- Das größte angestrebte Ziel ist es, auch das Halten von Prüfungen zu digitalisieren und vereinheitlichen;  
+   unter anderem auch um Ausfällen in der Bildung vorzubeugen, wie wir es in der Pandemie beobachten konnten.
 
-- Zu unseren Zielen gehört es, das Klassenzimmer und den Ablauf des Lernens komplett zu digitalisieren und somit einen einfachen Zugang zu Bildungsangeboten zu ermöglichen, der von überall aufrufbar sein wird und dessen Erreichbarkeit nicht von unvorhersehbaren Ereignissen abhängen wird.
-
-- Das größte angestrebte Ziel ist es, auch das Halten von Prüfungen zu digitalisieren und vereinheitlichen, unter anderem auch um Ausfällen in der Bildung vorzubeugen, wie wir es in der Pandemie beobachten konnten.
-
+---
 
 > [!IMPORTANT]
 > **Hier geht es zum** [ ***Proposal*** ](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
@@ -37,5 +48,4 @@ Education Hub soll eine zentrale Lernplattform werden, die sowohl für lernende 
 >   | ( Daniel Binder | @DBsMOJO ) |
 
 ---
-
 
