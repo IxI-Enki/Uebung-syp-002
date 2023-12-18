@@ -12,7 +12,7 @@
 
 ---
 # ***Die Konkurrenz***:  
-[BEISPIELE](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md);
+[Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md);
 
 ### **Brilliant**:  
 <details>
