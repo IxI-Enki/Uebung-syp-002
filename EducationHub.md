@@ -411,7 +411,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-## ***E.) Feedback und Innovationsraum***
+## ***E.) Feedback und Innovationsraum:***
 
 - Kontinuierliches Feedback-System:
   > Unsere Plattform implementiert ein kontinuierliches Feedback-System, das es Benutzern ermöglicht, ihre Erfahrungen und Anregungen unmittelbar zu teilen.
