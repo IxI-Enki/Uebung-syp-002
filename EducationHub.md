@@ -7,18 +7,19 @@
 
 # Ⅰ ) Das Lernen  
 
-##  Der Mensch zeichnet sich schon immer durch seine Neugier aus
+##  Der Mensch zeichnet sich schon immer durch seine Neugier aus  
 
-*Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*   
+   *Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*   
 
 ##  Das Bildungsangebot ist umfangreich geworden, fast unüberschaubar  
 
-In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.
-Dieser "Boom" stellt nicht nur die IT vor Herausforderungen.
-Theoretisch kann zwar jedes Individuum darauf zugreifen, praktisch gibt jedoch noch einige Hürden die überwunden werden sollten;  
-- Ungleichmäßige Verteilung von Zahlungsmitteln  
-- Unterschiedliche Schulen und Schulsystemen  
-- Machthierarchien  
+  In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.  
+  Dieser "Boom" stellt nicht nur die IT vor Herausforderungen.  
+  Theoretisch kann zwar jedes Individuum darauf zugreifen, praktisch gibt es jedoch noch einige Hürden die überwunden werden sollten,    
+  damit ein fairer, offener Zugang für Alle gewährleistet ist:   
+   - **Ungleichmäßige Verteilung von Zahlungsmitteln und Infrastrukturen**    
+   - **Unterschiedliche Schulen und Schulsystemen**  
+   - **Machthierarchien**  
 
 --- 
 <!--======================================================================================================================-->
