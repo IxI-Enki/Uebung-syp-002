@@ -149,20 +149,50 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
   > - Auf Google finden Nutzer - bei nahezu jeder Suchanfrage - erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.  
   > - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
 
+<sub><sup> 
+----
+</sup></sub>  
 ### Videoplattformen (YouTube, TikTok & Co.)  
 - Bieten Content für ein sehr **breites Publikum** an, die unterschiedlichste Interessen haben:      
   > - Firmen & Kunden die verkaufen & kaufen <sub>(wollen)</sub>                                  
   > - Kinder & Kleinkinder  
   > - Benutzer die nur Katzenvideos oder anderen leicht verdaulichen Content konsumieren   
-  > - Menschen die lehren & lernen  
+  > - Menschen die lehren & lernen
+  >
+  > <sub><sup>
+  > ----
+  > </sup></sub>  
+  > - [The Immediate Impact of Different Types of Television on Young Children's Executive Function](https://publications.aap.org/pediatrics/article-abstract/128/4/644/30711/The-Immediate-Impact-of-Different-Types-of?autologincheck=redirected)
+  > - [Youtube Channel blamed for speech delay and tantrums in childen](https://www.kidspot.com.au/lifestyle/entertainment/cocomelon-blamed-for-speech-delay-and-tantrums-in-childen/news-story/b5ac00b4995935b4cc9a52df6d04aa80)
+  > - [How early media exposure may affect cognitive function: A review of results from observations in humans and experiments in mice](https://www.pnas.org/doi/full/10.1073/pnas.1711548115)
 
+<sub><sup> 
+----
+</sup></sub>    
 ### Spezifizierte Suchmaschinen und Foren (Wikipedia & Co.)  
-- Bieten eine Unmenge an Informationen, für dessen Einordnung ein **Grundwissen** oft mehr als nur hilfreich ist.  
+- Bieten eine Unmenge an Informationen, für dessen Einordnung ein **Grundwissen** oft mehr als nur hilfreich ist.
+  > - Werden von einer kleinen Gruppe editiert und legitimiert.  
+  >   
+  > <sub><sup>
+  > ---- 
+  > </sup></sub>
+  > - [Wikipedia co-founder says site is now ‘propaganda’ for left-leaning ‘establishment’](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/)
+  > - [The Decline of Wikipedia](https://www.technologyreview.com/2013/10/22/175674/the-decline-of-wikipedia/)
 
+
+<sub><sup> 
+----
+</sup></sub>  
 ### Soziale Medien (Facebook, Twitter & Co.)  
 - Diese unterliegen ebenfalls politischen als auch wirtschaftlichen Interessen   
-  > - Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.  
-
+  > - Obwohl dieser Umstand bewusst ist, nutzen viele Menschen die Plattformen als Anlaufstelle und referenzieren dort Gelesenes, ohne weiter recherchiert zu haben.
+  >
+  > <sub><sup>
+  > ----
+  > </sup></sub>
+  > - [How Social Media is Reshaping Today’s Education System](https://csic.georgetown.edu/magazine/social-media-reshaping-todays-education-system/)
+  > - [Role of Social Media In Education](https://www.theasianschool.net/blog/role-of-social-media-in-education/)
+  > - [Benefits and Drawbacks of Social Media in Education](https://wcer.wisc.edu/news/detail/benefits-and-drawbacks-of-social-media-in-educati1on)
 --- 
 <!-------------------------------------------------------------------------------------------------------------------------->
 ### ❗ Bildung sollte einfach sein ❗  
@@ -232,12 +262,16 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ## **Zugänglichkeit & Verfügbarkeit**
+- ## [**Zugänglichkeit & Verfügbarkeit**](https://researchwhisperer.org/2017/08/15/patreon/)
   auch im Bereich der Kosten möchten wir durch ein transparentes und **flexibles Preismodell** ermöglichen.   
   Anstatt Abonnements für Lernende einzuführen, ermöglichen wir den Erwerb einzelner Kurse, Fächer oder Disziplinen zu minimalen Kosten.  
   
   ***Unser ultimatives Ziel ist es jedoch, Schulen, Hochschulen und Bildungsministerien weltweit zu überzeugen.  
-  Wenn uns das gelingt, wird Bildung zu einem gemeinsamen Anliegen, das von der Gemeinschaft getragen wird.***  
+  Wenn uns das gelingt, wird Bildung zu einem gemeinsamen Anliegen, das von der Gemeinschaft getragen wird.***
+
+  - Österreich unternimmt bereits Anstrengungen diese Richtung:  
+    - ['Masterplan des Bildungsministeriums'](https://www.bmbwf.gv.at/Themen/schule/zrp/dibi/mp.html)   
+    - [Portal Digitale Schule](https://www.bmbwf.gv.at/Themen/schule/zrp/dibi/pods.html)  
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -253,16 +287,30 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 - Deshalb ist es im ersten Stadium der Education Hub Entwicklung essentiell die möglichst einfache Integration aller Lerninhalte in unsere Plattform zu ermöglichen.
     Um uns als einfache Alternative auf dem Markt zu zeigen.  
 
-- Viele Instanzen haben ein großes monetäres Interesse ihre Lehrkräfte, damit verbundene Forschungen und Prestige nicht öffentlich zugänglich zu machen, da auch hinter dem publizieren, peer-reviewen von Arbeiten ein großer Markt steckt.  
+- Viele Instanzen **¹** haben ein großes monetäres Interesse ihre Lehrkräfte, damit verbundene Forschungen und Prestige nicht öffentlich zugänglich zu machen, da auch hinter dem publizieren, peer-reviewen von Arbeiten ein großer Markt steckt.  
     Wie auch prominente, renommierte Vortragende ein direktes Interesse darin besitzen, dass ihre Vorträge weiterhin exklusiv bleiben.     
-    Ebenso existiert ein Markt für gekaufte Abschlüsse, Zeugnisse und Titel, die wohl kaum begeistert davon wären, wenn es eine zentrale Instanz gäbe die das Verteilen von genannten Dokumenten erschwert oder sogar verhindert.
+    Ebenso existiert ein Markt für gekaufte Abschlüsse, Zeugnisse und Titel **²**, die wohl kaum begeistert davon wären, wenn es eine zentrale Instanz gäbe die das Verteilen von genannten Dokumenten erschwert oder sogar verhindert.
 
 - ***Doch wir sehen dies als Möglichkeit zur Entwicklung einer neuen Ordnung, in denen Führungskräfte unwiderlegbar ihre Kompetenzen darlegen können werden, Plagiatsvorwürfe der Vergangenheit angehören und sich insgesamt die Qualität von Bildung auf einen höheren, globalen Standard heben lässt; welche Implikationen das noch zur Folge haben könnte, wagen wir nur hoffnungsvoll zu vermuten.***
 
-[Studien bezüglich gekauften Abschlüssen und Titel - deren Impact](https://b-irc.org/en/macedonia-flooded-with-forged-brains/) 
-[Etwas ältere Studie zum thema fake degrees](https://www.jstor.org/stable/25511352)
-[Guide on diploma Mills](https://www.cimea.it/Upload/Documenti/Guidelines-on-Diploma-Mills.pdf)
+<sub><sup> 
+----
+</sup></sub>  
 
+  > **¹** )
+  > - [How-do-colleges-make-money](https://www.shmoop.com/college/how-do-colleges-make-money.html)
+  > - [Expenditures of colleges and universities](https://nces.ed.gov/fastfacts/display.asp?id=75)
+  >
+  > **²** )
+  > - [Studien bezüglich gekauften Abschlüssen und Titel - deren Impact](https://b-irc.org/en/macedonia-flooded-with-forged-brains/)  
+  > - [Etwas ältere Studie zum thema fake degrees](https://www.jstor.org/stable/25511352)  
+  > - [Guide on diploma Mills](https://www.cimea.it/Upload/Documenti/Guidelines-on-Diploma-Mills.pdf)
+  > - [Politicians, Fake Degrees and Plagiarism](https://www.insidehighered.com/blogs/world-view/politicians-fake-degrees-and-plagiarism)
+  > 
+  > <sub><sup> 
+  > ----
+  > </sup></sub>  
+  > - [The changing forms and expectations of peer review](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-018-0051-5)
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -292,62 +340,62 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ### In Isolation funktioniert auch die beste Technik nicht - wir entwickeln Technik für Menschen:  
 
-## ***A.) Wie wir Sicherheit im Umgang mit persönlichen Daten gewährleisten wollen:***
+## ***A.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
 
 - Anonymisierung und Pseudonymisierung:   
   > Wir setzen Anonymisierungstechniken ein, um persönliche Daten zu schützen.  
-  > Wir verwenden Pseudonyme oder Kennungen anstelle von Klarnamen, um die Identität der Lernenden zu wahren.  
+  > Weiters werden Pseudonyme oder Kennungen anstelle von Klarnamen verwendet, um die Identität der Lernenden zu wahren.  
 - Einstellungsoptionen für Lernende:  
   > Wir geben unseren Lernenden Kontrolle über ihre Datenschutzeinstellungen.  
   > Sie können wählen, welche Daten geteilt werden und welche privat bleiben sollen.  
 - Transparenz über Datenerhebung: 
   > Wir informieren unsere Lernenden klar und verständlich darüber, welche Daten erfasst werden und zu welchem Zweck.  
-  > Wir klären auf, wie diese Daten verwendet und geschützt werden.  
+  > Und klären auf, wie diese Daten verwendet und geschützt werden.  
 - Zustimmung einholen:  
   > Wir holen die ausdrückliche Zustimmung unserer Lernenden ein, bevor wir persönliche Daten verwenden oder teilen.  
   > Dies kann in Form von Zustimmungsoptionen während des Anmeldevorgangs oder als Einstellungen auf der Plattform erfolgen.  
 - Sicherheitsmaßnahmen implementieren:  
   > Wir sorgen für eine sichere Datenübertragung und -speicherung.  
-  > Wir implementieren Verschlüsselungstechnologien, um sicherzustellen, dass persönliche Daten geschützt sind.  
+  > Durch implementieren von  Verschlüsselungstechnologien, die sicherstellen, dass persönliche Daten geschützt sind.  
 - Begrenzung der Datenerfassung:  
   > Wir erfassen nur die Daten, die für den Lernprozess unbedingt erforderlich sind.  
-  > Wir vermeiden die Sammlung übermäßiger oder unnötiger Informationen.  
+  > Und vermeiden die Sammlung übermäßiger oder unnötiger Informationen.  
 - Datenzugriff beschränken:  
   > Wir gewähren nur autorisierten Personen, wie Lehrern oder Administratoren, Zugriff auf personenbezogene Daten.  
-  > Wir implementieren Zugriffskontrollen und Überwachungsfunktionen, um den unberechtigten Zugriff zu verhindern.  
+  > Zugriffskontrollen und Überwachungsfunktionen werden implementiert, um den unberechtigten Zugriff zu verhindern.  
 - Regelmäßige Überprüfungen und Audits:  
   > Wir führen regelmäßige Datenschutzüberprüfungen und Audits durch, um sicherzustellen, dass unsere Plattform den geltenden Datenschutzbestimmungen entspricht.  
 - Transparenz fördern:  
   > Wir erläutern den Nutzen der Transparenz und Zusammenarbeit auf unserer Plattform.  
-  > Wir klären darüber auf, wie die offene Struktur zur Verbesserung des Lernerlebnisses beiträgt, ohne die Privatsphäre zu gefährden.  
+  > Und klären darüber auf, wie die offene Struktur zur Verbesserung des Lernerlebnisses beiträgt, ohne die Privatsphäre zu gefährden.  
 - Datenschutzrichtlinien klar kommunizieren:  
   > Wir stellen klare Datenschutzrichtlinien bereit und kommunizieren sie deutlich auf unserer Plattform.  
-  > Wir stellen sicher, dass Lernende und Lehrende leicht darauf zugreifen können.  
+  > Weiters tellen wir sicher, dass Lernende und Lehrende leicht darauf zugreifen können.  
 
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 ## ***B.) Integration von Machine Learning:*** (ML)
 
-- ### Adaptive Lernplattformen:  
+- Adaptive Lernplattformen:  
   > Wir nutzen ML, um das Verhalten von Lernenden zu analysieren und daraus Schlüsse zu ziehen, welche Art von Inhalten für einzelne Schüler am effektivsten ist.  
   > Unsere Plattformen passen sich an die individuellen Bedürfnisse an, indem sie automatisch Inhalte vorschlagen, die dem Lernstil und dem Kenntnisstand jedes Schülers entsprechen.  
-- ### Predictive Analytics:
+- Predictive Analytics:
   > Durch die Analyse von Lernhistorien und Verhaltensdaten ermöglichen wir ML, Vorhersagen darüber zu treffen, wie gut ein Lernender in bestimmten Themen abschneiden wird.   
   > Wir informieren Lehrer frühzeitig über potenzielle Schwierigkeiten, um gezielte Unterstützung bieten zu können.  
-- ### Automatisierte Rückmeldung:  
+- Automatisierte Rückmeldung:  
   > ML stellt automatisierte Feedback-Mechanismen bereit, die auf den individuellen Fortschritten und Fehlern der Lernenden basieren.  
   > Dadurch ermöglichen wir sofortiges Feedback, was den Lernprozess effizienter gestaltet.  
-- ### Personalisierte Inhalte:
+- Personalisierte Inhalte:
   > ML kommt bei uns zum Einsatz, um personalisierte Lernmaterialien zu erstellen, die den individuellen Kenntnisstand und die Interessen der Lernenden berücksichtigen.  
   > Das steigert die Relevanz der Inhalte und fördert die Motivation.  
-- ### Frühzeitige Intervention:  
+- Frühzeitige Intervention:  
   > Durch die Überwachung von Verhaltensindikatoren identifizieren wir frühzeitig potenzielle Probleme oder Schwierigkeiten bei einzelnen Schülern mithilfe von ML.  
   > Unsere Lehrer können dann gezielt Unterstützung anbieten, bevor Schwierigkeiten eskalieren.  
-- ### Gamification:  
+- Gamification:  
   > Wir integrieren ML in Gamification-Elemente, um Lernende zu motivieren und herauszufordern.  
   > Die Analyse des Spielverhaltens ermöglicht es unserer Plattform, die Lernerfahrung kontinuierlich zu optimieren.  
-- ### Zeitmanagement:  
+- Zeitmanagement:  
   > ML analysiert bei uns das optimale Zeitmanagement für individuelle Lernende und gibt Empfehlungen für effektive Lernzeiten und Pausen.  
 
 ---
@@ -355,31 +403,31 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ## ***C.) Vorteile die wir uns durch Open Source ermöglichen:***
 
-- ### Kollaborative Innovation:
+- Kollaborative Innovation:
   > Durch Open Source ermöglichen wir eine kollaborative Entwicklung, bei der Entwickler weltweit gemeinsam an der Verbesserung unserer Plattform arbeiten können.
   > Dies fördert eine breite Palette von Ideen und Lösungen.
-- ### Transparenz und Vertrauen:
+- Transparenz und Vertrauen:
   > Open Source gewährleistet Transparenz im Quellcode.
   > Dies schafft Vertrauen bei unseren Nutzern, da sie den Code einsehen und überprüfen können, wie ihre Daten behandelt werden.
-- ### Community-Feedback:
+- Community-Feedback:
   > Die Open-Source-Community bietet wertvolles Feedback.
   > Durch den offenen Austausch können wir schnell auf Anregungen und Bedenken reagieren, um die Plattform kontinuierlich zu verbessern.
-- ### Anpassbarkeit und Flexibilität:
+- Anpassbarkeit und Flexibilität:
   > Open Source ermöglicht uns, die Plattform nach individuellen Bedürfnissen anzupassen.
   > Schulen, Lehrer und Lernende können die Software nach ihren Anforderungen anpassen und erweitern.
-- ### Kostenersparnis:
+- Kostenersparnis:
   > Open Source hilft, Kosten zu reduzieren.
   > Durch die Nutzung vorhandener Open-Source-Technologien und die Zusammenarbeit mit der Community können wir Ressourcen effizienter nutzen.
-- ### Nachhaltigkeit:
+- Nachhaltigkeit:
   > Open Source trägt zur Nachhaltigkeit bei, da die Entwicklung nicht von einem einzigen Unternehmen abhängt.
   > Die Plattform kann auch dann weiterentwickelt werden, wenn eine Organisation ihre Aktivitäten einstellt.
-- ### Datenschutz und Sicherheit:
+- Datenschutz und Sicherheit:
   > Open Source ermöglicht eine kontinuierliche Überprüfung der Sicherheitsaspekte.
   > Durch die Zusammenarbeit mit der Community können Sicherheitslücken schnell identifiziert und behoben werden.
-- ### Interoperabilität:
+- Interoperabilität:
   > Durch den Einsatz von Open Source fördern wir die Interoperabilität.
   > Unsere Plattform kann nahtlos mit anderen Bildungstools und -systemen integriert werden.
-- ### Offene Standards:
+- Offene Standards:
   > Wir setzen auf offene Standards, um sicherzustellen, dass unsere Plattform für eine breite Nutzerbasis zugänglich ist und dass Bildungsinhalte interoperabel und langfristig nutzbar sind.
 
 ---
