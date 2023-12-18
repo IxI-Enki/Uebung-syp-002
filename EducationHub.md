@@ -31,7 +31,7 @@ Ein weiterer Vorteil kann die daraus resultierende **Disziplin** fördernde Stru
 <sub><sup> 
 ----
 </sup></sub>
-Neben diesen Vorteilen des klassischen Präsenzunterrichts, kann er aber auch Nachteile mit sich bringen:
+Neben diesen Vorteilen des klassischen Präsenzunterrichts, kann dies auch Nachteile mit sich bringen:
 
   - Der starre Zeitplan kann für einige Lernende problematisch sein, insbesondere wenn sie mit anderen Verpflichtungen konkurrieren.  
   - Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
