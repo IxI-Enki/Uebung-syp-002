@@ -280,7 +280,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
       dadurch soll die Hürde genommen werden, sich selbst einmal einen Kurs zu kaufen, denn wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
       Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.
     
-  - Zusätzlich bieten wir eine innovative [Crowdfunding-Möglichkeit]((https://press.farm/kickstarter-vs-indiegogo-vs-patreon-crowdfunding-guide/) an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
+  - Zusätzlich bieten wir eine innovative [Crowdfunding-Möglichkeit](https://press.farm/kickstarter-vs-indiegogo-vs-patreon-crowdfunding-guide/) an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
       Diese Mittel fließen in einen Topf, aus dem besonders wichtige Kurse, die jeder besuchen sollte, finanziert werden können.  
       
   Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.
