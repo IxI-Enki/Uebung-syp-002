@@ -7,10 +7,6 @@
 
 # Ⅰ ) Das Lernen  
 
-##  Der Mensch zeichnet sich schon immer durch seine Neugier aus  
-
-   *Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*   
-
 ##  Das Bildungsangebot ist umfangreich geworden, fast unüberschaubar  
 
   In der gesamten Menschheitsgeschichte stand uns noch nie eine so umfangreiche Informationsressource zur Verfügung.  
