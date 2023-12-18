@@ -286,7 +286,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 
 ### In Isolation funktioniert auch die beste Technik nicht - wir entwickeln Technik für Menschen:  
 
-## ***A.) Wie wir Sicherheit im Umgang mit persölichen Daten gewährleisten wollen:***
+## ***A.) Wie wir Sicherheit im Umgang mit persönlichen Daten gewährleisten wollen:***
 
 - Anonymisierung und Pseudonymisierung:   
   > Wir setzen Anonymisierungstechniken ein, um persönliche Daten zu schützen.  
