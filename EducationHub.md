@@ -638,8 +638,15 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <sub><sup> 
 ----
 </sup></sub>  
-- ### 10. Meilenstein: Markteinführung und Verbreitung
-  Offizielle Markteinführung von EducationHub mit gezieltem Marketing, um Schulen, Hochschulen und Bildungsministerien anzusprechen.
+- ### 10. Meilenstein: Markteinführung und Wachstum
+  Gezielte Markteinführung als kostenfreie Alternative zu bestehenden Plattformen.
+  Nutzung von kostengünstigem Marketing wie etwa Social Media etc, um die Reichweite zu erhöhen.
+
+<sub><sup> 
+----
+</sup></sub>  
+- ### 11. Meilenstein: Verbreitung
+  Vorstellung von EducationHub mit gezieltem Marketing, um Schulen, Hochschulen und Bildungsministerien anzusprechen.
   Etablierung von Partnerschaften und Kooperationen.
   Kontinuierliche Überwachung der Plattformnutzung und Anpassung basierend auf Feedback und Nutzerdaten.
 
