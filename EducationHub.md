@@ -29,37 +29,38 @@
 ## **1.)** 'Traditionelles' Akquirieren von Wissen:
 
 Die Methoden im klassischen Präsenzunterricht umfassen **Lehrvorträge, Gruppenaktivitäten, Diskussionen, praktische Übungen** und individuelle Betreuung.  
-Der **Lehrer** spielt eine **zentrale Rolle** bei der Wissensvermittlung, und die direkte Interaktion ermöglicht ein schnelles Feedback.  
+Dabei spielen **Lehrer** eine **zentrale Rolle** bei der Wissensvermittlung, die direkte Interaktion mit diesen ermöglicht ein schnelles Feedback.   
+Ein weiterer Vorteil kann die daraus resultierende **Disziplin** fördernde Struktur sein, die aus dem unmittelbaren Kontakt erwachsen kann.  
 
-Neben den Vorteilen des klassischen Präsenzunterrichts, wie direkter Kontakt von Lehrern und Schülern,  
-der eine unmittelbare Klärung von Fragen ermöglicht und darüber hinaus eine für die **Disziplin** förderliche Struktur sein kann,  
-kann dieser auch Nachteile mit sich bringen:
+<sub><sup> 
+----
+</sup></sub>
+Neben diesen Vorteilen des klassischen Präsenzunterrichts, kann er aber auch Nachteile mit sich bringen:
 
-- Der starre Zeitplan kann für einige Lernende problematisch sein, insbesondere wenn sie mit anderen Verpflichtungen konkurrieren.  
-- Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
-- Geografische Distanzen können den Zugang zu Bildung behindern, und der traditionelle Unterricht berücksichtigt möglicherweise nicht ausreichend verschiedene Lernstile.  
+  - Der starre Zeitplan kann für einige Lernende problematisch sein, insbesondere wenn sie mit anderen Verpflichtungen konkurrieren.  
+  - Zudem können große Klassenräume und begrenzte Lehrmittel die individuelle Betreuung einschränken. 
+  - Geografische Distanzen können den Zugang zu Bildung behindern, und der traditionelle Unterricht berücksichtigt möglicherweise nicht ausreichend verschiedene Lernstile.  
 
-Vielen **Schulen fehlt die digitale Kompetenz** um am Puls der Zeit zu bleiben, oder Alternativen wie z.B. 'Home-Learning' effektiv und einfach anzubieten.  
+  Vielen **Schulen & Lehrkräften fehlt des weiteren die digitale Kompetenz** um am Puls der Zeit zu bleiben, oder Alternativen wie z.B: 'Home-Learning' effektiv und einfach anzubieten.  
 
-Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnahmefällen wie z.B. Pandemien (unter seltenen Umständen) online absolviert werden,  
-dabei entscheiden alle Schulen individuell wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
+  Prüfungen können nur mit Anwesenheit im Klassenzimmer, oder in Ausnahmefällen wie z.B: Pandemien (seltenen) online absolviert werden, dabei entscheiden alle Schulen individuell wie sie vorgehen und selbst von Lehrkraft zu Lehrkraft unterscheiden sich die dann gewählten Methoden oft drastisch.  
 
 --- 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 ## **2.)** Den Lernprozess unterstützende Plattformen:  
 
-Digitale Lernplattformen bieten somit eine vielfältige Palette an Möglichkeiten, um Bildung und **Wissen auf innovative Weise zu vermitteln**.  
-Viele nützen daher Plattformen die den traditionellen Unterricht unterstützen, Lerninhalte bereitstellen und individuellen Fortschritten angepasst werden können.  
+Digitale Lernplattformen bieten eine vielfältige Palette an Möglichkeiten, um Bildung und **Wissen auf innovative Weise zu vermitteln**.  
+Viele nützen daher Plattformen um den traditionellen Unterricht zu unterstützen, Lerninhalte bereitzustellen und individuelle Lernfortschritte im Auge zu behalten.  
 
 Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesungen** über **interaktive Übungen** bis hin zu **Gamification-Elementen**.  
-**Adaptive Lernsysteme** passen sich **individuellen Fortschritten** an und bieten personalisierte Inhalte.  
+ **Adaptive Lernsysteme** passen sich **individuellen Fortschritten** an und bieten personalisierte Inhalte.  
 
 - In Österreich sind die verbreitetsten Plattformen zu diesem Zweck:  
   > - Moodle
   > - Edutube
   > - Kahoot!
-  > - Lernplattform der Universitäten (z.B., u:find)
+  > - Lernplattformen der Universitäten (z.B: u:find)
 
 <sub><sup> 
 ----
@@ -113,7 +114,7 @@ Die Methoden dieser digitalen Lernplattformen reichen von klassischen **Vorlesun
 ----
 </sup></sub>
 <!--......................................................................................................................-->
-- ### Lernplattform der Universitäten (z.B., [u:find](https://ssc-phil.univie.ac.at/lehre/vorlesungsverzeichnis-ufind/))  
+- ### Lernplattform der Universitäten (z.B:, [u:find](https://ssc-phil.univie.ac.at/lehre/vorlesungsverzeichnis-ufind/))  
   - **Vorteile**:  
     >    Viele Universitäten in Österreich verwenden eigene Lernplattformen wie u:find   
     >    Diese Plattformen sind oft auf die spezifischen Bedürfnisse der jeweiligen Bildungseinrichtung zugeschnitten   
@@ -144,11 +145,15 @@ Ihre Anwendung reicht von der Vermittlung von akademischen Fähigkeiten über be
 ## **3.)**  Weitere wichtige Anlaufstellen, ohne direkte Bildungsabsicht:  
 
 ### Traditionelle Suchmaschinen (Google & Co.)   
- [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)
    
 - Müssen aus **wirtschaftlichem Interesse** Firmen & deren Kunden befriedigen - **Filtern** und präsentieren ihre Ergebnisse dem entsprechend.  
   > - Auf Google finden Nutzer - bei nahezu jeder Suchanfrage - erst Ergebnisse, die als "Anzeige" gekennzeichnet sind.  
-  > - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen. 
+  > - Hat man diese Werbungen erfolgreich übersprungen, wird man auf Seiten von Drittanbieter weitergeleitet, oft mit lästigen Cookierichtlinien oder Zugriffseinschränkungen.
+  >
+  > <sub><sup> 
+  > ----
+  > </sup></sub>
+  > [Beispiele für Google Ergebnisse](https://github.com/IxI-Enki/education-hub/blob/main/Analyze_competition/Beispiele.md)
 
 <sub><sup> 
 ----
@@ -317,20 +322,20 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 <!-------------------------------------------------------------------------------------------------------------------------->
 # **3.)** Finanzierung: 
 
-  Obwohl unser dezidiertes Ziel die Zusammenarbeit mit Hochschulen, Bildungsministerien und Einrichtungen weltweit ist, um in Richtung einer offenen, inklusiven Bildung zu kommen, brauchen wir einen Plan um die Idee ins rollen zu bringen:
+  Obwohl unser dezidiertes Ziel die **Zusammenarbeit mit Hochschulen, Bildungsministerien und Einrichtungen weltweit** ist, um in Richtung einer offenen, inklusiven Bildung zu kommen, brauchen wir einen **Plan um die Idee ins rollen zu bringen**:
   
   - Unser Budget-Ansatz unterscheidet sich grundlegend: **Keine Abonnementmodelle für lernende Menschen.**
       dadurch soll den Nutzern keine Einstiegshürde vom ausprobieren unserer Alternative begegnen und das Benutzen von Education Hub von Anfang an zwanglos ablaufen.
      
-  - Stattdessen können Einzelkurse, Fächer oder Disziplinen zu einem minimalen Betrag erworben werden, wobei der Zugang zu den Lernunterlagen dauerhaft bleiben soll.
+  - Stattdessen können **Einzelkurse, Fächer oder Disziplinen** zu einem **minimalen Betrag** erworben werden, wobei der **Zugang zu den Lernunterlagen dauerhaft** bleiben soll.
       Dieser dauerhafte Zugang zu Unterlagen soll den Erhalt von physischen Unterlagen imitieren und als "Catcher" dienen, sowie als äußert praktisch empfunden werden.
      
-  - Diese Zugangspakete können innerhalb der Community verschenkt oder extern erworben und weitergegeben werden – vergleichbar mit Steam-Guthaben oder -Spielen.
-      dadurch soll die Hürde genommen werden, sich selbst einmal einen Kurs zu kaufen, denn wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
+  - Diese **Zugangspakete können** innerhalb der Community **verschenkt oder extern erworben und weitergegeben werden** – vergleichbar mit Steam-Guthaben oder -Spielen.
+      dadurch soll die Hürde genommen werden sich selbst einen Kurs zu kaufen, und  wenn man ihn schon geschenkt bekommt, wieso sollte man dann nicht hinein schnuppern.
       Weiters kann dies als Anreiz oder Geschenkidee vermarktet werden.
     
   - Zusätzlich bieten wir eine innovative [Crowdfunding-Möglichkeit](https://press.farm/kickstarter-vs-indiegogo-vs-patreon-crowdfunding-guide/) an, bei der Nutzer freiwillige Spenden tätigen können, wenn ihnen unser Angebot gefällt.  
-      Diese Mittel fließen in einen Topf, aus dem besonders wichtige Kurse, die jeder besuchen sollte, finanziert werden können.  
+      Diese Mittel fließen in einen Topf, aus dem **besonders wichtige Kurse**, die jeder besuchen sollte, finanziert werden können.  
       
   Dadurch entfallen jegliche Zwangszahlungen, und der Zugang zu Bildung wird für alle erleichtert.
 ---
@@ -340,6 +345,37 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 #  Ⅳ ) Die Details  
 
 ### In Isolation funktioniert auch die beste Technik nicht - wir entwickeln Technik für Menschen:  
+
+## ***A.) [Vorteile die wir uns durch Open Source ermöglichen](https://opensource.com/resources/what-open-source):***
+
+- **Kollaborative Innovation**:
+  > Durch Open Source ermöglichen wir eine kollaborative Entwicklung, bei der Entwickler weltweit gemeinsam an der Verbesserung unserer Plattform arbeiten können.
+  > Dies fördert eine breite Palette von Ideen und Lösungen.
+- **Transparenz und Vertrauen**:
+  > Open Source gewährleistet Transparenz im Quellcode.
+  > Dies schafft Vertrauen bei unseren Nutzern, da sie den Code einsehen und überprüfen können, wie ihre Daten behandelt werden.
+- **Community-Feedback**:
+  > Die Open-Source-Community bietet wertvolles Feedback.
+  > Durch den offenen Austausch können wir schnell auf Anregungen und Bedenken reagieren, um die Plattform kontinuierlich zu verbessern.
+- **Anpassbarkeit und Flexibilität**:
+  > Open Source ermöglicht uns, die Plattform nach individuellen Bedürfnissen anzupassen.
+  > Schulen, Lehrer und Lernende können die Software nach ihren Anforderungen anpassen und erweitern.
+- **Kostenersparnis**:
+  > Open Source hilft, Kosten zu reduzieren.
+  > Durch die Nutzung vorhandener Open-Source-Technologien und die Zusammenarbeit mit der Community können wir Ressourcen effizienter nutzen.
+- **Nachhaltigkeit**:
+  > Open Source trägt zur Nachhaltigkeit bei, da die Entwicklung nicht von einem einzigen Unternehmen abhängt.
+  > Die Plattform kann auch dann weiterentwickelt werden, wenn eine Organisation ihre Aktivitäten einstellt.
+- **Datenschutz und Sicherheit**:
+  > Open Source ermöglicht eine kontinuierliche Überprüfung der Sicherheitsaspekte.
+  > Durch die Zusammenarbeit mit der Community können Sicherheitslücken schnell identifiziert und behoben werden.
+- **Interoperabilität**:
+  > Unsere Plattform kann nahtlos mit anderen Bildungstools und -systemen integriert werden.
+- [**Offene Standards**:](https://www.oasis-open.org/standards/)
+  > Wir setzen auf offene Standards, um sicherzustellen, dass unsere Plattform für eine breite Nutzerbasis zugänglich ist und dass Bildungsinhalte interoperabel und langfristig nutzbar sind.
+
+---
+
 
 ## ***A.) Wie wir [Sicherheit im Umgang mit persönlichen Daten](https://www.dsb.gv.at/recht-entscheidungen/gesetze-in-oesterreich.html) gewährleisten wollen:***
 
@@ -402,36 +438,7 @@ Doch diese Fülle an Angeboten macht es Nutzer nicht leicht, eine Wahl zu treffe
 ---
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-## ***C.) Vorteile die wir uns durch Open Source ermöglichen:***
 
-- Kollaborative Innovation:
-  > Durch Open Source ermöglichen wir eine kollaborative Entwicklung, bei der Entwickler weltweit gemeinsam an der Verbesserung unserer Plattform arbeiten können.
-  > Dies fördert eine breite Palette von Ideen und Lösungen.
-- Transparenz und Vertrauen:
-  > Open Source gewährleistet Transparenz im Quellcode.
-  > Dies schafft Vertrauen bei unseren Nutzern, da sie den Code einsehen und überprüfen können, wie ihre Daten behandelt werden.
-- Community-Feedback:
-  > Die Open-Source-Community bietet wertvolles Feedback.
-  > Durch den offenen Austausch können wir schnell auf Anregungen und Bedenken reagieren, um die Plattform kontinuierlich zu verbessern.
-- Anpassbarkeit und Flexibilität:
-  > Open Source ermöglicht uns, die Plattform nach individuellen Bedürfnissen anzupassen.
-  > Schulen, Lehrer und Lernende können die Software nach ihren Anforderungen anpassen und erweitern.
-- Kostenersparnis:
-  > Open Source hilft, Kosten zu reduzieren.
-  > Durch die Nutzung vorhandener Open-Source-Technologien und die Zusammenarbeit mit der Community können wir Ressourcen effizienter nutzen.
-- Nachhaltigkeit:
-  > Open Source trägt zur Nachhaltigkeit bei, da die Entwicklung nicht von einem einzigen Unternehmen abhängt.
-  > Die Plattform kann auch dann weiterentwickelt werden, wenn eine Organisation ihre Aktivitäten einstellt.
-- Datenschutz und Sicherheit:
-  > Open Source ermöglicht eine kontinuierliche Überprüfung der Sicherheitsaspekte.
-  > Durch die Zusammenarbeit mit der Community können Sicherheitslücken schnell identifiziert und behoben werden.
-- Interoperabilität:
-  > Durch den Einsatz von Open Source fördern wir die Interoperabilität.
-  > Unsere Plattform kann nahtlos mit anderen Bildungstools und -systemen integriert werden.
-- Offene Standards:
-  > Wir setzen auf offene Standards, um sicherzustellen, dass unsere Plattform für eine breite Nutzerbasis zugänglich ist und dass Bildungsinhalte interoperabel und langfristig nutzbar sind.
-
----
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 ## ***D.) Designentscheidungen:***
