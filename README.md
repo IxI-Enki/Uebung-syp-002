@@ -15,8 +15,8 @@
 
 Education Hub soll eine zentrale Lernplattform werden, die sowohl für lernende als auch für lehrende Menschen eine essentielle Anlaufstelle darstellt.
 
-   *Der Mensch zeichnet sich schon immer durch seine Neugier aus:
-   Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*
+   *Der Mensch zeichnet sich schon immer durch seine Neugier aus:  
+   Wir streben danach die Welt um uns zu begreifen, nicht zuletzt um unseren Platz darin zu finden.*  
 
 - Auf einer einfach zu bedienenden Oberfläche können Nutzer Lerninhalte veröffentlichen, Prüfungsvorbereitungen anbieten, ihre Lernerfolge verfolgen und den weiteren Verlauf ihrer Weiterbildung planen, vorbereiten und im Auge behalten. 
 - Vortragende aller Disziplinen sollen ein sehr einfach zu bedienendes Medium, dass ohne große Vorbereitungen und Vorkenntnissen intuitiv bedient werden kann und so den Weg ins digitale Klassenzimmer vereinfachen. 
