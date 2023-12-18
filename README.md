@@ -33,7 +33,7 @@
 </sup></sub>
 - Zu unseren Zielen gehört es, das Klassenzimmer und den Ablauf des Lernens komplett zu digitalisieren und somit einen einfachen Zugang zu Bildungsangeboten ermöglichen, der von überall aufrufbar sein wird und dessen Erreichbarkeit nicht von unvorhersehbaren Ereignissen abhängen wird.  
 
-- Das größte angestrebte Ziel ist es, auch das Halten von Prüfungen zu digitalisieren und vereinheitlichen;  
+- Das größte angestrebte Ziel ist es, auch das Halten und Ablegen von Prüfungen zu digitalisieren und zu vereinheitlichen;  
    unter anderem auch um Ausfällen in der Bildung vorzubeugen, wie wir es in der Pandemie beobachten konnten.
 
 ---
