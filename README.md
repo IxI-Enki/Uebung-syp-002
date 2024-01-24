@@ -42,7 +42,7 @@
 
 > [!IMPORTANT]
 > **Hier geht es zum** [ ***Proposal*** ](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
->
+> **Hier geht es zu den Usecases** [Usecases](https://github.com/IxI-Enki/education-hub/blob/main/Notes_Project-Proposal/eduHub_HELL.jpg)  
 > #### **Collaborators:**  
 >     
 >   | Jan Ritt | @IxI-Enki |
