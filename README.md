@@ -38,6 +38,8 @@
 
 ---
 
+
+
 > [!IMPORTANT]
 > **Hier geht es zum** [ ***Proposal*** ](https://github.com/IxI-Enki/Uebung-syp-002/blob/main/EducationHub.md)  
 >
@@ -45,7 +47,6 @@
 >     
 >   | Jan Ritt | @IxI-Enki |
 >   | ---: | :--- |
->   | ( Daniel Binder | @DBsMOJO ) |
 
 ---
 
